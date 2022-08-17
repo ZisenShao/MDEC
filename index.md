@@ -32,49 +32,49 @@ TBA :calendar:
 
 <figure>
     <a href="https://www.surrey.ac.uk/people/jaime-spencer-martin"> 
-    <img class="author" src="assets/imgs/jaime_spencer.jpg"/></a>
+    <img class="author" src="assets/imgs/jaime_spencer.jpg" alt=""/></a>
     <b><br><a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">Jaime Spencer</a>
     <br>Research Fellow <br>University of Surrey</b>
 </figure>
 
 <figure> 
     <a href="https://research.aston.ac.uk/en/persons/stella-qian"> 
-    <img class="author" src="assets/imgs/stella_qian.webp"/></a>
-    <b><br><a href="https://research.aston.ac.uk/en/persons/stella-qianste">Stella Qian</a>
+    <img class="author" src="assets/imgs/stella_qian.webp" alt=""/></a>
+    <b><br><a href="https://research.aston.ac.uk/en/persons/stella-qian">Stella Qian</a>
     <br>Research Fellow <br>Aston University</b>
 </figure>
 
 <figure> 
     <a href="https://www.amazon.science/author/chris-russell?0000016e-4318-de2e-a76e-cfdfa9700000-page=2"> 
-    <img class="author" src="assets/imgs/chris_russell.jpeg"/></a>
+    <img class="author" src="assets/imgs/chris_russell.jpeg" alt=""/></a>
     <b><br><a href="https://www.amazon.science/author/chris-russell?0000016e-4318-de2e-a76e-cfdfa9700000-page=2">Chris Russell</a>
     <br>Senior Applied Scientist <br>Amazon</b>
 </figure>
 
 <figure> 
     <a href="http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/biography.html"> 
-    <img class="author" src="assets/imgs/simon_hadfield.webp"/></a>
+    <img class="author" src="assets/imgs/simon_hadfield.webp" alt=""/></a>
     <b><br><a href="http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/biography.html">Simon Hadfield</a>
     <br>Senior Lecturer <br>University of Surrey</b>
 </figure>
 
 <figure> 
     <a href="https://www.southampton.ac.uk/people/5wzxpy/doctor-erich-graf"> 
-    <img class="author" src="assets/imgs/erich_graf.jpeg"/></a>
+    <img class="author" src="assets/imgs/erich_graf.jpeg" alt=""/></a>
     <b><br><a href="https://www.southampton.ac.uk/people/5wzxpy/doctor-erich-graf">Erich Graf</a>
     <br>Associate Professor <br>University of Southampton</b>
 </figure>
 
 <figure> 
     <a href="https://research.aston.ac.uk/en/persons/andrew-schofield"> 
-    <img class="author" src="assets/imgs/andrew_schofield.webp"/></a>
+    <img class="author" src="assets/imgs/andrew_schofield.webp" alt=""/></a>
     <b><br><a href="https://research.aston.ac.uk/en/persons/andrew-schofield">Andrew Schofield</a>
     <br>Professor <br>Aston University</b>
 </figure>
 
 <figure class="figblock"> 
     <a href="http://personal.ee.surrey.ac.uk/Personal/R.Bowden/"> 
-    <img class="author" src="assets/imgs/richard_bowden.webp"/></a>
+    <img class="author" src="assets/imgs/richard_bowden.webp" alt=""/></a>
     <b><br><a href="http://personal.ee.surrey.ac.uk/Personal/R.Bowden/">Richard Bowden</a>
     <br>Professor <br>University of Surrey</b>
 </figure>
