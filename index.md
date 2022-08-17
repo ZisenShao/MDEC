@@ -39,7 +39,7 @@ TBA :calendar:
 
 <figure> 
     <a href="https://research.aston.ac.uk/en/persons/stella-qian"> 
-    <img class="author" src="assets/imgs/stella_qian.webp" alt="Stella Quian"/></a>
+    <img class="author" src="assets/imgs/stella_qian.png" alt="Stella Quian"/></a>
     <b><br><a href="https://research.aston.ac.uk/en/persons/stella-qian">Stella Qian</a>
     <br>Research Fellow <br>Aston University</b>
 </figure>
@@ -53,7 +53,7 @@ TBA :calendar:
 
 <figure> 
     <a href="http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/biography.html"> 
-    <img class="author" src="assets/imgs/simon_hadfield.webp" alt="Simon Hadfield"/></a>
+    <img class="author" src="assets/imgs/simon_hadfield.png" alt="Simon Hadfield"/></a>
     <b><br><a href="http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/biography.html">Simon Hadfield</a>
     <br>Senior Lecturer <br>University of Surrey</b>
 </figure>
@@ -67,14 +67,14 @@ TBA :calendar:
 
 <figure> 
     <a href="https://research.aston.ac.uk/en/persons/andrew-schofield"> 
-    <img class="author" src="assets/imgs/andrew_schofield.webp" alt="Andrew Schofield"/></a>
+    <img class="author" src="assets/imgs/andrew_schofield.png" alt="Andrew Schofield"/></a>
     <b><br><a href="https://research.aston.ac.uk/en/persons/andrew-schofield">Andrew Schofield</a>
     <br>Professor <br>Aston University</b>
 </figure>
 
 <figure class="figblock"> 
     <a href="http://personal.ee.surrey.ac.uk/Personal/R.Bowden/"> 
-    <img class="author" src="assets/imgs/richard_bowden.webp" alt="Richard Bowden"/></a>
+    <img class="author" src="assets/imgs/richard_bowden.png" alt="Richard Bowden"/></a>
     <b><br><a href="http://personal.ee.surrey.ac.uk/Personal/R.Bowden/">Richard Bowden</a>
     <br>Professor <br>University of Surrey</b>
 </figure>
