@@ -30,12 +30,17 @@ TBA :calendar:
 
 ## Organizers
 
-<figure>
-    <a href="https://www.surrey.ac.uk/people/jaime-spencer-martin"> 
-    <img class="author" src="assets/imgs/jaime_spencer.jpg" alt="Jaime Spencer"/></a>
-    <b><br><a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">Jaime Spencer</a>
-    <br>Research Fellow <br>University of Surrey</b>
-</figure>
+[//]: # (<figure>)
+
+[//]: # (    <a href="https://www.surrey.ac.uk/people/jaime-spencer-martin"> )
+
+[//]: # (    <img class="author" src="assets/imgs/jaime_spencer.jpg" alt="Jaime Spencer"/></a>)
+
+[//]: # (    <b><br><a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">Jaime Spencer</a>)
+
+[//]: # (    <br>Research Fellow <br>University of Surrey</b>)
+
+[//]: # (</figure>)
 
 [//]: # (<figure> )
 
