@@ -33,4 +33,4 @@ Add organizer bios.
 ---
 
 ## News
-Add any updates.
+| 17 Aug 2022 | Website is live! :tada: |

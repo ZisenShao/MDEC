@@ -3,3 +3,6 @@ description: MDEC @ WACV 2023
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+plugins:
+  - jemoji
