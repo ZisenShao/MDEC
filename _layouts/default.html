@@ -11,6 +11,8 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+
+    <base target="_blank" rel="noopener noreferrer">
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -26,19 +28,18 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
 
-        <a href="#dates" class="btn">Dates</a>
-        <a href="#challenge" class="btn">Challenge</a>
-        <a href="#speakers" class="btn">Speakers</a>
-        <a href="#schedule" class="btn">Schedule</a>
-        <a href="#organizers" class="btn">Organizers</a>
-        <a href="#news" class="btn">News</a>
+        <a href="#dates" class="btn" target="_self">Dates</a>
+        <a href="#challenge" class="btn" target="_self">Challenge</a>
+        <a href="#keynote-speakers" class="btn" target="_self">Keynote Speakers</a>
+        <a href="#schedule" class="btn" target="_self">Schedule</a>
+        <a href="#organizers" class="btn" target="_self">Organizers</a>
+        <a href="#news" class="btn" target="_self">News</a>
     </header>
 
 <!--    <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>-->
     <script src="assets/js/vanilla-back-to-top.min.js"></script>
     <script>addBackToTop({
       diameter: 56,
-      // backgroundColor: 'rgb(20 147 92)',
       backgroundColor: '#4196ff',
       textColor: '#fff'
     })</script>

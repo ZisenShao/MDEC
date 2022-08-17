@@ -7,7 +7,46 @@
 
 $header-bg-color: #4196ff;
 $header-bg-color-secondary: #ff0805;
-$section-headings-color: #4196ff;
-
+$section-headings-color: #4244aa;
 
 @import 'jekyll-theme-cayman';
+
+figure {
+    display: inline-block;
+    //border: 1px dotted gray;
+    margin: 37px; /* adjust as needed - probably bad idea*/
+    text-align: center;
+    font-size: small;
+}
+
+.figblock{
+  display: block;
+  //border: 1px dotted gray;
+  //margin: 20px; /* adjust as needed */
+  text-align: center;
+  font-size: small;
+}
+
+figure img {
+    vertical-align: top;
+}
+
+figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
+    font-size: small ;
+}
+
+.author{
+  width:200px;
+  height:200px;
+  object-fit:cover;
+  border-radius:50%;
+  border:3px solid $section-headings-color;
+  object-position: center;
+}
+
+a {
+  color: $section-headings-color;
+  display: inline-block;
+}
