@@ -4,7 +4,13 @@ layout: default
 
 Welcome to the **Monocular Depth Estimation Challenge Workshop** organized at [WACV2023](https://wacv2023.thecvf.com)!
 
-## Dates
+
+## :newspaper: News {#news}
+- **17 Aug 2022 ---** :tada: Website is live! :tada:
+
+---
+
+## :hourglass_flowing_sand: Important Dates {#dates}
 - **TBA ---** Challenge is open
 - **TBA ---** Leaderboard closes
 - **TBA ---** Method details submission
@@ -13,22 +19,22 @@ Welcome to the **Monocular Depth Estimation Challenge Workshop** organized at [W
 
 ---
 
-## Challenge
-TBA :calendar:
+## :trophy: Challenge {#challenge}
+TBA
 
 ---
 
-## Keynote Speakers
-TBA :calendar:
+## :microphone: Keynote Speakers {#speakers}
+TBA
 
 ---
 
-## Schedule
-TBA :calendar:
+## :calendar: Schedule {#schedule}
+TBA
 
 ---
 
-## Organizers
+## :construction_worker: Organizers {#organizers}
 
 <figure>
     <a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">
@@ -78,8 +84,3 @@ TBA :calendar:
     <b><br><a href="http://personal.ee.surrey.ac.uk/Personal/R.Bowden/">Richard Bowden</a>
     <br>Professor <br>University of Surrey</b>
 </figure>
-
----
-
-## News
-- **17 Aug 2022 ---** :tada: Website is live! :tada:
