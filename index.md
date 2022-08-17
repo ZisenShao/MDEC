@@ -37,18 +37,19 @@ TBA :calendar:
     <br>Research Fellow <br>University of Surrey</b>
 </figure>
 
-<figure> 
-    <a href="https://research.aston.ac.uk/en/persons/stella-qian"> 
-    <img class="author" src="assets/imgs/stella_qian.png" alt="Stella Quian"/></a>
-    <b><br><a href="https://research.aston.ac.uk/en/persons/stella-qian">Stella Qian</a>
-    <br>Research Fellow <br>Aston University</b>
-</figure>
 
 <figure> 
     <a href="https://www.amazon.science/author/chris-russell?0000016e-4318-de2e-a76e-cfdfa9700000-page=2"> 
     <img class="author" src="assets/imgs/chris_russell.jpeg" alt="Chris Russell"/></a>
     <b><br><a href="https://www.amazon.science/author/chris-russell?0000016e-4318-de2e-a76e-cfdfa9700000-page=2">Chris Russell</a>
     <br>Senior Applied Scientist <br>Amazon</b>
+</figure>
+
+<figure> 
+    <a href="https://research.aston.ac.uk/en/persons/stella-qian"> 
+    <img class="author" src="assets/imgs/stella_qian.png" alt="Stella Quian"/></a>
+    <b><br><a href="https://research.aston.ac.uk/en/persons/stella-qian">Stella Qian</a>
+    <br>Research Fellow <br>Aston University</b>
 </figure>
 
 <figure> 
