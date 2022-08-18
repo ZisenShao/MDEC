@@ -20,17 +20,25 @@ Welcome to the **Monocular Depth Estimation Challenge Workshop** organized at [W
 ---
 
 ## :trophy: Challenge {#challenge}
-TBA
+**TBA**
 
 ---
 
 ## :microphone: Keynote Speakers {#speakers}
-TBA
+
+<figure>
+    <a href="https://www.elderlab.yorku.ca/jelder/">
+    <img class="author" src="assets/imgs/james_elder.jpg" alt="James Elder"/></a>
+    <b><br><a href="https://www.elderlab.yorku.ca/jelder/">James Elder</a>
+    <br>Professor <br>York University</b>
+</figure>
+
+**TBA**
 
 ---
 
 ## :calendar: Schedule {#schedule}
-TBA
+**TBA**
 
 ---
 
