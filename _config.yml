@@ -7,8 +7,8 @@ markdown: kramdown
 
 # Remove `View on GitHub` & Download buttons
 show_downloads: false
-github:
-  is_project_page: false
+#github:
+#  is_project_page: false
 
 plugins:
   - jemoji
