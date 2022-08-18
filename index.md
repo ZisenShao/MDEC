@@ -41,6 +41,10 @@ using the [**SYNS dataset**](https://syns.soton.ac.uk).
 ---
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
+
+> ***WARNING:** These dates are tentative.
+> They may change once the challenge is open.*
+
 - **TBA ---** Challenge Submission **Opens**
 - **10 Nov 2022 ---** Challenge Submission **Closes**
 - **12 Nov 2022 ---** Method Description Submission
@@ -50,6 +54,9 @@ using the [**SYNS dataset**](https://syns.soton.ac.uk).
 ---
 
 ## :trophy: **Challenge** {#challenge}
+
+> ***NOTE:** Final details TBA.*
+
 The challenge will focus on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
 This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices and more. 
 Furthermore, the high-quality dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [**depth discontinuities**](https://arxiv.org/abs/1805.01328v1). 
@@ -86,6 +93,8 @@ Top performers will additionally be invited to present their method <a href="#sc
 
 ## :microphone: **Keynote Speakers** {#speakers}
 
+> ***NOTE:** More speakers TBA!*
+
 <div class="container">
 <figure>
     <a href="https://www.elderlab.yorku.ca/jelder/">
@@ -94,8 +103,6 @@ Top performers will additionally be invited to present their method <a href="#sc
     <br>Professor <br>York University</b>
 </figure>
 </div>
-
-**More speakers TBA!**
 
 ---
 
