@@ -2,7 +2,11 @@
 layout: default
 ---
 
-:wave: Welcome to the **Monocular Depth Estimation Challenge Workshop** organized at [**WACV2023**](https://wacv2023.thecvf.com)! :wave:
+[//]: # (:wave: Welcome to the **Monocular Depth Estimation Challenge Workshop** organized at [**WACV2023**]&#40;https://wacv2023.thecvf.com&#41;! :wave:)
+
+[//]: # ({: .text-center})
+
+:wave: Welcome to the **Monocular Depth Estimation Challenge Workshop** organized at :wave: [<img class="rounded-rect" src="assets/imgs/wacv.png" height="70px" alt="wacv"/>](https://wacv2023.thecvf.com) 
 {: .text-center}
 
 <div class="container">
