@@ -60,6 +60,12 @@ using the [**SYNS dataset**](https://syns.soton.ac.uk).
 ## :trophy: **Challenge** {#challenge}
 
 > ***NOTE:** Final details TBA.*
+ 
+**Teams submitting to the challenge will also be required to submit a description of their method (max 250 words).
+As part of the WACV Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method. 
+All challenge participants surpassing the performance of the TBD baseline will be added as authors in this paper.
+Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
+This presentation can be either in-person or virtually.**
 
 The challenge will focus on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
 This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices and more. 
@@ -86,12 +92,7 @@ Submissions will be evaluated on a variety of metrics:
 2. [**Pointcloud reconstruction**](https://arxiv.org/abs/2203.08122): F-Score, Chamfer distance, IoU
 3. [**Depth discontinuities**](https://arxiv.org/abs/1805.01328v1): F-Score, Accuracy, Completeness
 
-Challenge winners will be determined based on the **pointcloud-/edge-based F-Score** performance. 
-
-**Teams submitting to the challenge will also be required to submit a description of their method (max 250 words).
-As part of the WACV Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method. 
-All challenge participants surpassing the performance of the TBD baseline will be added as authors in this paper.
-Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.**
+Challenge winners will be determined based on the **pointcloud-/edge-based F-Score** performance.
 
 ---
 
