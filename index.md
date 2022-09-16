@@ -2,10 +2,6 @@
 layout: default
 ---
 
-[//]: # (:wave: Welcome to the **Monocular Depth Estimation Challenge Workshop** organized at [**WACV2023**]&#40;https://wacv2023.thecvf.com&#41;! :wave:)
-
-[//]: # ({: .text-center})
-
 :wave: Welcome to the **Monocular Depth Estimation Challenge Workshop** organized at :wave: [<img class="rounded-rect" src="assets/imgs/wacv.png" height="70px" alt="wacv"/>](https://wacv2023.thecvf.com) 
 {: .text-center}
 
@@ -35,9 +31,6 @@ The workshop will therefore consist of two parts:
 invited <a href="#speakers" target="_self">keynote talks</a> discussing current developments in MDE 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
 using the [**SYNS dataset**](https://syns.soton.ac.uk).
-
-[//]: # (TODO: Add speaker info)
-[//]: # (TODO: Add links as citations and bib)
 
 
 ## :newspaper: **News** {#news}
@@ -130,9 +123,6 @@ Challenge winners will be determined based on the **pointcloud-/edge-based F-Sco
 ---
 
 ## :construction_worker: **Organizers** {#organizers}
-
-[//]: # (TODO: Add Wendy as organizer)
-[//]: # (https://www.southampton.ac.uk/people/5wzx72/professor-wendy-adams)
 
 <div class="container">
 <figure>
