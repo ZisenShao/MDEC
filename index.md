@@ -36,11 +36,14 @@ invited <a href="#speakers" target="_self">keynote talks</a> discussing current 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
 using the [**SYNS dataset**](https://syns.soton.ac.uk).
 
-[//]: # (Add speaker info)
+[//]: # (TODO: Add speaker info)
+[//]: # (TODO: Add links as citations and bib)
 
 
 ## :newspaper: **News** {#news}
-- **17 Aug 2022 ---** :tada: Website is live! :tada:
+- **16 Sep 2022 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker
+- **17 Aug 2022 ---** :microphone: **James Elder** confirmed as keynote speaker 
+- **17 Aug 2022 ---** :tada: Website is live!
 
 ---
 
@@ -107,6 +110,13 @@ Challenge winners will be determined based on the **pointcloud-/edge-based F-Sco
     <b><br><a href="https://www.elderlab.yorku.ca/jelder/">James Elder</a>
     <br>Professor <br>York University</b>
 </figure>
+
+<figure>
+    <a href="https://homepages.inf.ed.ac.uk/omacaod/">
+    <img class="img-author" src="assets/imgs/authors/oisin_macaodha.jpeg" alt="Oisin Mac Aodha"/></a>
+    <b><br><a href="https://homepages.inf.ed.ac.uk/omacaod/">Oisin Mac Aodha</a>
+    <br>Professor <br>University of Edinburgh</b>
+</figure>
 </div>
 
 ---
@@ -120,6 +130,9 @@ Challenge winners will be determined based on the **pointcloud-/edge-based F-Sco
 ---
 
 ## :construction_worker: **Organizers** {#organizers}
+
+[//]: # (TODO: Add Wendy as organizer)
+[//]: # (https://www.southampton.ac.uk/people/5wzx72/professor-wendy-adams)
 
 <div class="container">
 <figure>
