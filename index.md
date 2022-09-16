@@ -108,7 +108,7 @@ Challenge winners will be determined based on the **pointcloud-/edge-based F-Sco
     <a href="https://homepages.inf.ed.ac.uk/omacaod/">
     <img class="img-author" src="assets/imgs/authors/oisin_macaodha.jpeg" alt="Oisin Mac Aodha"/></a>
     <b><br><a href="https://homepages.inf.ed.ac.uk/omacaod/">Oisin Mac Aodha</a>
-    <br>Professor <br>University of Edinburgh</b>
+    <br>Assistant Professor <br>University of Edinburgh</b>
 </figure>
 </div>
 
