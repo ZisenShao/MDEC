@@ -78,7 +78,7 @@ Furthermore, the high-quality dense ground-truth LiDAR allows for the computatio
 </div>
 
 The challenge will be hosted on **Kaggle**. 
-We will provide a **GitHub repository** containing training and evaluating code for multiple recent SotA approaches to MDE.
+We will provide a [**GitHub repository**](https://github.com/jspenmar/monodepth_benchmark) containing training and evaluating code for multiple recent SotA approaches to MDE.
 These will serve as competitive baselines for the challenge and as a starting point for participants.
 We will provide a publicly available validation set on **SYNS-Patches** and encourage evaluation on the public [**Kitti Eigen-Benchmark**](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction) dataset. 
 The final challenge will be carried out on a held-out testing set.
