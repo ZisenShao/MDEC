@@ -30,65 +30,32 @@ Are the failure modes the same?
 The workshop will therefore consist of two parts: 
 invited <a href="#speakers" target="_self">keynote talks</a> discussing current developments in MDE 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
-using the [**SYNS dataset**](https://syns.soton.ac.uk).
+using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 
 ## :newspaper: **News** {#news}
+- **30 Sep 2022 ---** :checkered_flag: Challenge website is live! Running from 05-Oct-2022 to 08-Nov-2022
 - **16 Sep 2022 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker
-- **17 Aug 2022 ---** :microphone: **James Elder** confirmed as keynote speaker 
+- **17 Aug 2022 ---** :microphone: **James Elder** confirmed as keynote speaker
 - **17 Aug 2022 ---** :tada: Website is live!
 
 ---
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
-
-> ***WARNING:** These dates are tentative.
-> They may change once the challenge is open.*
-
-- **TBA ---** Challenge Submission **Opens**
-- **10 Nov 2022 ---** Challenge Submission **Closes**
-- **12 Nov 2022 ---** Method Description Submission
-- **14 Nov 2022 ---** Invited Talk Notification
-- **03-07 Jan 2023 (TBA) ---** MDEC Workshop @ WACV 2023
+- **05 Oct 2022 (00:00 UTC) ---** Challenge Development Phase **Opens** (Val)
+- **26 Oct 2022 (00:00 UTC) ---** Challenge Final Phase **Opens** (Test)
+- **08 Nov 2022 (23:59 UTC) ---** Challenge Submission **Closes**
+- **11 Nov 2022 ---** Method Description Submission
+- **15 Nov 2022 ---** Invited Talk Notification
+- **07 Jan 2023 (Half-day AM) ---** MDEC Workshop @ WACV 2023
 
 ---
 
-## :trophy: **Challenge** {#challenge}
+## :calendar: **Schedule** {#schedule}
 
-> ***NOTE:** Final details TBA.*
- 
-**Teams submitting to the challenge will also be required to submit a description of their method (max 250 words).
-As part of the WACV Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method. 
-All challenge participants surpassing the performance of the TBD baseline will be added as authors in this paper.
-Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
-This presentation can be either in-person or virtually.**
-
-The challenge will focus on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
-This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices and more. 
-Furthermore, the high-quality dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [**depth discontinuities**](https://arxiv.org/abs/1805.01328v1). 
-
-<div class="container">
-<img class="img-syns" src="assets/imgs/syns/image_0551.png" alt="image_0551"/>
-<img class="img-syns" src="assets/imgs/syns/image_0893.png" alt="image_0893"/>
-<img class="img-syns" src="assets/imgs/syns/image_1114.png" alt="image_1114"/>
-
-<img class="img-syns" src="assets/imgs/syns/depth_0551.png" alt="depth_0551"/>
-<img class="img-syns" src="assets/imgs/syns/depth_0893.png" alt="depth_0893"/>
-<img class="img-syns" src="assets/imgs/syns/depth_1114.png" alt="depth_1114"/>
-</div>
-
-The challenge will be hosted on **Kaggle**. 
-We will provide a [**GitHub repository**](https://github.com/jspenmar/monodepth_benchmark) containing training and evaluating code for multiple recent SotA approaches to MDE.
-These will serve as competitive baselines for the challenge and as a starting point for participants.
-We will provide a publicly available validation set on **SYNS-Patches** and encourage evaluation on the public [**Kitti Eigen-Benchmark**](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction) dataset. 
-The final challenge will be carried out on a held-out testing set.
-Submissions will be evaluated on a variety of metrics:
-
-1. [**Image-based depth**](https://arxiv.org/abs/1708.06500): MAE, RMSE, AbsRel, SILog 
-2. [**Pointcloud reconstruction**](https://arxiv.org/abs/2203.08122): F-Score, Chamfer distance, IoU
-3. [**Depth discontinuities**](https://arxiv.org/abs/1805.01328v1): F-Score, Accuracy, Completeness
-
-Challenge winners will be determined based on the **pointcloud-/edge-based F-Score** performance.
+| Time (HST) | Event |
+|------------|-------|
+| TBA        | TBA   |
 
 ---
 
@@ -112,18 +79,57 @@ Challenge winners will be determined based on the **pointcloud-/edge-based F-Sco
 </figure>
 </div>
 
+[//]: # (---)
+
+[//]: # ()
+[//]: # (## :trophy: **Challenge Winners** {#winners})
+
+[//]: # ()
+[//]: # (> *TBA!*)
+
 ---
 
-## :calendar: **Schedule** {#schedule}
+## :checkered_flag: **Challenge** {#challenge}
+**Teams submitting to the challenge will also be required to submit a description of their method.
+As part of the WACV Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method.
+All challenge participants surpassing the performance of the Garg baseline [13.7211] (by jspenmar) will be added as authors in this paper.
+Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
+This presentation can be either in-person or virtually.**
 
-| Time (HST) | Event |
-|------------|-------|
-| TBA        | TBA   |
+**[[GitHub Code](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge Website](https://codalab.lisn.upsaclay.fr/competitions/7811)]**
+{: .text-center}
+
+The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
+This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices and more.
+Furthermore, the high-quality dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [**depth discontinuities**](https://arxiv.org/abs/1805.01328v1).
+
+
+<div class="container">
+<img class="img-syns" src="assets/imgs/syns/image_0551.png" alt="image_0551"/>
+<img class="img-syns" src="assets/imgs/syns/image_0893.png" alt="image_0893"/>
+<img class="img-syns" src="assets/imgs/syns/image_1114.png" alt="image_1114"/>
+
+<img class="img-syns" src="assets/imgs/syns/depth_0551.png" alt="depth_0551"/>
+<img class="img-syns" src="assets/imgs/syns/depth_0893.png" alt="depth_0893"/>
+<img class="img-syns" src="assets/imgs/syns/depth_1114.png" alt="depth_1114"/>
+</div>
+
+The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/7811). 
+We have provided a [**GitHub repository**](https://github.com/jspenmar/monodepth_benchmark) containing training and evaluation code for multiple recent SotA approaches to MDE.
+These will serve as a competitive baseline for the challenge and as a starting point for participants.
+The challenge leaderboards use the withheld validation and test sets for **SYNS-Patches**.
+We additionally encourage evaluation on the public [**Kitti Eigen-Benchmark**](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction) dataset.
+
+Submissions will be evaluated on a variety of metrics:
+1. [**Pointcloud reconstruction**](https://arxiv.org/abs/2203.08122): F-Score
+2. [**Image-based depth**](https://arxiv.org/abs/1708.06500): MAE, RMSE, AbsRel
+3. [**Depth discontinuities**](https://arxiv.org/abs/1805.01328v1): F-Score, Accuracy, Completeness
+
+Challenge winners will be determined based on the **pointcloud-based F-Score** performance.
 
 ---
 
 ## :construction_worker: **Organizers** {#organizers}
-
 <div class="container">
 <figure>
     <a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">
