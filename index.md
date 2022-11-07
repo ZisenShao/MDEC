@@ -34,9 +34,11 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 
 ## :newspaper: **News** {#news}
-- **30 Sep 2022 ---** :checkered_flag: Challenge website is live! Running from 05-Oct-2022 to 08-Nov-2022
-- **16 Sep 2022 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker
-- **17 Aug 2022 ---** :microphone: **James Elder** confirmed as keynote speaker
+- **04 Nov 2022 ---** :checkered_flag: Challenge submission deadline has been extended until 14-Nov-2022.
+- **26 Oct 2022 ---** :checkered_flag: Final phase of the challenge is live.
+- **30 Sep 2022 ---** :checkered_flag: Challenge website is live! Running from 05-Oct-2022 to 08-Nov-2022.
+- **16 Sep 2022 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker.
+- **17 Aug 2022 ---** :microphone: **James Elder** confirmed as keynote speaker.
 - **17 Aug 2022 ---** :tada: Website is live!
 
 ---
@@ -45,6 +47,7 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 - **05 Oct 2022 (00:00 UTC) ---** Challenge Development Phase **Opens** (Val)
 - **26 Oct 2022 (00:00 UTC) ---** Challenge Final Phase **Opens** (Test)
 - **08 Nov 2022 (23:59 UTC) ---** Challenge Submission **Closes**
+- **14 Nov 2022 (23:59 UTC) ---** Challenge Submission **Closes** (UPDATED)
 - **11 Nov 2022 ---** Method Description Submission
 - **15 Nov 2022 ---** Invited Talk Notification
 - **07 Jan 2023 (Half-day AM) ---** MDEC Workshop @ WACV 2023
