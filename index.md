@@ -32,8 +32,12 @@ invited <a href="#speakers" target="_self">keynote talks</a> discussing current 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
+### **Paper**
+[![test](assets/imgs/paper_preview.png)](https://arxiv.org/abs/2208.01489)
 
 ## :newspaper: **News** {#news}
+- **23 Nov 2022 ---** :page_facing_up: The paper summarizing the challenge is now available on [ArXiv](https://arxiv.org/abs/2208.01489).
+- **14 Nov 2022 ---** :trophy: The challenge has now finished! Thank you to all participants.
 - **04 Nov 2022 ---** :checkered_flag: Challenge submission deadline has been extended until 14-Nov-2022.
 - **26 Oct 2022 ---** :checkered_flag: Final phase of the challenge is live.
 - **30 Sep 2022 ---** :checkered_flag: Challenge website is live! Running from 05-Oct-2022 to 08-Nov-2022.
@@ -82,13 +86,27 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 </figure>
 </div>
 
-[//]: # (---)
+---
 
-[//]: # ()
-[//]: # (## :trophy: **Challenge Winners** {#winners})
 
-[//]: # ()
-[//]: # (> *TBA!*)
+## :trophy: **Challenge Winners** {#winners}
+
+Congratulations to the **OPDAI** team on achieving the top performing submission (F-Score)!
+
+|               | F-Score                                                          | F-Score<br/>(Edges)                                             | MEA                                                             | RMSE                                                            | AbsRel                                                           | Acc<br/>(Edges)                                                 | Comp<br/>(Edges)                                                 |
+|---------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|
+| **Baseline**  | <span style="color:green"><strong>13.72</strong></span>          | <span style="color:green"><strong>7.76</strong></span>          | 5.56                                                            | 9.72                                                            | 32.04                                                            | 3.97                                                            | <span style="color:green"><strong>21.63</strong></span>          |
+| **OPDAI**     | <span style="color:blue;text-decoration: underline">13.53</span> | 7.41                                                            | <span style="color:green"><strong>5.20</strong></span>          | <span style="color:blue;text-decoration: underline">8.98</span> | <span style="color:green"><strong>29.66 </strong></span>         | <span style="color:blue;text-decoration: underline">3.67</span> | <span style="color:blue;text-decoration: underline">27.31</span> |
+| **z.suri**    | 13.08                                                            | 7.46                                                            | 5.39                                                            | 9.27                                                            | 29.96                                                            | 3.81                                                            | 32.70                                                            |
+| **Anonymous** | 12.85                                                            | 7.30                                                            | 5.32                                                            | 9.04                                                            | 30.22                                                            | 3.83                                                            | 43.77                                                            |
+| **MonoViT**   | 12.66                                                            | <span style="color:blue;text-decoration: underline">7.51</span> | <span style="color:blue;text-decoration: underline">5.22</span> | <span style="color:green"><strong>8.96</strong></span>          | <span style="color:blue;text-decoration: underline">29.70</span> | <span style="color:green"><strong>3.36</strong></span>          | 35.47                                                            |
+
+
+### **Teams**
+* **OPDAI**: Hao Wang, Yusheng Zhang, Heng Cong
+* **z.suri**: Zeeshan Khan Suri
+* **MonoViT**: Chaoqiang Zhao, Mateo Poggi, Fabio Tosi, Youming Zhang, Yang Tang, Stefano Mattoccia
+
 
 ---
 
@@ -99,7 +117,7 @@ All challenge participants surpassing the performance of the Garg baseline [13.7
 Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
 This presentation can be either in-person or virtually.**
 
-**[[GitHub Code](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge Website](https://codalab.lisn.upsaclay.fr/competitions/7811)]**
+**[[GitHub Code](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge Website](https://codalab.lisn.upsaclay.fr/competitions/7811)] --- [[Paper](https://arxiv.org/abs/2208.01489)]**
 {: .text-center}
 
 The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
