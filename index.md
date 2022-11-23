@@ -33,10 +33,10 @@ and a <a href="#challenge" target="_self">challenge</a> organized around a novel
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 ### **Paper**
-[![test](assets/imgs/paper_preview.png)](https://arxiv.org/abs/2208.01489)
+[![test](assets/imgs/paper_preview.png)](https://arxiv.org/abs/2211.12174)
 
 ## :newspaper: **News** {#news}
-- **23 Nov 2022 ---** :page_facing_up: The paper summarizing the challenge is now available on [ArXiv](https://arxiv.org/abs/2208.01489).
+- **23 Nov 2022 ---** :page_facing_up: The paper summarizing the challenge is now available on [ArXiv](https://arxiv.org/abs/2211.12174).
 - **14 Nov 2022 ---** :trophy: The challenge has now finished! Thank you to all participants.
 - **04 Nov 2022 ---** :checkered_flag: Challenge submission deadline has been extended until 14-Nov-2022.
 - **26 Oct 2022 ---** :checkered_flag: Final phase of the challenge is live.
