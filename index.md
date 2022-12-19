@@ -32,10 +32,11 @@ invited <a href="#speakers" target="_self">keynote talks</a> discussing current 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
-### **Paper**
-[![test](assets/imgs/paper_preview.png)](https://arxiv.org/abs/2211.12174)
+## :page_facing_up: **Paper**
+[![paper](assets/imgs/paper.png)](https://arxiv.org/abs/2211.12174)
 
 ## :newspaper: **News** {#news}
+- **19 Dec 2022 ---** :calendar: Workshop schedule released.
 - **23 Nov 2022 ---** :page_facing_up: The paper summarizing the challenge is now available on [ArXiv](https://arxiv.org/abs/2211.12174).
 - **14 Nov 2022 ---** :trophy: The challenge has now finished! Thank you to all participants.
 - **04 Nov 2022 ---** :checkered_flag: Challenge submission deadline has been extended until 14-Nov-2022.
@@ -60,15 +61,23 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 ## :calendar: **Schedule** {#schedule}
 
-| Time (HST) | Event |
-|------------|-------|
-| TBA        | TBA   |
+> **NOTE**: Times are shown in **Hawaii Standard Time**. 
+> Please take this into account if joining the workshop virtually.
 
----
+| Time (HST)    | Duration | Event                                                             |
+|---------------|----------|-------------------------------------------------------------------|
+| 08:20 - 08:30 | 10 mins  | Introduction to Workshop                                          |
+| 08:30 - 09:15 | 45 mins  | **Oisin Mac Aodha** -- Advancing Monocular Depth Estimation       |
+| 09:15 - 10:00 | 45 mins  | **James Elder** -- Monocular 3D Perception in Humans and Machines |
+| 10:00 - 10:30 | 30 mins  | _Break_                                                           |
+| 10:30 - 11:00 | 30 mins  | Challenge Description                                             |
+| 11:00 - 11:20 | 20 mins  | Challenge Participant: **Team z.suri**                            |
+| 11:20 - 11:40 | 20 mins  | Challenge Participant: **Team MonoViT**                           |
+| 11:40 - 11:50 | 10 mins  | Closing Notes                                                     |
+
+--- 
 
 ## :microphone: **Keynote Speakers** {#speakers}
-
-> ***NOTE:** More speakers TBA!*
 
 <div class="container">
 <figure>
@@ -86,8 +95,22 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 </figure>
 </div>
 
----
+[**James Elder**](https://www.elderlab.yorku.ca/jelder/)
+is Professor and York Research Chair in Human and Computer Vision, Department of Electrical Engineering & Computer Science (Lassonde School of Engineering), Department of Psychology (Faculty of Health) and Co-Director of the Centre for AI & Society at York University, Toronto, Canada.
+Dr. Elder’s research seeks to improve machine vision systems through a better understanding of visual processing in biological systems.
+He currently leads the ORF-RE project _Intelligent Systems for Sustainable Urban Mobility_.
+He also holds a number of patents on attentive vision technologies and is the co-founder of the AI start-up _AttentiveVision_.
+He is appointed to the Editorial Boards of three international journals.
+ 
+[**Oisin Mac Aodha**](https://homepages.inf.ed.ac.uk/omacaod/)
+is a Lecturer in Machine Learning in the School of Informatics at the University of Edinburgh.
+From 2016-2019, he was a postdoc in Prof. Pietro Perona's Computational Vision Lab at Caltech.
+Prior to that, he was a postdoc in the Department of Computer Science at University College of London (UCL) with Prof. Gabriel Brostow and Prof. Kate Jones.
+He received his PhD from UCL in 2014, advised by Prof. Gabriel Brostow, and has an MSc in Machine Learning from UCL an BEng in electronic and computing engineering from the University of Galway.
+Along with being a Fellow of the Alan Turing Institute and a European Laboratory for Learning and Intelligent Systems (ELLIS) Scholar.
+His current research interests are in the areas of computer vision and machine learning, with a specific emphasis on shape and depth estimation, human-in-the-loop learning, and fine-grained image understanding. 
 
+---
 
 ## :trophy: **Challenge Winners** {#winners}
 
@@ -105,8 +128,8 @@ Congratulations to the **OPDAI** team on achieving the top performing submission
 ### **Teams**
 * **OPDAI**: Hao Wang, Yusheng Zhang, Heng Cong
 * **z.suri**: Zeeshan Khan Suri
+* **Anonymous**
 * **MonoViT**: Chaoqiang Zhao, Mateo Poggi, Fabio Tosi, Youming Zhang, Yang Tang, Stefano Mattoccia
-
 
 ---
 
