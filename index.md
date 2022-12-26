@@ -70,7 +70,7 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 | 08:30 - 09:15 | 45 mins  | **Oisin Mac Aodha** -- Advancing Monocular Depth Estimation       |
 | 09:15 - 10:00 | 45 mins  | **James Elder** -- Monocular 3D Perception in Humans and Machines |
 | 10:00 - 10:30 | 30 mins  | _Break_                                                           |
-| 10:30 - 11:00 | 30 mins  | Challenge Description                                             |
+| 10:30 - 11:00 | 30 mins  | The Monocular Depth Estimation Challenge                          |
 | 11:00 - 11:20 | 20 mins  | Challenge Participant: **Team z.suri**                            |
 | 11:20 - 11:40 | 20 mins  | Challenge Participant: **Team MonoViT**                           |
 | 11:40 - 11:50 | 10 mins  | Closing Notes                                                     |
