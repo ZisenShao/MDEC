@@ -63,16 +63,19 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 > **NOTE**: Times are shown in **Hawaii Standard Time**. 
 > Please take this into account if joining the workshop virtually.
+> 
+> ***Virtual talk only.**
+> **All other talks will be hybrid.**
 
 | Time (HST)    | Duration | Event                                                             |
 |---------------|----------|-------------------------------------------------------------------|
 | 08:20 - 08:30 | 10 mins  | Introduction to Workshop                                          |
-| 08:30 - 09:15 | 45 mins  | **Oisin Mac Aodha** -- Advancing Monocular Depth Estimation       |
+| 08:30 - 09:15 | 45 mins  | **Oisin Mac Aodha** -- Advancing Monocular Depth Estimation*      |
 | 09:15 - 10:00 | 45 mins  | **James Elder** -- Monocular 3D Perception in Humans and Machines |
 | 10:00 - 10:30 | 30 mins  | _Break_                                                           |
 | 10:30 - 11:00 | 30 mins  | The Monocular Depth Estimation Challenge                          |
-| 11:00 - 11:20 | 20 mins  | Challenge Participant: **Team z.suri**                            |
-| 11:20 - 11:40 | 20 mins  | Challenge Participant: **Team MonoViT**                           |
+| 11:00 - 11:20 | 20 mins  | Challenge Participant: **Team z.suri***                           |
+| 11:20 - 11:40 | 20 mins  | Challenge Participant: **Team MonoViT***                          |
 | 11:40 - 11:50 | 10 mins  | Closing Notes                                                     |
 
 --- 
