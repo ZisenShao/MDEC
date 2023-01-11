@@ -1,18 +1,21 @@
 ---
 layout: default
+title: 2nd Monocular Depth Estimation Challenge
+description: MDEC @ CVPR 2023
 ---
 
-:wave: Welcome to the **Monocular Depth Estimation Challenge Workshop** organized at :wave: [<img class="rounded-rect" src="assets/imgs/wacv.png" height="70px" alt="wacv"/>](https://wacv2023.thecvf.com) 
+:wave: Welcome to the **2nd Monocular Depth Estimation Challenge Workshop** organized at :wave: 
+[<img class="rounded-rect" src="/assets/imgs/cvpr2023.svg" width="500px" alt="cvpr2023"/>](https://cvpr2023.thecvf.com)
 {: .text-center}
 
 <div class="container">
-<img class="img-syns" src="assets/imgs/syns/image_0026.png" alt="image_0026"/>
-<img class="img-syns" src="assets/imgs/syns/image_0254.png" alt="image_0254"/>
-<img class="img-syns" src="assets/imgs/syns/image_0698.png" alt="image_0698"/>
+<img class="img-syns" src="/assets/imgs/syns/image_0026.png" alt="image_0026"/>
+<img class="img-syns" src="/assets/imgs/syns/image_0254.png" alt="image_0254"/>
+<img class="img-syns" src="/assets/imgs/syns/image_0698.png" alt="image_0698"/>
 
-<img class="img-syns" src="assets/imgs/syns/depth_0026.png" alt="depth_0026"/>
-<img class="img-syns" src="assets/imgs/syns/depth_0254.png" alt="depth_0254"/>
-<img class="img-syns" src="assets/imgs/syns/depth_0698.png" alt="depth_0698"/>
+<img class="img-syns" src="/assets/imgs/syns/depth_0026.png" alt="depth_0026"/>
+<img class="img-syns" src="/assets/imgs/syns/depth_0254.png" alt="depth_0254"/>
+<img class="img-syns" src="/assets/imgs/syns/depth_0698.png" alt="depth_0698"/>
 </div>
 
 Monocular depth estimation (**MDE**) is an important low-level vision task, with application in fields such as augmented reality, robotics and autonomous vehicles.
@@ -32,121 +35,62 @@ invited <a href="#speakers" target="_self">keynote talks</a> discussing current 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
-## :page_facing_up: **Paper**
-[![paper](assets/imgs/paper.png)](https://arxiv.org/abs/2211.12174)
-
-## **Previous Editions**
-[WACV 2023](wacv2023)
+## **Editions**
+0. <a href="/index" target="_self">**Current**</a>
+1. <a href="/wacv2023" target="_self">**WACV 2023**</a>
+2. <a href="/index" target="_self">**CVPR 2023**</a>
 
 ## :newspaper: **News** {#news}
-- **19 Dec 2022 ---** :calendar: Workshop schedule released.
-- **23 Nov 2022 ---** :page_facing_up: The paper summarizing the challenge is now available on [ArXiv](https://arxiv.org/abs/2211.12174).
-- **14 Nov 2022 ---** :trophy: The challenge has now finished! Thank you to all participants.
-- **04 Nov 2022 ---** :checkered_flag: Challenge submission deadline has been extended until 14-Nov-2022.
-- **26 Oct 2022 ---** :checkered_flag: Final phase of the challenge is live.
-- **30 Sep 2022 ---** :checkered_flag: Challenge website is live! Running from 05-Oct-2022 to 08-Nov-2022.
-- **16 Sep 2022 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker.
-- **17 Aug 2022 ---** :microphone: **James Elder** confirmed as keynote speaker.
-- **17 Aug 2022 ---** :tada: Website is live!
+- **16 Jan 2023 ---** :microphone: **Alex Kendall** confirmed as keynote speaker.
+- **16 Jan 2023 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker.
+- **16 Jan 2023 ---** :tada: Website is live!
 
 ---
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
-- **05 Oct 2022 (00:00 UTC) ---** Challenge Development Phase **Opens** (Val)
-- **26 Oct 2022 (00:00 UTC) ---** Challenge Final Phase **Opens** (Test)
-- **08 Nov 2022 (23:59 UTC) ---** Challenge Submission **Closes**
-- **14 Nov 2022 (23:59 UTC) ---** Challenge Submission **Closes** (UPDATED)
-- **11 Nov 2022 ---** Method Description Submission
-- **15 Nov 2022 ---** Invited Talk Notification
-- **07 Jan 2023 (Half-day AM) ---** MDEC Workshop @ WACV 2023
+> **TBA**
 
 ---
 
 ## :calendar: **Schedule** {#schedule}
-
-> **NOTE**: Times are shown in **Hawaii Standard Time**. 
-> Please take this into account if joining the workshop virtually.
-> 
-> ***Virtual talk only.**
-> **All other talks will be hybrid.**
-
-| Time (HST)    | Duration | Event                                                             |
-|---------------|----------|-------------------------------------------------------------------|
-| 08:20 - 08:30 | 10 mins  | Introduction to Workshop                                          |
-| 08:30 - 09:15 | 45 mins  | **Oisin Mac Aodha** -- Advancing Monocular Depth Estimation*      |
-| 09:15 - 10:00 | 45 mins  | **James Elder** -- Monocular 3D Perception in Humans and Machines |
-| 10:00 - 10:30 | 30 mins  | _Break_                                                           |
-| 10:30 - 11:00 | 30 mins  | The Monocular Depth Estimation Challenge                          |
-| 11:00 - 11:20 | 20 mins  | Challenge Participant: **Team z.suri***                           |
-| 11:20 - 11:40 | 20 mins  | Challenge Participant: **Team MonoViT***                          |
-| 11:40 - 11:50 | 10 mins  | Closing Notes                                                     |
+> **TBA**
 
 --- 
 
 ## :microphone: **Keynote Speakers** {#speakers}
+> More speakers **TBA**
 
 <div class="container">
 <figure>
-    <a href="https://www.elderlab.yorku.ca/jelder/">
-    <img class="img-author" src="assets/imgs/authors/james_elder.jpg" alt="James Elder"/></a>
-    <b><br><a href="https://www.elderlab.yorku.ca/jelder/">James Elder</a>
-    <br>Professor <br>York University</b>
+    <a href="https://alexgkendall.com">
+    <img class="img-author" src="/assets/imgs/authors/alex_kendall.jpg" alt="Alex Kendall"/></a>
+    <b><br><a href="https://alexgkendall.com">Alex Kendall</a>
+    <br>CEO <br>Wayve</b>
 </figure>
 
 <figure>
     <a href="https://homepages.inf.ed.ac.uk/omacaod/">
-    <img class="img-author" src="assets/imgs/authors/oisin_macaodha.jpeg" alt="Oisin Mac Aodha"/></a>
+    <img class="img-author" src="/assets/imgs/authors/oisin_macaodha.jpeg" alt="Oisin Mac Aodha"/></a>
     <b><br><a href="https://homepages.inf.ed.ac.uk/omacaod/">Oisin Mac Aodha</a>
     <br>Assistant Professor <br>University of Edinburgh</b>
 </figure>
-</div>
-
-[**James Elder**](https://www.elderlab.yorku.ca/jelder/)
-is Professor and York Research Chair in Human and Computer Vision, Department of Electrical Engineering & Computer Science (Lassonde School of Engineering), Department of Psychology (Faculty of Health) and Co-Director of the Centre for AI & Society at York University, Toronto, Canada.
-Dr. Elder’s research seeks to improve machine vision systems through a better understanding of visual processing in biological systems.
-He currently leads the ORF-RE project _Intelligent Systems for Sustainable Urban Mobility_.
-He also holds a number of patents on attentive vision technologies and is the co-founder of the AI start-up _AttentiveVision_.
-He is appointed to the Editorial Boards of three international journals.
- 
-[**Oisin Mac Aodha**](https://homepages.inf.ed.ac.uk/omacaod/)
-is a Lecturer in Machine Learning in the School of Informatics at the University of Edinburgh.
-From 2016-2019, he was a postdoc in Prof. Pietro Perona's Computational Vision Lab at Caltech.
-Prior to that, he was a postdoc in the Department of Computer Science at University College of London (UCL) with Prof. Gabriel Brostow and Prof. Kate Jones.
-He received his PhD from UCL in 2014, advised by Prof. Gabriel Brostow, and has an MSc in Machine Learning from UCL an BEng in electronic and computing engineering from the University of Galway.
-Along with being a Fellow of the Alan Turing Institute and a European Laboratory for Learning and Intelligent Systems (ELLIS) Scholar.
-His current research interests are in the areas of computer vision and machine learning, with a specific emphasis on shape and depth estimation, human-in-the-loop learning, and fine-grained image understanding. 
+</div> 
 
 ---
 
 ## :trophy: **Challenge Winners** {#winners}
-
-Congratulations to the **OPDAI** team on achieving the top performing submission (F-Score)!
-
-|               | F-Score                                                          | F-Score<br/>(Edges)                                             | MEA                                                             | RMSE                                                            | AbsRel                                                           | Acc<br/>(Edges)                                                 | Comp<br/>(Edges)                                                 |
-|---------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|
-| **Baseline**  | <span style="color:green"><strong>13.72</strong></span>          | <span style="color:green"><strong>7.76</strong></span>          | 5.56                                                            | 9.72                                                            | 32.04                                                            | 3.97                                                            | <span style="color:green"><strong>21.63</strong></span>          |
-| **OPDAI**     | <span style="color:blue;text-decoration: underline">13.53</span> | 7.41                                                            | <span style="color:green"><strong>5.20</strong></span>          | <span style="color:blue;text-decoration: underline">8.98</span> | <span style="color:green"><strong>29.66 </strong></span>         | <span style="color:blue;text-decoration: underline">3.67</span> | <span style="color:blue;text-decoration: underline">27.31</span> |
-| **z.suri**    | 13.08                                                            | 7.46                                                            | 5.39                                                            | 9.27                                                            | 29.96                                                            | 3.81                                                            | 32.70                                                            |
-| **Anonymous** | 12.85                                                            | 7.30                                                            | 5.32                                                            | 9.04                                                            | 30.22                                                            | 3.83                                                            | 43.77                                                            |
-| **MonoViT**   | 12.66                                                            | <span style="color:blue;text-decoration: underline">7.51</span> | <span style="color:blue;text-decoration: underline">5.22</span> | <span style="color:green"><strong>8.96</strong></span>          | <span style="color:blue;text-decoration: underline">29.70</span> | <span style="color:green"><strong>3.36</strong></span>          | 35.47                                                            |
-
-
-### **Teams**
-* **OPDAI**: Hao Wang, Yusheng Zhang, Heng Cong
-* **z.suri**: Zeeshan Khan Suri
-* **Anonymous**
-* **MonoViT**: Chaoqiang Zhao, Mateo Poggi, Fabio Tosi, Youming Zhang, Yang Tang, Stefano Mattoccia
+> **TBA**
 
 ---
 
 ## :checkered_flag: **Challenge** {#challenge}
 **Teams submitting to the challenge will also be required to submit a description of their method.
-As part of the WACV Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method.
+As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method.
 All challenge participants surpassing the performance of the Garg baseline [13.7211] (by jspenmar) will be added as authors in this paper.
 Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
 This presentation can be either in-person or virtually.**
 
-**[[GitHub Code](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge Website](https://codalab.lisn.upsaclay.fr/competitions/7811)] --- [[Paper](https://arxiv.org/abs/2208.01489)]**
+**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge Website](https://codalab.lisn.upsaclay.fr/competitions/7811)] --- [[Paper](https://arxiv.org/abs/2208.01489)]**
 {: .text-center}
 
 The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
@@ -155,13 +99,13 @@ Furthermore, the high-quality dense ground-truth LiDAR allows for the computatio
 
 
 <div class="container">
-<img class="img-syns" src="assets/imgs/syns/image_0551.png" alt="image_0551"/>
-<img class="img-syns" src="assets/imgs/syns/image_0893.png" alt="image_0893"/>
-<img class="img-syns" src="assets/imgs/syns/image_1114.png" alt="image_1114"/>
+<img class="img-syns" src="/assets/imgs/syns/image_0551.png" alt="image_0551"/>
+<img class="img-syns" src="/assets/imgs/syns/image_0893.png" alt="image_0893"/>
+<img class="img-syns" src="/assets/imgs/syns/image_1114.png" alt="image_1114"/>
 
-<img class="img-syns" src="assets/imgs/syns/depth_0551.png" alt="depth_0551"/>
-<img class="img-syns" src="assets/imgs/syns/depth_0893.png" alt="depth_0893"/>
-<img class="img-syns" src="assets/imgs/syns/depth_1114.png" alt="depth_1114"/>
+<img class="img-syns" src="/assets/imgs/syns/depth_0551.png" alt="depth_0551"/>
+<img class="img-syns" src="/assets/imgs/syns/depth_0893.png" alt="depth_0893"/>
+<img class="img-syns" src="/assets/imgs/syns/depth_1114.png" alt="depth_1114"/>
 </div>
 
 The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/7811). 
@@ -183,49 +127,56 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
 <div class="container">
 <figure>
     <a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">
-    <img class="img-author" src="assets/imgs/authors/jaime_spencer.jpg" alt="Jaime Spencer"/></a>
+    <img class="img-author" src="/assets/imgs/authors/jaime_spencer.jpg" alt="Jaime Spencer"/></a>
     <b><br><a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">Jaime Spencer</a>
     <br>Research Fellow <br>University of Surrey</b>
 </figure>
 
 <figure>
     <a href="https://research.aston.ac.uk/en/persons/stella-qian">
-    <img class="img-author" src="assets/imgs/authors/stella_qian.png" alt="Stella Quian"/></a>
+    <img class="img-author" src="/assets/imgs/authors/stella_qian.png" alt="Stella Quian"/></a>
     <b><br><a href="https://research.aston.ac.uk/en/persons/stella-qian">Stella Qian</a>
     <br>Research Fellow <br>Aston University</b>
 </figure>
 
 <figure>
     <a href="https://www.amazon.science/author/chris-russell?0000016e-4318-de2e-a76e-cfdfa9700000-page=2">
-    <img class="img-author" src="assets/imgs/authors/chris_russell.jpeg" alt="Chris Russell"/></a>
+    <img class="img-author" src="/assets/imgs/authors/chris_russell.jpeg" alt="Chris Russell"/></a>
     <b><br><a href="https://www.amazon.science/author/chris-russell?0000016e-4318-de2e-a76e-cfdfa9700000-page=2">Chris Russell</a>
     <br>Senior Applied Scientist <br>Amazon</b>
 </figure>
 
 <figure>
     <a href="http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/biography.html">
-    <img class="img-author" src="assets/imgs/authors/simon_hadfield.png" alt="Simon Hadfield"/></a>
+    <img class="img-author" src="/assets/imgs/authors/simon_hadfield.png" alt="Simon Hadfield"/></a>
     <b><br><a href="http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/biography.html">Simon Hadfield</a>
     <br>Senior Lecturer <br>University of Surrey</b>
 </figure>
 
 <figure>
     <a href="https://www.southampton.ac.uk/people/5wzxpy/doctor-erich-graf">
-    <img class="img-author" src="assets/imgs/authors/erich_graf.jpeg" alt="Erich Graf"/></a>
+    <img class="img-author" src="/assets/imgs/authors/erich_graf.jpeg" alt="Erich Graf"/></a>
     <b><br><a href="https://www.southampton.ac.uk/people/5wzxpy/doctor-erich-graf">Erich Graf</a>
     <br>Associate Professor <br>University of Southampton</b>
 </figure>
 
 <figure>
+    <a href="https://www.elderlab.yorku.ca/jelder/">
+    <img class="img-author" src="/assets/imgs/authors/james_elder.jpg" alt="James Elder"/></a>
+    <b><br><a href="https://www.elderlab.yorku.ca/jelder/">James Elder</a>
+    <br>Professor <br>York University</b>
+</figure>
+
+<figure>
     <a href="https://research.aston.ac.uk/en/persons/andrew-schofield">
-    <img class="img-author" src="assets/imgs/authors/andrew_schofield.png" alt="Andrew Schofield"/></a>
+    <img class="img-author" src="/assets/imgs/authors/andrew_schofield.png" alt="Andrew Schofield"/></a>
     <b><br><a href="https://research.aston.ac.uk/en/persons/andrew-schofield">Andrew Schofield</a>
     <br>Professor <br>Aston University</b>
 </figure>
 
 <figure>
     <a href="http://personal.ee.surrey.ac.uk/Personal/R.Bowden/">
-    <img class="img-author" src="assets/imgs/authors/richard_bowden.png" alt="Richard Bowden"/></a>
+    <img class="img-author" src="/assets/imgs/authors/richard_bowden.png" alt="Richard Bowden"/></a>
     <b><br><a href="http://personal.ee.surrey.ac.uk/Personal/R.Bowden/">Richard Bowden</a>
     <br>Professor <br>University of Surrey</b>
 </figure>
