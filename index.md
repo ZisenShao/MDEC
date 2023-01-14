@@ -5,7 +5,7 @@ description: MDEC @ CVPR 2023
 ---
 
 :wave: Welcome to the **2nd Monocular Depth Estimation Challenge Workshop** organized at :wave: 
-[<img class="rounded-rect" src="/assets/imgs/cvpr2023.svg" width="500px" alt="cvpr2023"/>](https://cvpr2023.thecvf.com)
+[<img class="rounded-rect" src="/assets/imgs/cvpr2023.svg" width="400px" alt="cvpr2023"/>](https://cvpr2023.thecvf.com)
 {: .text-center}
 
 <div class="container">
