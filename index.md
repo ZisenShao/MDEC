@@ -35,11 +35,6 @@ invited <a href="#speakers" target="_self">keynote talks</a> discussing current 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
-## **Editions**
-0. <a href="/index" target="_self">**Current**</a>
-1. <a href="/wacv2023" target="_self">**WACV 2023**</a>
-2. <a href="/index" target="_self">**CVPR 2023**</a>
-
 ## :newspaper: **News** {#news}
 - **16 Jan 2023 ---** :microphone: **Alex Kendall** confirmed as keynote speaker.
 - **16 Jan 2023 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker.
@@ -90,7 +85,10 @@ All challenge participants surpassing the performance of the Garg baseline [13.7
 Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
 This presentation can be either in-person or virtually.**
 
-**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge Website](https://codalab.lisn.upsaclay.fr/competitions/7811)] --- [[Paper](https://arxiv.org/abs/2208.01489)]**
+> **NOTE:** The challenge for the new edition has not been set up yet.
+> Link will be updated soon.
+
+**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge Website]()] --- [[Paper](https://arxiv.org/abs/2208.01489)]**
 {: .text-center}
 
 The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
