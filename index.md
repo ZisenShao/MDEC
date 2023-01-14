@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 2nd Monocular Depth Estimation Challenge
+title: 2<sup>nd</sup> Monocular Depth Estimation Challenge
 description: MDEC @ CVPR 2023
 ---
 
-:wave: Welcome to the **2nd Monocular Depth Estimation Challenge Workshop** organized at :wave: 
+:wave: Welcome to the **2<sup>nd</sup> Monocular Depth Estimation Challenge Workshop** organized at :wave: 
 [<img class="rounded-rect" src="/MDEC/assets/imgs/cvpr2023.svg" width="400px" alt="cvpr2023"/>](https://cvpr2023.thecvf.com)
 {: .text-center}
 
