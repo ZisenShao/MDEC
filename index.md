@@ -2,6 +2,7 @@
 layout: default
 title: 2nd Monocular Depth Estimation Challenge
 description: MDEC @ CVPR 2023
+permalink: ./
 ---
 
 :wave: Welcome to the **2nd Monocular Depth Estimation Challenge Workshop** organized at :wave: 
