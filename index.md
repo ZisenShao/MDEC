@@ -5,17 +5,17 @@ description: MDEC @ CVPR 2023
 ---
 
 :wave: Welcome to the **2<sup>nd</sup> Monocular Depth Estimation Challenge Workshop** organized at :wave: 
-[<img class="rounded-rect" src="/MDEC/assets/imgs/cvpr2023.svg" width="400px" alt="cvpr2023"/>](https://cvpr2023.thecvf.com)
+[<img class="rounded-rect" src="assets/imgs/cvpr2023.svg" width="400px" alt="cvpr2023"/>](https://cvpr2023.thecvf.com)
 {: .text-center}
 
 <div class="container">
-<img class="img-syns" src="/MDEC/assets/imgs/syns/image_0026.png" alt="image_0026"/>
-<img class="img-syns" src="/MDEC/assets/imgs/syns/image_0254.png" alt="image_0254"/>
-<img class="img-syns" src="/MDEC/assets/imgs/syns/image_0698.png" alt="image_0698"/>
+<img class="img-syns" src="assets/imgs/syns/image_0026.png" alt="image_0026"/>
+<img class="img-syns" src="assets/imgs/syns/image_0254.png" alt="image_0254"/>
+<img class="img-syns" src="assets/imgs/syns/image_0698.png" alt="image_0698"/>
 
-<img class="img-syns" src="/MDEC/assets/imgs/syns/depth_0026.png" alt="depth_0026"/>
-<img class="img-syns" src="/MDEC/assets/imgs/syns/depth_0254.png" alt="depth_0254"/>
-<img class="img-syns" src="/MDEC/assets/imgs/syns/depth_0698.png" alt="depth_0698"/>
+<img class="img-syns" src="assets/imgs/syns/depth_0026.png" alt="depth_0026"/>
+<img class="img-syns" src="assets/imgs/syns/depth_0254.png" alt="depth_0254"/>
+<img class="img-syns" src="assets/imgs/syns/depth_0698.png" alt="depth_0698"/>
 </div>
 
 Monocular depth estimation (**MDE**) is an important low-level vision task, with application in fields such as augmented reality, robotics and autonomous vehicles.
@@ -58,14 +58,14 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 <div class="container">
 <figure>
     <a href="https://alexgkendall.com">
-    <img class="img-author" src="/MDEC/assets/imgs/authors/alex_kendall.jpg" alt="Alex Kendall"/></a>
+    <img class="img-author" src="assets/imgs/authors/alex_kendall.jpg" alt="Alex Kendall"/></a>
     <b><br><a href="https://alexgkendall.com">Alex Kendall</a>
     <br>CEO <br>Wayve</b>
 </figure>
 
 <figure>
     <a href="https://homepages.inf.ed.ac.uk/omacaod/">
-    <img class="img-author" src="/MDEC/assets/imgs/authors/oisin_macaodha.jpeg" alt="Oisin Mac Aodha"/></a>
+    <img class="img-author" src="assets/imgs/authors/oisin_macaodha.jpeg" alt="Oisin Mac Aodha"/></a>
     <b><br><a href="https://homepages.inf.ed.ac.uk/omacaod/">Oisin Mac Aodha</a>
     <br>Assistant Professor <br>University of Edinburgh</b>
 </figure>
@@ -81,14 +81,16 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 ## :checkered_flag: **Challenge** {#challenge}
 **Teams submitting to the challenge will also be required to submit a description of their method.
 As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method.
-All challenge participants surpassing the performance of the Garg baseline [13.7211] (by jspenmar) will be added as authors in this paper.
+All challenge participants surpassing the performance of the Garg baseline (by jspenmar) will be added as authors in this paper.
 Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
 This presentation can be either in-person or virtually.**
 
-> **NOTE:** The challenge for the new edition has not been set up yet.
-> Link will be updated soon.
+> **IMPORTANT:** We have decided to expand this edition of the challenge beyond self-supervised models.
+> This means we are accepting **any** monocular method, e.g. supervised, weakly-supervised, multi-task...
+> The only restriction is that the model cannot be trained on any portion of the SYNS(-Patches) dataset and must
+> make the final depth map prediction using only a single image.
 
-**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge Website]()] --- [[Paper](https://arxiv.org/abs/2208.01489)]**
+**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge Website](https://codalab.lisn.upsaclay.fr/competitions/10031)] --- [[Paper](https://arxiv.org/abs/2208.01489)]**
 {: .text-center}
 
 The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
@@ -97,13 +99,13 @@ Furthermore, the high-quality dense ground-truth LiDAR allows for the computatio
 
 
 <div class="container">
-<img class="img-syns" src="/MDEC/assets/imgs/syns/image_0551.png" alt="image_0551"/>
-<img class="img-syns" src="/MDEC/assets/imgs/syns/image_0893.png" alt="image_0893"/>
-<img class="img-syns" src="/MDEC/assets/imgs/syns/image_1114.png" alt="image_1114"/>
+<img class="img-syns" src="assets/imgs/syns/image_0551.png" alt="image_0551"/>
+<img class="img-syns" src="assets/imgs/syns/image_0893.png" alt="image_0893"/>
+<img class="img-syns" src="assets/imgs/syns/image_1114.png" alt="image_1114"/>
 
-<img class="img-syns" src="/MDEC/assets/imgs/syns/depth_0551.png" alt="depth_0551"/>
-<img class="img-syns" src="/MDEC/assets/imgs/syns/depth_0893.png" alt="depth_0893"/>
-<img class="img-syns" src="/MDEC/assets/imgs/syns/depth_1114.png" alt="depth_1114"/>
+<img class="img-syns" src="assets/imgs/syns/depth_0551.png" alt="depth_0551"/>
+<img class="img-syns" src="assets/imgs/syns/depth_0893.png" alt="depth_0893"/>
+<img class="img-syns" src="assets/imgs/syns/depth_1114.png" alt="depth_1114"/>
 </div>
 
 The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/7811). 
@@ -125,56 +127,56 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
 <div class="container">
 <figure>
     <a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">
-    <img class="img-author" src="/MDEC/assets/imgs/authors/jaime_spencer.jpg" alt="Jaime Spencer"/></a>
+    <img class="img-author" src="assets/imgs/authors/jaime_spencer.jpg" alt="Jaime Spencer"/></a>
     <b><br><a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">Jaime Spencer</a>
     <br>Research Fellow <br>University of Surrey</b>
 </figure>
 
 <figure>
     <a href="https://research.aston.ac.uk/en/persons/stella-qian">
-    <img class="img-author" src="/MDEC/assets/imgs/authors/stella_qian.png" alt="Stella Quian"/></a>
+    <img class="img-author" src="assets/imgs/authors/stella_qian.png" alt="Stella Quian"/></a>
     <b><br><a href="https://research.aston.ac.uk/en/persons/stella-qian">Stella Qian</a>
     <br>Research Fellow <br>Aston University</b>
 </figure>
 
 <figure>
     <a href="https://www.amazon.science/author/chris-russell?0000016e-4318-de2e-a76e-cfdfa9700000-page=2">
-    <img class="img-author" src="/MDEC/assets/imgs/authors/chris_russell.jpeg" alt="Chris Russell"/></a>
+    <img class="img-author" src="assets/imgs/authors/chris_russell.jpeg" alt="Chris Russell"/></a>
     <b><br><a href="https://www.amazon.science/author/chris-russell?0000016e-4318-de2e-a76e-cfdfa9700000-page=2">Chris Russell</a>
     <br>Senior Applied Scientist <br>Amazon</b>
 </figure>
 
 <figure>
     <a href="http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/biography.html">
-    <img class="img-author" src="/MDEC/assets/imgs/authors/simon_hadfield.png" alt="Simon Hadfield"/></a>
+    <img class="img-author" src="assets/imgs/authors/simon_hadfield.png" alt="Simon Hadfield"/></a>
     <b><br><a href="http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/biography.html">Simon Hadfield</a>
     <br>Senior Lecturer <br>University of Surrey</b>
 </figure>
 
 <figure>
     <a href="https://www.southampton.ac.uk/people/5wzxpy/doctor-erich-graf">
-    <img class="img-author" src="/MDEC/assets/imgs/authors/erich_graf.jpeg" alt="Erich Graf"/></a>
+    <img class="img-author" src="assets/imgs/authors/erich_graf.jpeg" alt="Erich Graf"/></a>
     <b><br><a href="https://www.southampton.ac.uk/people/5wzxpy/doctor-erich-graf">Erich Graf</a>
     <br>Associate Professor <br>University of Southampton</b>
 </figure>
 
 <figure>
     <a href="https://www.elderlab.yorku.ca/jelder/">
-    <img class="img-author" src="/MDEC/assets/imgs/authors/james_elder.jpg" alt="James Elder"/></a>
+    <img class="img-author" src="assets/imgs/authors/james_elder.jpg" alt="James Elder"/></a>
     <b><br><a href="https://www.elderlab.yorku.ca/jelder/">James Elder</a>
     <br>Professor <br>York University</b>
 </figure>
 
 <figure>
     <a href="https://research.aston.ac.uk/en/persons/andrew-schofield">
-    <img class="img-author" src="/MDEC/assets/imgs/authors/andrew_schofield.png" alt="Andrew Schofield"/></a>
+    <img class="img-author" src="assets/imgs/authors/andrew_schofield.png" alt="Andrew Schofield"/></a>
     <b><br><a href="https://research.aston.ac.uk/en/persons/andrew-schofield">Andrew Schofield</a>
     <br>Professor <br>Aston University</b>
 </figure>
 
 <figure>
     <a href="http://personal.ee.surrey.ac.uk/Personal/R.Bowden/">
-    <img class="img-author" src="/MDEC/assets/imgs/authors/richard_bowden.png" alt="Richard Bowden"/></a>
+    <img class="img-author" src="assets/imgs/authors/richard_bowden.png" alt="Richard Bowden"/></a>
     <b><br><a href="http://personal.ee.surrey.ac.uk/Personal/R.Bowden/">Richard Bowden</a>
     <br>Professor <br>University of Surrey</b>
 </figure>

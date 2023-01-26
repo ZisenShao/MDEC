@@ -5,6 +5,8 @@ theme: jekyll-theme-cayman
 
 markdown: kramdown
 
+baseurl: /MDEC
+
 # Remove `View on GitHub` & Download buttons
 show_downloads: false
 #github:
