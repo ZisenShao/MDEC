@@ -36,6 +36,7 @@ and a <a href="#challenge" target="_self">challenge</a> organized around a novel
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 ## :newspaper: **News** {#news}
+- **27 Jan 2023 ---** :loudspeaker: Challenge dates have been announced!
 - **16 Jan 2023 ---** :microphone: **Alex Kendall** confirmed as keynote speaker.
 - **16 Jan 2023 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker.
 - **16 Jan 2023 ---** :tada: Website is live!
@@ -43,7 +44,12 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 ---
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
-> **TBA**
+- **01 Feb 2023 (00:00 UTC) ---** Challenge Development Phase **Opens** (Val)
+- **01 Mar 2023 (00:00 UTC) ---** Challenge Final Phase **Opens** (Test)
+- **14 Mar 2023 (23:59 UTC) ---** Challenge Submission **Closes**
+- **21 Mar 2023 ---** Method Description Submission
+- **28 Mar 2023 ---** Invited Talk Notification
+- **18 Jun 2023 (Half-day AM) ---** MDEC Workshop @ CVPR 2023
 
 ---
 
@@ -108,7 +114,7 @@ Furthermore, the high-quality dense ground-truth LiDAR allows for the computatio
 <img class="img-syns" src="assets/imgs/syns/depth_1114.png" alt="depth_1114"/>
 </div>
 
-The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/7811). 
+The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/10031). 
 We have provided a [**GitHub repository**](https://github.com/jspenmar/monodepth_benchmark) containing training and evaluation code for multiple recent SotA approaches to MDE.
 These will serve as a competitive baseline for the challenge and as a starting point for participants.
 The challenge leaderboards use the withheld validation and test sets for **SYNS-Patches**.
