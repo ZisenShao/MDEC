@@ -36,7 +36,7 @@ and a <a href="#challenge" target="_self">challenge</a> organized around a novel
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 ## :newspaper: **News** {#news}
-- **27 Jan 2023 ---** :loudspeaker: Challenge dates have been announced!
+- **30 Jan 2023 ---** :loudspeaker: Challenge dates have been announced!
 - **16 Jan 2023 ---** :microphone: **Alex Kendall** confirmed as keynote speaker.
 - **16 Jan 2023 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker.
 - **16 Jan 2023 ---** :tada: Website is live!
@@ -96,7 +96,7 @@ This presentation can be either in-person or virtually.**
 > The only restriction is that the model cannot be trained on any portion of the SYNS(-Patches) dataset and must
 > make the final depth map prediction using only a single image.
 
-**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge Website](https://codalab.lisn.upsaclay.fr/competitions/10031)] --- [[Paper](https://arxiv.org/abs/2208.01489)]**
+**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge](https://codalab.lisn.upsaclay.fr/competitions/10031)] --- [[Paper](https://arxiv.org/abs/2208.01489)]**
 {: .text-center}
 
 The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
