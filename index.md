@@ -36,6 +36,8 @@ and a <a href="#challenge" target="_self">challenge</a> organized around a novel
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 ## :newspaper: **News** {#news}
+- **16 Mar 2023 ---** :microphone: **Daniel Cremers** confirmed as keynote speaker.
+- **14 Mar 2023 ---** :loudspeaker: Challenge is now concluded.
 - **30 Jan 2023 ---** :loudspeaker: Challenge dates have been announced!
 - **16 Jan 2023 ---** :microphone: **Alex Kendall** confirmed as keynote speaker.
 - **16 Jan 2023 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker.
@@ -59,8 +61,6 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 --- 
 
 ## :microphone: **Keynote Speakers** {#speakers}
-> More speakers **TBA**
-
 <div class="container">
 <figure>
     <a href="https://alexgkendall.com">
@@ -75,7 +75,14 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
     <b><br><a href="https://homepages.inf.ed.ac.uk/omacaod/">Oisin Mac Aodha</a>
     <br>Assistant Professor <br>University of Edinburgh</b>
 </figure>
-</div> 
+
+<figure>
+    <a href="https://cvg.cit.tum.de/members/cremers">
+    <img class="img-author" src="assets/imgs/authors/daniel_cremers.png" alt="Daniel Cremers"/></a>
+    <b><br><a href="https://cvg.cit.tum.de/members/cremers">Daniel Cremers</a>
+    <br>Professor <br>Technical University of Munich</b>
+</figure>
+</div>
 
 ---
 

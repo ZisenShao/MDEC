@@ -22,7 +22,7 @@ a {
 }
 
 .container {
-  width: 100%;
+  width: 105%;
   padding: 5px;
   text-align: center;
   text-align-last: center;
@@ -34,6 +34,7 @@ a {
   height:190px;
   object-fit:cover;
   border-radius:50%;
+  filter: drop-shadow(0 0 0.75rem #000000);
 }
 
 .img-syns {
