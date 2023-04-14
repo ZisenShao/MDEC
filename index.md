@@ -35,7 +35,11 @@ invited <a href="#speakers" target="_self">keynote talks</a> discussing current 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
+## :page_facing_up: **Paper**
+[![paper](assets/imgs/paper_cvpr2023.jpeg)](https://arxiv.org/abs/2211.12174)
+
 ## :newspaper: **News** {#news}
+- **15 Apr 2023 ---** :trophy: Challenge winners have been announced! Thank you to all participants.
 - **16 Mar 2023 ---** :microphone: **Daniel Cremers** confirmed as keynote speaker.
 - **14 Mar 2023 ---** :loudspeaker: Challenge is now concluded.
 - **30 Jan 2023 ---** :loudspeaker: Challenge dates have been announced!
@@ -87,7 +91,33 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 ---
 
 ## :trophy: **Challenge Winners** {#winners}
-> **TBA**
+
+Congratulations to the challenge winners!
+* Supervised: **DJI&ZJU**
+* Self-Supervised: **imec-IDLab-UAntwerp**
+
+|                             |   |  F                                                         | F<br/>(Edges)                                              | MEA                                                             | RMSE                                                            | Rel                                                          | Acc<br/>(Edges)                                                  | Comp<br/>(Edges)                                                | 
+|-----------------------------|-------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|
+| **DJI&ZJU**                 | D     | <span style="color:green"><strong>17.51</strong></span>          | 8.80                                                            | <span style="color:green"><strong>4.52</strong></span>          | 8.72                                                            | <span style="color:green"><strong>24.32</strong></span>          | 3.22                                                            |                                                            21.65 | 
+| **Pokemon**                 | D     | <span style="color:blue;text-decoration: underline">16.94</span> | <span style="color:green"><strong>9.63</strong></span>          | <span style="color:blue;text-decoration: underline">4.71</span> | <span style="color:green"><strong>8.00</strong></span>          | 25.35                                                            | 3.56                                                            |                                                            19.95 | 
+| **cv-challenge**            | D     | 16.70                                                            | <span style="color:blue;text-decoration: underline">9.36</span> | 4.91                                                            | 8.63                                                            | <span style="color:blue;text-decoration: underline">24.33</span> | <span style="color:green"><strong>3.02</strong></span>          |                                                            18.07 | 
+| **imec-IDLab-<br>UAntwerp** | MS    | 16.00                                                            | 8.49                                                            | 5.08                                                            | 8.96                                                            | 28.46                                                            | 3.74                                                            |          <span style="color:green"><strong>11.32</strong></span> | 
+| **GMD**                     | MS    | 14.71                                                            | 8.13                                                            | 5.17                                                            | 8.97                                                            | 29.43                                                            | 3.75                                                            | <span style="color:blue;text-decoration: underline">17.29</span> | 
+| **Baseline**                | S     | 13.72                                                            | 7.76                                                            | 5.56                                                            | 9.72                                                            | 32.04                                                            | 3.97                                                            |                                                            21.63 | 
+| **DepthSquad**              | D     | 12.77                                                            | 7.68                                                            | 5.17                                                            | 8.83                                                            | 29.92                                                            | 3.56                                                            |                                                            35.26 | 
+| **MonoViTeam**              | MSD*  | 12.44                                                            | 7.49                                                            | 5.05                                                            | <span style="color:blue;text-decoration: underline">8.59</span> | 28.99                                                            | <span style="color:blue;text-decoration: underline">3.10</span> |                                                            38.93 | 
+| **USTC-IAT-<br>United**     | MS    | 11.29                                                            | 7.18                                                            | 5.81                                                            | 9.58                                                            | 32.82                                                            | 3.47                                                            |                                                            43.38 | 
+
+
+### **Teams**
+* **DJI&ZJU**: Wei Yin, Kai Cheng, Guangkai Xu, Hao Chen, Bo Li, Kaixuan Wang, Xiaozhi Chen
+* **Pokemon**: Mochu Xiang, Jiahui Ren, Yufei Wang, Yuchao Dai
+* **cv-challenge**: Chao Li, Qi Zhang, Zhiwen Liu, Yixing Wang
+* **DepthSquad**: Myungwoo Nam, Huynh Thai Hoa, Khan Muhammad Umair, Sadat Hossain, S. M. Nadim Uddin
+* **imec-IDLab-UAntwerp**: Linh Trinh, Ali Anwar, Siegfried Mercelis
+* **GMD**: Baojun Li, Jianmian Huang
+* **MonoViTeam**: Chaoqiang Zhao, Matteo Poggi, Fabio Tosi, Yang Tang, Stefano Mattoccia
+* **USTC-IAT-United**: Jun Yu, Mohan Jing, Xiaohua Qi
 
 ---
 
