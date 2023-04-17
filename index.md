@@ -36,7 +36,7 @@ and a <a href="#challenge" target="_self">challenge</a> organized around a novel
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 ## :page_facing_up: **Paper**
-[![paper](assets/imgs/paper_cvpr2023.jpeg)](https://arxiv.org/abs/2211.12174)
+[![paper](assets/imgs/paper_cvpr2023.jpeg)](https://arxiv.org/abs/2304.07051)
 
 ## :newspaper: **News** {#news}
 - **15 Apr 2023 ---** :trophy: Challenge winners have been announced! Thank you to all participants.
