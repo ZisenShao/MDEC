@@ -39,6 +39,7 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 [![paper](assets/imgs/paper_cvpr2023.jpeg)](https://arxiv.org/abs/2304.07051)
 
 ## :newspaper: **News** {#news}
+- **15 May 2023 ---** :calendar: Tentative workshop schedule released.
 - **15 Apr 2023 ---** :trophy: Challenge winners have been announced! Thank you to all participants.
 - **16 Mar 2023 ---** :microphone: **Daniel Cremers** confirmed as keynote speaker.
 - **14 Mar 2023 ---** :loudspeaker: Challenge is now concluded.
@@ -55,12 +56,28 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 - **14 Mar 2023 (23:59 UTC) ---** Challenge Submission **Closes**
 - **21 Mar 2023 ---** Method Description Submission
 - **28 Mar 2023 ---** Invited Talk Notification
-- **18 Jun 2023 (Half-day AM) ---** MDEC Workshop @ CVPR 2023
+- **18 Jun 2023 (08:30AM -- 12:00PM PDT) ---** MDEC Workshop @ CVPR 2023
 
 ---
 
 ## :calendar: **Schedule** {#schedule}
-> **TBA**
+The workshop will take place on **18 Jun 2023** from **08:30AM -- 12:00PM PDT**.
+
+> **NOTE**: Times are shown in **Pacific Daylight Time**. 
+> Please take this into account if joining the workshop virtually.
+> 
+> **All talks will be hybrid.**
+
+| Time (PDT)    | Duration | Event                                    |
+|---------------|----------|------------------------------------------|
+| 08:30 - 08:35 | 10 mins  | Introduction                             |
+| 08:35 - 09:15 | 40 mins  | **Keynote #1**                           |
+| 09:15 - 09:40 | 25 mins  | The Monocular Depth Estimation Challenge |
+| 09:40 - 09:55 | 15 mins  | Challenge Participant                    |
+| 09:55 - 10:10 | 15 mins  | Challenge Participant                    |
+| 10:10 - 10:40 | 30 mins  | _Break_                                  |
+| 10:40 - 11:20 | 40 mins  | **Keynote #2**                           |
+| 11:20 - 12:00 | 40 mins  | **Keynote #3**                           |
 
 --- 
 
