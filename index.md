@@ -66,30 +66,23 @@ The workshop will take place on **18 Jun 2023** from **08:30AM -- 12:00PM PDT**.
 > **NOTE**: Times are shown in **Pacific Daylight Time**. 
 > Please take this into account if joining the workshop virtually.
 > 
-> **All talks will be hybrid.**
+> All presentations (excluding challenge winners) will be in-person and streamed live on Zoom.
 
-| Time (PDT)    | Duration | Event                                    |
-|---------------|----------|------------------------------------------|
-| 08:30 - 08:35 | 10 mins  | Introduction                             |
-| 08:35 - 09:15 | 40 mins  | **Keynote #1**                           |
-| 09:15 - 09:40 | 25 mins  | The Monocular Depth Estimation Challenge |
-| 09:40 - 09:55 | 15 mins  | Challenge Participant                    |
-| 09:55 - 10:10 | 15 mins  | Challenge Participant                    |
-| 10:10 - 10:40 | 30 mins  | _Break_                                  |
-| 10:40 - 11:20 | 40 mins  | **Keynote #2**                           |
-| 11:20 - 12:00 | 40 mins  | **Keynote #3**                           |
+| Time (PDT)    | Duration | Event                                                                                 |
+|---------------|----------|---------------------------------------------------------------------------------------|
+| 08:30 - 08:35 | 10 mins  | Introduction                                                                          |
+| 08:35 - 09:15 | 40 mins  | **Oisin Mac Aodha** -- Advancing Monocular Depth Estimation                           |
+| 09:15 - 09:40 | 25 mins  | The Monocular Depth Estimation Challenge                                              |
+| 09:40 - 09:55 | 15 mins  | **Linh Trinh** -- Challenge Winner (Self-Supervised)                                  |
+| 09:55 - 10:10 | 15 mins  | **Kai Cheng** -- Challenge Winner (Supervised)                                        |
+| 10:10 - 10:40 | 30 mins  | _Break_                                                                               |
+| 10:40 - 11:20 | 40 mins  | **Daniel Cremers** -- From Monocular Depth Estimation to <br> 3D Scene Reconstruction |
+| 11:20 - 12:00 | 40 mins  | **Alex Kendall**                                                                      |
 
 --- 
 
 ## :microphone: **Keynote Speakers** {#speakers}
 <div class="container">
-<figure>
-    <a href="https://alexgkendall.com">
-    <img class="img-author" src="assets/imgs/authors/alex_kendall.jpg" alt="Alex Kendall"/></a>
-    <b><br><a href="https://alexgkendall.com">Alex Kendall</a>
-    <br>CEO <br>Wayve</b>
-</figure>
-
 <figure>
     <a href="https://homepages.inf.ed.ac.uk/omacaod/">
     <img class="img-author" src="assets/imgs/authors/oisin_macaodha.jpeg" alt="Oisin Mac Aodha"/></a>
@@ -103,7 +96,36 @@ The workshop will take place on **18 Jun 2023** from **08:30AM -- 12:00PM PDT**.
     <b><br><a href="https://cvg.cit.tum.de/members/cremers">Daniel Cremers</a>
     <br>Professor <br>Technical University of Munich</b>
 </figure>
+
+<figure>
+    <a href="https://alexgkendall.com">
+    <img class="img-author" src="assets/imgs/authors/alex_kendall.jpg" alt="Alex Kendall"/></a>
+    <b><br><a href="https://alexgkendall.com">Alex Kendall</a>
+    <br>CEO <br>Wayve</b>
+</figure>
 </div>
+
+[**Oisin Mac Aodha**](https://homepages.inf.ed.ac.uk/omacaod/)
+is a Lecturer in Machine Learning in the School of Informatics at the University of Edinburgh.
+From 2016-2019, he was a postdoc in Prof. Pietro Perona's Computational Vision Lab at Caltech.
+Prior to that, he was a postdoc in the Department of Computer Science at University College of London (UCL) with Prof. Gabriel Brostow and Prof. Kate Jones.
+He received his PhD from UCL in 2014, advised by Prof. Gabriel Brostow, and has an MSc in Machine Learning from UCL an BEng in electronic and computing engineering from the University of Galway.
+Along with being a Fellow of the Alan Turing Institute and a European Laboratory for Learning and Intelligent Systems (ELLIS) Scholar.
+His current research interests are in the areas of computer vision and machine learning, with a specific emphasis on shape and depth estimation, human-in-the-loop learning, and fine-grained image understanding.
+
+[**Daniel Cremers**](https://cvg.cit.tum.de/members/cremers)
+holds the Chair of Computer Vision and Artificial Intelligence at TU Munich. 
+He has coauthored over 500 publications in computer vision, machine learning, robotics and applied mathematics, many of which received awards.  
+He was listed among Germany's top 40 researchers below 40 (Capital 2010), he received the Gottfried Wilhelm Leibniz Award 2016, the biggest award in German academia, and he is member of the Bavarian Academy of Sciences and Humanities. 
+He is initiator and co-director of the Munich Data Science Institute, the Munich Center for Machine Learning and ELLIS Munich.  
+He has served as founder, advisor and investor to numerous startups.
+
+[**Alex Kendall**](https://alexgkendall.com)
+is the co-founder and CEO Wayve, a London head-quartered startup reimagining self-driving with embodied artificial intelligence.
+Widely recognised as a world expert in this field, Alex's leadership has led Wayve to become one of the most exciting startups in the burgeoning AV industry.
+Alex was awarded his PhD at the University of Cambridge, where he studied as a Woolf Fisher Scholar. 
+Following his highly-cited research, he was elected a Research Fellow at Trinity College, University of Cambridge.  
+Alex was awarded the 2018 BMVA Prize, 2019 ELLIS European PhD Prize and was named on the 2020 Forbes 30 Under 30 list for contributions to technology entrepreneurship.
 
 ---
 
