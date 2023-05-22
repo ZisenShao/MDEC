@@ -72,7 +72,7 @@ The workshop will take place on **18 Jun 2023** from **08:30AM -- 12:00PM PDT**.
 |---------------|----------|---------------------------------------------------------------------------------------|
 | 08:30 - 08:35 | 10 mins  | Introduction                                                                          |
 | 08:35 - 09:15 | 40 mins  | **Oisin Mac Aodha** -- Advancing Monocular Depth Estimation                           |
-| 09:15 - 09:40 | 25 mins  | The Monocular Depth Estimation Challenge                                              |
+| 09:15 - 09:40 | 25 mins  | **Jaime Spencer** -- The Monocular Depth Estimation Challenge                         |
 | 09:40 - 09:55 | 15 mins  | **Linh Trinh** -- Challenge Winner (Self-Supervised)                                  |
 | 09:55 - 10:10 | 15 mins  | **Kai Cheng** -- Challenge Winner (Supervised)                                        |
 | 10:10 - 10:40 | 30 mins  | _Break_                                                                               |
