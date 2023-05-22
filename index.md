@@ -77,7 +77,7 @@ The workshop will take place on **18 Jun 2023** from **08:30AM -- 12:00PM PDT**.
 | 09:55 - 10:10 | 15 mins  | **Kai Cheng** -- Challenge Winner (Supervised)                                        |
 | 10:10 - 10:40 | 30 mins  | _Break_                                                                               |
 | 10:40 - 11:20 | 40 mins  | **Daniel Cremers** -- From Monocular Depth Estimation to <br> 3D Scene Reconstruction |
-| 11:20 - 12:00 | 40 mins  | **Alex Kendall**                                                                      |
+| 11:20 - 12:00 | 40 mins  | **Alex Kendall** -- Building the Foundation Model for Embodied AI                     |
 
 --- 
 
