@@ -68,16 +68,16 @@ The workshop will take place on **18 Jun 2023** from **08:30AM -- 12:00PM PDT**.
 > 
 > All presentations (excluding challenge winners) will be in-person and streamed live on Zoom.
 
-| Time (PDT)    | Duration | Event                                                                                 |
-|---------------|----------|---------------------------------------------------------------------------------------|
-| 08:30 - 08:35 | 10 mins  | Introduction                                                                          |
-| 08:35 - 09:15 | 40 mins  | **Oisin Mac Aodha** -- Advancing Monocular Depth Estimation                           |
-| 09:15 - 09:40 | 25 mins  | **Jaime Spencer** -- The Monocular Depth Estimation Challenge                         |
-| 09:40 - 09:55 | 15 mins  | **Linh Trinh** -- Challenge Winner (Self-Supervised)                                  |
-| 09:55 - 10:10 | 15 mins  | **Kai Cheng** -- Challenge Winner (Supervised)                                        |
-| 10:10 - 10:40 | 30 mins  | _Break_                                                                               |
-| 10:40 - 11:20 | 40 mins  | **Daniel Cremers** -- From Monocular Depth Estimation to <br> 3D Scene Reconstruction |
-| 11:20 - 12:00 | 40 mins  | **Alex Kendall** -- Building the Foundation Model for Embodied AI                     |
+| Time (PDT)    | Event                                                                                 |
+|---------------|---------------------------------------------------------------------------------------|
+| 08:30 - 08:35 | Introduction                                                                          |
+| 08:35 - 09:15 | **Oisin Mac Aodha** -- Advancing Monocular Depth Estimation                           |
+| 09:15 - 09:40 | **Jaime Spencer** -- The Monocular Depth Estimation Challenge                         |
+| 09:40 - 09:55 | **Linh Trinh** -- Challenge Winner (Self-Supervised)                                  |
+| 09:55 - 10:10 | **Kai Cheng** -- Challenge Winner (Supervised)                                        |
+| 10:10 - 10:40 | _Break_                                                                               |
+| 10:40 - 11:20 | **Daniel Cremers** -- From Monocular Depth Estimation to <br> 3D Scene Reconstruction |
+| 11:20 - 12:00 | **Alex Kendall** -- Building the Foundation Model for Embodied AI                     |
 
 --- 
 
