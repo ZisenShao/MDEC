@@ -74,7 +74,7 @@ The workshop will take place on **18 Jun 2023** from **08:30AM -- 12:00PM PDT**.
 | 08:35 - 09:15 | **Oisin Mac Aodha** -- Advancing Monocular Depth Estimation                           |
 | 09:15 - 09:40 | **Jaime Spencer** -- The Monocular Depth Estimation Challenge                         |
 | 09:40 - 09:55 | **Linh Trinh** -- Challenge Winner (Self-Supervised)                                  |
-| 09:55 - 10:10 | **Kai Cheng** -- Challenge Winner (Supervised)                                        |
+| 09:55 - 10:10 | **Wei Yin** -- Challenge Winner (Supervised)                                          |
 | 10:10 - 10:40 | _Break_                                                                               |
 | 10:40 - 11:20 | **Daniel Cremers** -- From Monocular Depth Estimation to <br> 3D Scene Reconstruction |
 | 11:20 - 12:00 | **Alex Kendall** -- Building the Foundation Model for Embodied AI                     |
