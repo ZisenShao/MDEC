@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 2<sup>nd</sup> Monocular Depth Estimation Challenge
-description: MDEC @ CVPR 2023
+title: 3<sup>nd</sup> Monocular Depth Estimation Challenge
+description: MDEC @ CVPR 2024
 ---
 
-:wave: Welcome to the **2<sup>nd</sup> Monocular Depth Estimation Challenge Workshop** organized at :wave: 
-[<img class="rounded-rect" src="assets/imgs/cvpr2023.svg" width="400px" alt="cvpr2023"/>](https://cvpr2023.thecvf.com)
+:wave: Welcome to the **3<sup>rd</sup> Monocular Depth Estimation Challenge Workshop** organized at :wave: 
+[<img class="rounded-rect" src="assets/imgs/cvpr2024.png" width="400px" alt="cvpr2024"/>](https://cvpr2023.thecvf.com)
 {: .text-center}
 
 <div class="container">
@@ -35,128 +35,79 @@ invited <a href="#speakers" target="_self">keynote talks</a> discussing current 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
-## :page_facing_up: **Paper**
-[![paper](assets/imgs/paper_cvpr2023.jpeg)](https://arxiv.org/abs/2304.07051)
-
 ## :newspaper: **News** {#news}
-- **15 May 2023 ---** :calendar: Tentative workshop schedule released.
-- **15 Apr 2023 ---** :trophy: Challenge winners have been announced! Thank you to all participants.
-- **16 Mar 2023 ---** :microphone: **Daniel Cremers** confirmed as keynote speaker.
-- **14 Mar 2023 ---** :loudspeaker: Challenge is now concluded.
-- **30 Jan 2023 ---** :loudspeaker: Challenge dates have been announced!
-- **16 Jan 2023 ---** :microphone: **Alex Kendall** confirmed as keynote speaker.
-- **16 Jan 2023 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker.
-- **16 Jan 2023 ---** :tada: Website is live!
+- **18 Jan 2024 ---** :microphone: **Vitor Guizilini** confirmed as keynote speaker.
+- **18 Jan 2024 ---** :microphone: **Matthias Müller** confirmed as keynote speaker.
+- **18 Jan 2024 ---** :microphone: **Eric Brachmann** confirmed as keynote speaker.
+- **18 Jan 2024 ---** :microphone: **Fatma Güney** confirmed as keynote speaker.
+- **18 Jan 2024 ---** :tada: Website is live!
 
 ---
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
-- **01 Feb 2023 (00:00 UTC) ---** Challenge Development Phase **Opens** (Val)
-- **01 Mar 2023 (00:00 UTC) ---** Challenge Final Phase **Opens** (Test)
-- **14 Mar 2023 (23:59 UTC) ---** Challenge Submission **Closes**
-- **21 Mar 2023 ---** Method Description Submission
-- **28 Mar 2023 ---** Invited Talk Notification
-- **18 Jun 2023 (08:30AM -- 12:00PM PDT) ---** MDEC Workshop @ CVPR 2023
+- **01 Feb 2024 (00:00 UTC) ---** Challenge Development Phase **Opens** (Val)
+- **01 Mar 2024 (00:00 UTC) ---** Challenge Final Phase **Opens** (Test)
+- **25 Mar 2024 (23:59 UTC) ---** Challenge Submission **Closes**
+- **01 Apr 2024 ---** Method Description Submission
+- **12 Apr 2024 ---** Invited Talk Notification
+- **17-21 Jun 2024 ---** MDEC Workshop @ CVPR 2024
 
 ---
 
 ## :calendar: **Schedule** {#schedule}
-The workshop will take place on **18 Jun 2023** from **08:30AM -- 12:00PM PDT**.
 
-> **NOTE**: Times are shown in **Pacific Daylight Time**. 
-> Please take this into account if joining the workshop virtually.
-> 
-> All presentations (excluding challenge winners) will be in-person and streamed live on Zoom.
-
-| Time (PDT)    | Event                                                                                 |
-|---------------|---------------------------------------------------------------------------------------|
-| 08:30 - 08:35 | Introduction                                                                          |
-| 08:35 - 09:15 | **Oisin Mac Aodha** -- Advancing Monocular Depth Estimation                           |
-| 09:15 - 09:40 | **Jaime Spencer** -- The Monocular Depth Estimation Challenge                         |
-| 09:40 - 09:55 | **Linh Trinh** -- Challenge Winner (Self-Supervised)                                  |
-| 09:55 - 10:10 | **Wei Yin** -- Challenge Winner (Supervised)                                          |
-| 10:10 - 10:40 | _Break_                                                                               |
-| 10:40 - 11:20 | **Daniel Cremers** -- From Monocular Depth Estimation to <br> 3D Scene Reconstruction |
-| 11:20 - 12:00 | **Alex Kendall** -- Building the Foundation Model for Embodied AI                     |
+> TBA!
 
 --- 
 
 ## :microphone: **Keynote Speakers** {#speakers}
 <div class="container">
 <figure>
-    <a href="https://homepages.inf.ed.ac.uk/omacaod/">
-    <img class="img-author" src="assets/imgs/authors/oisin_macaodha.jpeg" alt="Oisin Mac Aodha"/></a>
-    <b><br><a href="https://homepages.inf.ed.ac.uk/omacaod/">Oisin Mac Aodha</a>
-    <br>Assistant Professor <br>University of Edinburgh</b>
+    <a href="https://mysite.ku.edu.tr/fguney/">
+    <img class="img-author" src="assets/imgs/authors/fatma_guney.jpeg" alt="Fatma Güney"/></a>
+    <b><br><a href="https://mysite.ku.edu.tr/fguney/">Fatma Güney</a>
+    <br>Assistant Professor<br>Koç University</b>
 </figure>
 
 <figure>
-    <a href="https://cvg.cit.tum.de/members/cremers">
-    <img class="img-author" src="assets/imgs/authors/daniel_cremers.png" alt="Daniel Cremers"/></a>
-    <b><br><a href="https://cvg.cit.tum.de/members/cremers">Daniel Cremers</a>
-    <br>Professor <br>Technical University of Munich</b>
+    <a href="https://ebrach.github.io/">
+    <img class="img-author" src="assets/imgs/authors/eric_brachmann.jpeg" alt="Eric Brachmann"/></a>
+    <b><br><a href="https://ebrach.github.io/">Eric Brachmann</a>
+    <br>Staff Scientist<br>Niantic</b>
 </figure>
 
 <figure>
-    <a href="https://alexgkendall.com">
-    <img class="img-author" src="assets/imgs/authors/alex_kendall.jpg" alt="Alex Kendall"/></a>
-    <b><br><a href="https://alexgkendall.com">Alex Kendall</a>
-    <br>CEO <br>Wayve</b>
+    <a href="https://matthias.pw/">
+    <img class="img-author" src="assets/imgs/authors/matthias_muller.png" alt="Matthias Müller"/></a>
+    <b><br><a href="https://matthias.pw/">Matthias Müller</a>
+    <br>Senior Researcher<br>Apple</b>
+</figure>
+
+<figure>
+    <a href="http://vitorguizilini.weebly.com/">
+    <img class="img-author" src="assets/imgs/authors/vitor_guizilini.jpeg" alt="Vitor Guizilini"/></a>
+    <b><br><a href="http://vitorguizilini.weebly.com/">Vitor Guizilini</a>
+    <br>Staff Research Scientist<br>Toyota Research Institute</b>
 </figure>
 </div>
 
-[**Oisin Mac Aodha**](https://homepages.inf.ed.ac.uk/omacaod/)
-is a Lecturer in Machine Learning in the School of Informatics at the University of Edinburgh.
-From 2016-2019, he was a postdoc in Prof. Pietro Perona's Computational Vision Lab at Caltech.
-Prior to that, he was a postdoc in the Department of Computer Science at University College of London (UCL) with Prof. Gabriel Brostow and Prof. Kate Jones.
-He received his PhD from UCL in 2014, advised by Prof. Gabriel Brostow, and has an MSc in Machine Learning from UCL an BEng in electronic and computing engineering from the University of Galway.
-Along with being a Fellow of the Alan Turing Institute and a European Laboratory for Learning and Intelligent Systems (ELLIS) Scholar.
-His current research interests are in the areas of computer vision and machine learning, with a specific emphasis on shape and depth estimation, human-in-the-loop learning, and fine-grained image understanding.
+[**Fatma Güney**](https://mysite.ku.edu.tr/fguney/)
+...
 
-[**Daniel Cremers**](https://cvg.cit.tum.de/members/cremers)
-holds the Chair of Computer Vision and Artificial Intelligence at TU Munich. 
-He has coauthored over 500 publications in computer vision, machine learning, robotics and applied mathematics, many of which received awards.  
-He was listed among Germany's top 40 researchers below 40 (Capital 2010), he received the Gottfried Wilhelm Leibniz Award 2016, the biggest award in German academia, and he is member of the Bavarian Academy of Sciences and Humanities. 
-He is initiator and co-director of the Munich Data Science Institute, the Munich Center for Machine Learning and ELLIS Munich.  
-He has served as founder, advisor and investor to numerous startups.
+[**Eric Brachmann**](https://ebrach.github.io/)
+...
 
-[**Alex Kendall**](https://alexgkendall.com)
-is the co-founder and CEO Wayve, a London head-quartered startup reimagining self-driving with embodied artificial intelligence.
-Widely recognised as a world expert in this field, Alex's leadership has led Wayve to become one of the most exciting startups in the burgeoning AV industry.
-Alex was awarded his PhD at the University of Cambridge, where he studied as a Woolf Fisher Scholar. 
-Following his highly-cited research, he was elected a Research Fellow at Trinity College, University of Cambridge.  
-Alex was awarded the 2018 BMVA Prize, 2019 ELLIS European PhD Prize and was named on the 2020 Forbes 30 Under 30 list for contributions to technology entrepreneurship.
+[**Matthias Müller**](https://matthias.pw/)
+...
+
+[**Vitor Guizilini**](http://vitorguizilini.weebly.com/)
+...
 
 ---
 
 ## :trophy: **Challenge Winners** {#winners}
 
-Congratulations to the challenge winners!
-* Supervised: **DJI&ZJU**
-* Self-Supervised: **imec-IDLab-UAntwerp**
-
-|                             |   |  F                                                         | F<br/>(Edges)                                              | MEA                                                             | RMSE                                                            | Rel                                                          | Acc<br/>(Edges)                                                  | Comp<br/>(Edges)                                                | 
-|-----------------------------|-------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|
-| **DJI&ZJU**                 | D     | <span style="color:green"><strong>17.51</strong></span>          | 8.80                                                            | <span style="color:green"><strong>4.52</strong></span>          | 8.72                                                            | <span style="color:green"><strong>24.32</strong></span>          | 3.22                                                            |                                                            21.65 | 
-| **Pokemon**                 | D     | <span style="color:blue;text-decoration: underline">16.94</span> | <span style="color:green"><strong>9.63</strong></span>          | <span style="color:blue;text-decoration: underline">4.71</span> | <span style="color:green"><strong>8.00</strong></span>          | 25.35                                                            | 3.56                                                            |                                                            19.95 | 
-| **cv-challenge**            | D     | 16.70                                                            | <span style="color:blue;text-decoration: underline">9.36</span> | 4.91                                                            | 8.63                                                            | <span style="color:blue;text-decoration: underline">24.33</span> | <span style="color:green"><strong>3.02</strong></span>          |                                                            18.07 | 
-| **imec-IDLab-<br>UAntwerp** | MS    | 16.00                                                            | 8.49                                                            | 5.08                                                            | 8.96                                                            | 28.46                                                            | 3.74                                                            |          <span style="color:green"><strong>11.32</strong></span> | 
-| **GMD**                     | MS    | 14.71                                                            | 8.13                                                            | 5.17                                                            | 8.97                                                            | 29.43                                                            | 3.75                                                            | <span style="color:blue;text-decoration: underline">17.29</span> | 
-| **Baseline**                | S     | 13.72                                                            | 7.76                                                            | 5.56                                                            | 9.72                                                            | 32.04                                                            | 3.97                                                            |                                                            21.63 | 
-| **DepthSquad**              | D     | 12.77                                                            | 7.68                                                            | 5.17                                                            | 8.83                                                            | 29.92                                                            | 3.56                                                            |                                                            35.26 | 
-| **MonoViTeam**              | MSD*  | 12.44                                                            | 7.49                                                            | 5.05                                                            | <span style="color:blue;text-decoration: underline">8.59</span> | 28.99                                                            | <span style="color:blue;text-decoration: underline">3.10</span> |                                                            38.93 | 
-| **USTC-IAT-<br>United**     | MS    | 11.29                                                            | 7.18                                                            | 5.81                                                            | 9.58                                                            | 32.82                                                            | 3.47                                                            |                                                            43.38 | 
-
-
-### **Teams**
-* **DJI&ZJU**: Wei Yin, Kai Cheng, Guangkai Xu, Hao Chen, Bo Li, Kaixuan Wang, Xiaozhi Chen
-* **Pokemon**: Mochu Xiang, Jiahui Ren, Yufei Wang, Yuchao Dai
-* **cv-challenge**: Chao Li, Qi Zhang, Zhiwen Liu, Yixing Wang
-* **DepthSquad**: Myungwoo Nam, Huynh Thai Hoa, Khan Muhammad Umair, Sadat Hossain, S. M. Nadim Uddin
-* **imec-IDLab-UAntwerp**: Linh Trinh, Ali Anwar, Siegfried Mercelis
-* **GMD**: Baojun Li, Jianmian Huang
-* **MonoViTeam**: Chaoqiang Zhao, Matteo Poggi, Fabio Tosi, Yang Tang, Stefano Mattoccia
-* **USTC-IAT-United**: Jun Yu, Mohan Jing, Xiaohua Qi
+> TBA!
 
 ---
 
@@ -172,7 +123,7 @@ This presentation can be either in-person or virtually.**
 > The only restriction is that the model cannot be trained on any portion of the SYNS(-Patches) dataset and must
 > make the final depth map prediction using only a single image.
 
-**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge](https://codalab.lisn.upsaclay.fr/competitions/10031)] --- [[Paper](https://arxiv.org/abs/2208.01489)]**
+**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge](https://codalab.lisn.upsaclay.fr/competitions)]**
 {: .text-center}
 
 The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
@@ -190,7 +141,7 @@ Furthermore, the high-quality dense ground-truth LiDAR allows for the computatio
 <img class="img-syns" src="assets/imgs/syns/depth_1114.png" alt="depth_1114"/>
 </div>
 
-The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/10031). 
+The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/). 
 We have provided a [**GitHub repository**](https://github.com/jspenmar/monodepth_benchmark) containing training and evaluation code for multiple recent SotA approaches to MDE.
 These will serve as a competitive baseline for the challenge and as a starting point for participants.
 The challenge leaderboards use the withheld validation and test sets for **SYNS-Patches**.
@@ -209,57 +160,50 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
 <div class="container">
 <figure>
     <a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">
+    <img class="img-author" src="assets/imgs/authors/ripudaman_arora.jpeg" alt="Ripudaman Singh Arora"/></a>
+    <b><br><a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">Ripudaman Singh Arora</a>
+    <br>Principal ML Researcher<br>Blue River Technology</b>
+</figure>
+
+<figure>
+    <a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">
     <img class="img-author" src="assets/imgs/authors/jaime_spencer.jpg" alt="Jaime Spencer"/></a>
     <b><br><a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">Jaime Spencer</a>
-    <br>Research Fellow <br>University of Surrey</b>
+    <br>Data Engineer<br>Oxa</b>
 </figure>
 
 <figure>
-    <a href="https://research.aston.ac.uk/en/persons/stella-qian">
-    <img class="img-author" src="assets/imgs/authors/stella_qian.png" alt="Stella Quian"/></a>
-    <b><br><a href="https://research.aston.ac.uk/en/persons/stella-qian">Stella Qian</a>
-    <br>Research Fellow <br>Aston University</b>
+    <a href="https://fabiotosi92.github.io/">
+    <img class="img-author" src="assets/imgs/authors/fabio_tosi.jpeg" alt="Fabio Tosi"/></a>
+    <b><br><a href="https://fabiotosi92.github.io/">Fabio Tosi</a>
+    <br>Junior Assistant Professor<br>University of Bologna</b>
 </figure>
 
 <figure>
-    <a href="https://www.amazon.science/author/chris-russell?0000016e-4318-de2e-a76e-cfdfa9700000-page=2">
+    <a href="https://mattpoggi.github.io/">
+    <img class="img-author" src="assets/imgs/authors/matteo_poggi.jpeg" alt="Matteo Poggi"/></a>
+    <b><br><a href="https://mattpoggi.github.io/">Matteo Poggi</a>
+    <br>Tenure-Track Assistant Professor<br>University of Bologna</b>
+</figure>
+
+<figure>
+    <a href="https://www.oii.ox.ac.uk/people/profiles/chris-russell/">
     <img class="img-author" src="assets/imgs/authors/chris_russell.jpeg" alt="Chris Russell"/></a>
-    <b><br><a href="https://www.amazon.science/author/chris-russell?0000016e-4318-de2e-a76e-cfdfa9700000-page=2">Chris Russell</a>
-    <br>Senior Applied Scientist <br>Amazon</b>
+    <b><br><a href="https://www.oii.ox.ac.uk/people/profiles/chris-russell/">Chris Russell</a>
+    <br>Associate Professor<br>Oxford Internet Institute</b>
 </figure>
 
 <figure>
-    <a href="http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/biography.html">
+    <a href="http://personalpages.surrey.ac.uk/s.hadfield/">
     <img class="img-author" src="assets/imgs/authors/simon_hadfield.png" alt="Simon Hadfield"/></a>
-    <b><br><a href="http://personal.ee.surrey.ac.uk/Personal/S.Hadfield/biography.html">Simon Hadfield</a>
-    <br>Senior Lecturer <br>University of Surrey</b>
+    <b><br><a href="http://personalpages.surrey.ac.uk/s.hadfield/">Simon Hadfield</a>
+    <br>Associate Professor<br>University of Surrey</b>
 </figure>
 
 <figure>
-    <a href="https://www.southampton.ac.uk/people/5wzxpy/doctor-erich-graf">
-    <img class="img-author" src="assets/imgs/authors/erich_graf.jpeg" alt="Erich Graf"/></a>
-    <b><br><a href="https://www.southampton.ac.uk/people/5wzxpy/doctor-erich-graf">Erich Graf</a>
-    <br>Associate Professor <br>University of Southampton</b>
-</figure>
-
-<figure>
-    <a href="https://www.elderlab.yorku.ca/jelder/">
-    <img class="img-author" src="assets/imgs/authors/james_elder.jpg" alt="James Elder"/></a>
-    <b><br><a href="https://www.elderlab.yorku.ca/jelder/">James Elder</a>
-    <br>Professor <br>York University</b>
-</figure>
-
-<figure>
-    <a href="https://research.aston.ac.uk/en/persons/andrew-schofield">
-    <img class="img-author" src="assets/imgs/authors/andrew_schofield.png" alt="Andrew Schofield"/></a>
-    <b><br><a href="https://research.aston.ac.uk/en/persons/andrew-schofield">Andrew Schofield</a>
-    <br>Professor <br>Aston University</b>
-</figure>
-
-<figure>
-    <a href="http://personal.ee.surrey.ac.uk/Personal/R.Bowden/">
+    <a href="https://personalpages.surrey.ac.uk/r.bowden/">
     <img class="img-author" src="assets/imgs/authors/richard_bowden.png" alt="Richard Bowden"/></a>
-    <b><br><a href="http://personal.ee.surrey.ac.uk/Personal/R.Bowden/">Richard Bowden</a>
-    <br>Professor <br>University of Surrey</b>
+    <b><br><a href="https://personalpages.surrey.ac.uk/r.bowden/">Richard Bowden</a>
+    <br>Professor<br>University of Surrey</b>
 </figure>
 </div>
