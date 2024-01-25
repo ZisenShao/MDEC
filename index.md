@@ -36,11 +36,9 @@ and a <a href="#challenge" target="_self">challenge</a> organized around a novel
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 ## :newspaper: **News** {#news}
-- **18 Jan 2024 ---** :microphone: **Vitor Guizilini** confirmed as keynote speaker.
-- **18 Jan 2024 ---** :microphone: **Matthias Müller** confirmed as keynote speaker.
-- **18 Jan 2024 ---** :microphone: **Eric Brachmann** confirmed as keynote speaker.
-- **18 Jan 2024 ---** :microphone: **Fatma Güney** confirmed as keynote speaker.
-- **18 Jan 2024 ---** :tada: Website is live!
+- **25 Jan 2024 ---** :microphone: **Eric Brachmann** confirmed as keynote speaker.
+- **25 Jan 2024 ---** :microphone: **Fatma Güney** confirmed as keynote speaker.
+- **25 Jan 2024 ---** :tada: Website is live!
 
 ---
 
@@ -75,33 +73,22 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
     <b><br><a href="https://ebrach.github.io/">Eric Brachmann</a>
     <br>Staff Scientist<br>Niantic</b>
 </figure>
-
-<figure>
-    <a href="https://matthias.pw/">
-    <img class="img-author" src="assets/imgs/authors/matthias_muller.png" alt="Matthias Müller"/></a>
-    <b><br><a href="https://matthias.pw/">Matthias Müller</a>
-    <br>Senior Researcher<br>Apple</b>
-</figure>
-
-<figure>
-    <a href="http://vitorguizilini.weebly.com/">
-    <img class="img-author" src="assets/imgs/authors/vitor_guizilini.jpeg" alt="Vitor Guizilini"/></a>
-    <b><br><a href="http://vitorguizilini.weebly.com/">Vitor Guizilini</a>
-    <br>Staff Research Scientist<br>Toyota Research Institute</b>
-</figure>
 </div>
 
 [**Fatma Güney**](https://mysite.ku.edu.tr/fguney/)
-...
+is an Assistant Professor at Koc University in Istanbul. 
+She received her PhD from the Max Planck Institute in Germany. 
+Her research focuses on computer vision problems related to autonomous driving. 
+In the last few years, she published papers on monocular depth estimation, unsupervised object segmentation, and future prediction in different representations. 
+She is a recipient of the ERC Starting Grant as well as prestigious fellowships including the Newton Fund Advanced Fellowship and the Marie Curie Individual Fellowship. 
+She regularly serves as a reviewer with multiple outstanding reviewer awards and more recently as an Area Chair in top-tier Computer Vision conferences.
 
-[**Eric Brachmann**](https://ebrach.github.io/)
-...
-
-[**Matthias Müller**](https://matthias.pw/)
-...
-
-[**Vitor Guizilini**](http://vitorguizilini.weebly.com/)
-...
+[**Eric Brachmann**](https://ebrach.github.io/) 
+is a staff scientist at Niantic, working on the Lightship Visual Positioning System (VPS). 
+He works at the intersection of machine learning and computer vision, 3D vision in particular. 
+His research revolves around topics such as visual relocalisation, pose estimation, end-to-end learning, robust optimization and feature matching.
+He publishes his research in the top conferences in computer vision where he is also an active reviewer with several outstanding reviewer mentions. 
+He has co-organized several tutorials and workshops on visual relocalisation and object pose estimation.
 
 ---
 
@@ -123,7 +110,7 @@ This presentation can be either in-person or virtually.**
 > The only restriction is that the model cannot be trained on any portion of the SYNS(-Patches) dataset and must
 > make the final depth map prediction using only a single image.
 
-**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge](https://codalab.lisn.upsaclay.fr/competitions)]**
+**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge](https://codalab.lisn.upsaclay.fr/competitions/17161)]**
 {: .text-center}
 
 The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
@@ -141,7 +128,7 @@ Furthermore, the high-quality dense ground-truth LiDAR allows for the computatio
 <img class="img-syns" src="assets/imgs/syns/depth_1114.png" alt="depth_1114"/>
 </div>
 
-The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/). 
+The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/17161). 
 We have provided a [**GitHub repository**](https://github.com/jspenmar/monodepth_benchmark) containing training and evaluation code for multiple recent SotA approaches to MDE.
 These will serve as a competitive baseline for the challenge and as a starting point for participants.
 The challenge leaderboards use the withheld validation and test sets for **SYNS-Patches**.
@@ -159,9 +146,9 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
 ## :construction_worker: **Organizers** {#organizers}
 <div class="container">
 <figure>
-    <a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">
+    <a href="">
     <img class="img-author" src="assets/imgs/authors/ripudaman_arora.jpeg" alt="Ripudaman Singh Arora"/></a>
-    <b><br><a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">Ripudaman Singh Arora</a>
+    <b><br><a href="">Ripudaman Singh Arora</a>
     <br>Principal ML Researcher<br>Blue River Technology</b>
 </figure>
 
