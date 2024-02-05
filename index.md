@@ -36,6 +36,7 @@ and a <a href="#challenge" target="_self">challenge</a> organized around a novel
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 ## :newspaper: **News** {#news}
+- **05 Feb 2024 ---** :microphone: **Vitor Guizilini** confirmed as keynote speaker.
 - **25 Jan 2024 ---** :microphone: **Eric Brachmann** confirmed as keynote speaker.
 - **25 Jan 2024 ---** :microphone: **Fatma Güney** confirmed as keynote speaker.
 - **25 Jan 2024 ---** :tada: Website is live!
@@ -73,6 +74,13 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
     <b><br><a href="https://ebrach.github.io/">Eric Brachmann</a>
     <br>Staff Scientist<br>Niantic</b>
 </figure>
+
+<figure>
+    <a href="https://scholar.google.com.br/citations?user=UH9tP6QAAAAJ&hl=en">
+    <img class="img-author" src="assets/imgs/authors/vitor_guizilini.jpeg" alt="Vitor Guizilini"/></a>
+    <b><br><a href="https://scholar.google.com.br/citations?user=UH9tP6QAAAAJ&hl=en">Vitor Guizilini</a>
+    <br>Staff Research Scientist<br>TRI</b>
+</figure>
 </div>
 
 [**Fatma Güney**](https://mysite.ku.edu.tr/fguney/)
@@ -89,6 +97,14 @@ He works at the intersection of machine learning and computer vision, 3D vision 
 His research revolves around topics such as visual relocalisation, pose estimation, end-to-end learning, robust optimization and feature matching.
 He publishes his research in the top conferences in computer vision where he is also an active reviewer with several outstanding reviewer mentions. 
 He has co-organized several tutorials and workshops on visual relocalisation and object pose estimation.
+
+[**Vitor Guizilini**](https://scholar.google.com.br/citations?user=UH9tP6QAAAAJ&hl=en) 
+is currently a staff research scientist at the Toyota Research Institute (TRI) in Los Altos, California. 
+His interests include self-supervised learning, monocular depth estimation, unsupervised domain adaptation, implicit visual representations, camera calibration, and vision-based machine learning in general. 
+He has close to 100 publications in related areas, in addition to a large number of patents in different stages of filing and application to various products. 
+He is the creator and currently maintains the `packnet-sfm` and `vidar` repositories, two of the most widely used depth estimation codebases in the scientific community. 
+He co-organized the first three editions of the "Frontiers of Monocular 3D Perception" workshop and has also given several talks in top tier conferences. 
+
 
 ---
 
