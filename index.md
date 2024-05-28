@@ -35,7 +35,12 @@ invited <a href="#speakers" target="_self">keynote talks</a> discussing current 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
+## :page_facing_up: **Paper**
+[![paper](assets/imgs/paper_cvpr2024.jpeg)](https://arxiv.org/abs/2404.16831)
+
 ## :newspaper: **News** {#news}
+- **28 May 2024 ---** :page_facing_up: Added publication
+- **28 May 2024 ---** :trophy: Announced challenge winners and workshop schedule
 - **05 Feb 2024 ---** :microphone: **Vitor Guizilini** confirmed as keynote speaker.
 - **25 Jan 2024 ---** :microphone: **Eric Brachmann** confirmed as keynote speaker.
 - **25 Jan 2024 ---** :microphone: **Fatma Güney** confirmed as keynote speaker.
@@ -55,7 +60,24 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 ## :calendar: **Schedule** {#schedule}
 
-> TBA!
+The workshop will take place on **18 Jun 2024** from **08:30AM -- 12:00PM PDT**.
+
+> **NOTE**: Times are shown in **Pacific Daylight Time**. 
+> Please take this into account if joining the workshop virtually.
+
+| Time (PDT)    | Event                                                        |
+|---------------|--------------------------------------------------------------|
+| 13:30 - 13:45 | Introduction                                                 |
+| 13:45 - 14:30 | **Fatma Güney**                                              |
+| 14:30 - 15:15 | **Vitor Guizilini**                                          |
+| 15:15 - 15:30 | _Break_                                                      |
+| 15:30 - 15:50 | **Matteo Poggi** -- The Monocular Depth Estimation Challenge |
+| 15:50 - 16:00 | **Mykola Lavreniuk** -- EVP++ _(Challenge Participant)_      |
+| 16:00 - 16:10 | **Guangyuan Zhou** -- PICO-MR _(Challenge Winner!)_          |
+| 16:10 - 16:20 | **Aradhye Agarwal** -- visioniitd _(Challenge Participant)_  |
+| 16:20 - 16:30 | **James H. Elder** -- Elder Lab _(Challenge Participant)_    |
+| 16:30 - 17:15 | **Eric Brachmann**                                           |
+| 17:15 - 17:30 | Closing Notes                                                |
 
 --- 
 
@@ -69,17 +91,17 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 </figure>
 
 <figure>
+    <a href="https://scholar.google.com.br/citations?user=UH9tP6QAAAAJ&hl=en">
+    <img class="img-author" src="assets/imgs/authors/vitor_guizilini.jpeg" alt="Vitor Guizilini"/></a>
+    <b><br><a href="https://scholar.google.com.br/citations?user=UH9tP6QAAAAJ&hl=en">Vitor Guizilini</a>
+    <br>Staff Research Scientist<br>Toyota Research Institute</b>
+</figure>
+
+<figure>
     <a href="https://ebrach.github.io/">
     <img class="img-author" src="assets/imgs/authors/eric_brachmann.jpeg" alt="Eric Brachmann"/></a>
     <b><br><a href="https://ebrach.github.io/">Eric Brachmann</a>
     <br>Staff Scientist<br>Niantic</b>
-</figure>
-
-<figure>
-    <a href="https://scholar.google.com.br/citations?user=UH9tP6QAAAAJ&hl=en">
-    <img class="img-author" src="assets/imgs/authors/vitor_guizilini.jpeg" alt="Vitor Guizilini"/></a>
-    <b><br><a href="https://scholar.google.com.br/citations?user=UH9tP6QAAAAJ&hl=en">Vitor Guizilini</a>
-    <br>Staff Research Scientist<br>TRI</b>
 </figure>
 </div>
 
@@ -91,6 +113,13 @@ In the last few years, she published papers on monocular depth estimation, unsup
 She is a recipient of the ERC Starting Grant as well as prestigious fellowships including the Newton Fund Advanced Fellowship and the Marie Curie Individual Fellowship. 
 She regularly serves as a reviewer with multiple outstanding reviewer awards and more recently as an Area Chair in top-tier Computer Vision conferences.
 
+[**Vitor Guizilini**](https://scholar.google.com.br/citations?user=UH9tP6QAAAAJ&hl=en) 
+is currently a staff research scientist at the Toyota Research Institute (TRI) in Los Altos, California. 
+His interests include self-supervised learning, monocular depth estimation, unsupervised domain adaptation, implicit visual representations, camera calibration, and vision-based machine learning in general. 
+He has close to 100 publications in related areas, in addition to a large number of patents in different stages of filing and application to various products. 
+He is the creator and currently maintains the `packnet-sfm` and `vidar` repositories, two of the most widely used depth estimation codebases in the scientific community. 
+He co-organized the first three editions of the "Frontiers of Monocular 3D Perception" workshop and has also given several talks in top tier conferences.
+
 [**Eric Brachmann**](https://ebrach.github.io/) 
 is a staff scientist at Niantic, working on the Lightship Visual Positioning System (VPS). 
 He works at the intersection of machine learning and computer vision, 3D vision in particular. 
@@ -98,19 +127,49 @@ His research revolves around topics such as visual relocalisation, pose estimati
 He publishes his research in the top conferences in computer vision where he is also an active reviewer with several outstanding reviewer mentions. 
 He has co-organized several tutorials and workshops on visual relocalisation and object pose estimation.
 
-[**Vitor Guizilini**](https://scholar.google.com.br/citations?user=UH9tP6QAAAAJ&hl=en) 
-is currently a staff research scientist at the Toyota Research Institute (TRI) in Los Altos, California. 
-His interests include self-supervised learning, monocular depth estimation, unsupervised domain adaptation, implicit visual representations, camera calibration, and vision-based machine learning in general. 
-He has close to 100 publications in related areas, in addition to a large number of patents in different stages of filing and application to various products. 
-He is the creator and currently maintains the `packnet-sfm` and `vidar` repositories, two of the most widely used depth estimation codebases in the scientific community. 
-He co-organized the first three editions of the "Frontiers of Monocular 3D Perception" workshop and has also given several talks in top tier conferences. 
-
-
 ---
 
 ## :trophy: **Challenge Winners** {#winners}
 
-> TBA!
+Congratulations to the challenge winners -- **PICO-MR**!
+
+|                |      | F                                                                | F<br/>(Edges)                                                    | MEA                                                             | RMSE                                                            | Rel                                                              | Acc<br/>(Edges)                                                 | Comp<br/>(Edges)                                                | 
+|----------------|------|------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| **PICO-MR**    | †D*  | <span style="color:green"><strong>23.72</strong></span>          | <span style="color:blue;text-decoration: underline">11.01</span> | <span style="color:blue;text-decoration: underline">3.78</span> | <span style="color:blue;text-decoration: underline">6.61</span> | 21.24                                                            | 3.90                                                            | 4.45                                                            |
+| **Anonymous**  | ?    | <span style="color:blue;text-decoration: underline">23.25</span> | 10.78                                                            | 3.87                                                            | 6.70                                                            | 21.70                                                            | 3.59                                                            | 9.86                                                            |
+| **RGA-Robot**  | †S   | 22.79                                                            | <span style="color:green"><strong>11.52</strong></span>          | 5.21                                                            | 9.23                                                            | 28.86                                                            | 4.15                                                            | <span style="color:blue;text-decoration: underline">0.90</span> |
+| **EVP++**      | †D   | 20.87                                                            | 10.92                                                            | <span style="color:green"><strong>3.71</strong></span>          | <span style="color:green"><strong>6.53</strong></span>          | <span style="color:green"><strong>19.02</strong></span>          | 2.88                                                            | 6.77                                                            |
+| **Anonymous**  | ?    | 20.77                                                            | 9.96                                                             | 4.33                                                            | 7.83                                                            | 27.80                                                            | 3.45                                                            | 13.25                                                           |
+| **3DCreators** | †D   | 20.42                                                            | 10.19                                                            | 4.41                                                            | 7.89                                                            | 23.94                                                            | 3.61                                                            | 5.80                                                            |
+| **visioniitd** | D    | 19.07                                                            | 9.92                                                             | 4.53                                                            | 7.96                                                            | 23.27                                                            | 3.26                                                            | 8.00                                                            |
+| **Anonymous**  | ?    | 18.60                                                            | 9.43                                                             | 3.92                                                            | 7.16                                                            | <span style="color:blue;text-decoration: underline">20.12</span> | 2.89                                                            | 15.65                                                           |
+| **HIT-AIIA**   | †D   | 17.83                                                            | 9.14                                                             | 4.11                                                            | 7.73                                                            | 21.23                                                            | 2.95                                                            | 17.81                                                           |
+| **FRDC-SH**    | †D   | 17.81                                                            | 9.75                                                             | 5.04                                                            | 8.92                                                            | 24.01                                                            | 3.16                                                            | 14.16                                                           |
+| **Anonymous**  | ?    | 17.57                                                            | 9.13                                                             | 4.28                                                            | 8.36                                                            | 23.35                                                            | 3.18                                                            | 20.66                                                           |
+| **Anonymous**  | ?    | 16.91                                                            | 9.07                                                             | 4.14                                                            | 7.35                                                            | 22.05                                                            | 3.24                                                            | 18.52                                                           |
+| **Anonymous**  | ?    | 16.71                                                            | 9.25                                                             | 5.48                                                            | 11.05                                                           | 34.20                                                            | <span style="color:green"><strong>2.57</strong></span>          | 18.04                                                           |
+| **Anonymous**  | ?    | 16.45                                                            | 8.89                                                             | 5.29                                                            | 10.53                                                           | 33.67                                                            | <span style="color:blue;text-decoration: underline">2.60</span> | 18.73                                                           |
+| **hyc123**     | D    | 15.92                                                            | 9.17                                                             | 8.25                                                            | 13.88                                                           | 43.88                                                            | 4.11                                                            | <span style="color:green"><strong>0.74</strong></span>          |
+| **ReadingLS**  | †MD* | 14.81                                                            | 8.14                                                             | 5.01                                                            | 8.94                                                            | 29.39                                                            | 3.28                                                            | 30.28                                                           |
+| **Baseline**   | S    | 13.72                                                            | 7.76                                                             | 5.56                                                            | 9.72                                                            | 32.04                                                            | 3.97                                                            | 21.63                                                           |
+| **Anonymous**  | ?    | 13.71                                                            | 7.55                                                             | 5.49                                                            | 9.44                                                            | 30.74                                                            | 3.61                                                            | 18.36                                                           |
+| **Anonymous**  | ?    | 11.90                                                            | 8.08                                                             | 6.33                                                            | 10.89                                                           | 30.46                                                            | 2.99                                                            | 33.63                                                           |
+| **Elder Lab**  | D    | 11.04                                                            | 7.09                                                             | 8.76                                                            | 15.86                                                           | 63.32                                                            | 3.22                                                            | 40.61                                                           |
+
+_**M**: Monocular -- **S**: Stereo -- **D**: Ground-truth Depth -- **D***: Proxy Depth -- **†**: Pre-trained Depth Anything_
+
+
+### **Teams**
+ * **PICO-MR**: GuangYuan Zhou, ZhengXin Li, Qiang Rao, YiPing Bao, Xiao Liu  
+ * **RGA-Robot**: Dohyeong Kim, Jinseong Kim, Myunghyun Kim  
+ * **EVP++**: Mykola Laverniuk
+ * **3DCreators**: Rui Li, Qing Mao, Jiang Wu, Yu Zhu, Jinqiu Sun, Yanning Zhang
+ * **visioniitd**: Suraj Patni, Aradhye Agarwal, Chetan Arora 
+ * **HIT-AIIA**: Pihai Sun, Kui Jiang, Gang Wu, Jian Liu, Xianming Liu, Junjun Jiang   
+ * **FRDC-SH**: Xidan Zhang, Jianing Wei, Fangjun Wang, Zhiming Tan    
+ * **hyc123**: Jiabao Wang
+ * **ReadingLS**: Albert Luginov, Muhammad Shahzad
+ * **Elder Lab**: Seyed Hosseini, Aleksander Trajcevski, James H. Elder
 
 ---
 
