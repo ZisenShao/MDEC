@@ -38,7 +38,38 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 ## :page_facing_up: **Paper**
 [![paper](assets/imgs/paper_cvpr2024.jpeg)](https://arxiv.org/abs/2404.16831)
 
+## :tv: **Videos**
+
+#### Introduction
+{% include youtubePlayer.html id="7yP_iX-P2V0" %}
+
+#### Keynote #1 -- Matteo Poggi
+{% include youtubePlayer.html id="7yP_iX-P2V0?start=267" %}
+
+#### Keynote #2 -- Vitor Guizilini
+{% include youtubePlayer.html id="7yP_iX-P2V0?start=3336" %}
+
+#### The MDEC Challenge
+{% include youtubePlayer.html id="7yP_iX-P2V0?start=7553" %}
+
+#### Challenge Participant #1 -- Mykola Lavreniuk
+{% include youtubePlayer.html id="7yP_iX-P2V0?start=8960" %}
+
+#### Challenge Participant #1 -- Guangyuan Zhou 
+{% include youtubePlayer.html id="7yP_iX-P2V0?start=9782" %}
+
+#### Challenge Participant #1 -- Aradhye Agarwal 
+{% include youtubePlayer.html id="7yP_iX-P2V0?start=10480" %}
+
+#### Challenge Participant #1 -- James H. Elder
+{% include youtubePlayer.html id="7yP_iX-P2V0?start=11415" %}
+
+#### Keynote #3 -- Eric Brachmann
+{% include youtubePlayer.html id="7yP_iX-P2V0?start=12177" %}
+
+
 ## :newspaper: **News** {#news}
+- **05 Aug 2024 ---** :tv: Added workshop videos
 - **28 May 2024 ---** :page_facing_up: Added publication
 - **28 May 2024 ---** :trophy: Announced challenge winners and workshop schedule
 - **05 Feb 2024 ---** :microphone: **Vitor Guizilini** confirmed as keynote speaker.
@@ -68,7 +99,7 @@ The workshop will take place on **18 Jun 2024** from **08:30AM -- 12:00PM PDT**.
 | Time (PDT)    | Event                                                        |
 |---------------|--------------------------------------------------------------|
 | 13:30 - 13:45 | Introduction                                                 |
-| 13:45 - 14:30 | **Fatma Güney**                                              |
+| 13:45 - 14:30 | **Matteo Poggi** *                                           |
 | 14:30 - 15:15 | **Vitor Guizilini**                                          |
 | 15:15 - 15:30 | _Break_                                                      |
 | 15:30 - 15:50 | **Matteo Poggi** -- The Monocular Depth Estimation Challenge |
@@ -78,6 +109,8 @@ The workshop will take place on **18 Jun 2024** from **08:30AM -- 12:00PM PDT**.
 | 16:20 - 16:30 | **James H. Elder** -- Elder Lab _(Challenge Participant)_    |
 | 16:30 - 17:15 | **Eric Brachmann**                                           |
 | 17:15 - 17:30 | Closing Notes                                                |
+
+\* Fatma was unable to attend the workshop
 
 --- 
 
