@@ -43,6 +43,13 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 <div class="container">
 <figure>
     <a href="">
+    <img class="img-author" src="assets/imgs/authors/anthon.png" alt="Anthon Obhukov"/></a>
+    <b><br><a href="">Anthon Obhukov</a>
+    <br>Principal Research Scientist<br>Huawei Research Center Zürich</b>
+</figure>
+    
+<figure>
+    <a href="">
     <img class="img-author" src="assets/imgs/authors/ripudaman_arora.jpeg" alt="Ripudaman Singh Arora"/></a>
     <b><br><a href="">Ripudaman Singh Arora</a>
     <br>Principal ML Researcher<br>Blue River Technology</b>
