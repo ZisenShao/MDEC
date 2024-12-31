@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 3<sup>nd</sup> Monocular Depth Estimation Challenge
-description: MDEC @ CVPR 2024
+title: 4<sup>th</sup> Monocular Depth Estimation Challenge
+description: MDEC @ CVPR 2025
 ---
 
-:wave: Welcome to the **3<sup>rd</sup> Monocular Depth Estimation Challenge Workshop** organized at :wave: 
-[<img class="rounded-rect" src="assets/imgs/cvpr2024.png" width="400px" alt="cvpr2024"/>](https://cvpr2023.thecvf.com)
+:wave: Welcome to the **4<sup>th</sup> Monocular Depth Estimation Challenge Workshop** organized at :wave: 
+[<img class="rounded-rect" src="assets/imgs/cvpr2025.png" width="400px" alt="cvpr2025"/>](https://cvpr2025.thecvf.com)
 {: .text-center}
 
 <div class="container">
