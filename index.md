@@ -44,7 +44,7 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 <figure>
     <a href="">
     <img class="img-author" src="assets/imgs/authors/anthon.png" alt="Anthon Obhukov"/></a>
-    <b><br><a href="">Anthon Obhukov</a>
+    <b><br><a href="https://www.obukhov.ai/">Anthon Obhukov</a>
     <br>Principal Research Scientist<br>Huawei Research Center Zürich</b>
 </figure>
     
