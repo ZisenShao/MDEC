@@ -49,7 +49,7 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
     <a href="https://peterwonka.net/">
     <img class="img-author" src="https://peterwonka.net/Pics/Peter2020.jpg" alt="Peter Wonka"/></a>
     <b><br><a href="https://peterwonka.net/">Peter Wonka</a>
-    <br>Full Professor<br>KAUST - King Abdullah University of Science and Technology</b>
+    <br>Full Professor<br>KAUST</b>
 </figure>
 </div>
 
