@@ -5,7 +5,7 @@ description: MDEC @ CVPR 2025
 ---
 
 :wave: Welcome to the **4<sup>th</sup> Monocular Depth Estimation Challenge Workshop** organized at :wave: 
-[<img class="rounded-rect" src="assets/imgs/cvpr2025.png" width="400px" alt="cvpr2025"/>](https://cvpr2025.thecvf.com)
+[<img class="rounded-rect" src="assets/imgs/cvpr2025.jpeg" width="400px" alt="cvpr2025"/>](https://cvpr2025.thecvf.com)
 {: .text-center}
 
 <div class="container">
