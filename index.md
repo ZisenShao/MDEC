@@ -45,7 +45,7 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 ## :construction_worker: **Organizers** {#organizers}
 <div class="container">
 <figure>
-    <a href="">
+    <a href="https://www.obukhov.ai/">
     <img class="img-author" src="assets/imgs/authors/anthon.png" alt="Anthon Obhukov"/></a>
     <b><br><a href="https://www.obukhov.ai/">Anthon Obhukov</a>
     <br>Principal Research Scientist<br>Huawei Research Center Zürich</b>
