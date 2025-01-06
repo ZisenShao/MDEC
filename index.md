@@ -52,9 +52,9 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 </figure>
     
 <figure>
-    <a href="">
+    <a href="https://www.linkedin.com/in/rsarora/">
     <img class="img-author" src="assets/imgs/authors/ripudaman_arora.jpeg" alt="Ripudaman Singh Arora"/></a>
-    <b><br><a href="">Ripudaman Singh Arora</a>
+    <b><br><a href="https://www.linkedin.com/in/rsarora/">Ripudaman Singh Arora</a>
     <br>Principal ML Researcher<br>Blue River Technology</b>
 </figure>
 
