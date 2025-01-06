@@ -37,6 +37,9 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 ## More Info Coming Soon!
 
+## :newspaper: **News** {#news}
+- **5 Jan 2025 ---** :tada: Website is live!
+
 ---
 
 ## :construction_worker: **Organizers** {#organizers}
