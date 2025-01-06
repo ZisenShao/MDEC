@@ -48,8 +48,8 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 <figure>
     <a href="https://peterwonka.net/">
     <img class="img-author" src="https://peterwonka.net/Pics/Peter2020.jpg" alt="Peter Wonka"/></a>
-    <b><br><a href="https://peterwonka.net/">Fatma Güney</a>
-    <br>Assistant Professor<br>Koç University</b>
+    <b><br><a href="https://peterwonka.net/">Peter Wonka</a>
+    <br>Full Professor<br>KAUST - King Abdullah University of Science and Technology</b>
 </figure>
 
 [**Peter Wonka**](https://peterwonka.net/)
