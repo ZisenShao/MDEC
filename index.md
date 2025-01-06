@@ -35,7 +35,7 @@ invited <a href="#speakers" target="_self">keynote talks</a> discussing current 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
-## More Info Coming Soon!
+### More Info Coming Soon!
 
 ## :newspaper: **News** {#news}
 - **6 Jan 2025 ---** :microphone: **Peter Wonka** confirmed as keynote speaker.
@@ -56,6 +56,8 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 [**Peter Wonka**](https://peterwonka.net/)
 is a full professor of computer science at King Abdullah University of Science and Technology (KAUST).
 Peter Wonka received his doctorate in computer science from the Technical University of Vienna. Additionally, he received a Master of Science in Urban Planning from the same institution. After his PhD, Dr. Wonka worked as a postdoctoral researcher at the Georgia Institute of Technology and as faculty at Arizona State University. His research publications tackle various topics in computer vision, computer graphics, and machine learning. The current research focus is on deep learning, generative models, and 3D shape analysis and reconstruction.
+
+### More coming soon...
 
 ---
 
