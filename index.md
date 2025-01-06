@@ -51,6 +51,7 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
     <b><br><a href="https://peterwonka.net/">Peter Wonka</a>
     <br>Full Professor<br>KAUST - King Abdullah University of Science and Technology</b>
 </figure>
+</div>
 
 [**Peter Wonka**](https://peterwonka.net/)
 is a full professor of computer science at King Abdullah University of Science and Technology (KAUST).
