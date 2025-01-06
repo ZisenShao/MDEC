@@ -38,7 +38,23 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 ## More Info Coming Soon!
 
 ## :newspaper: **News** {#news}
+- **6 Jan 2025 ---** :microphone: **Peter Wonka** confirmed as keynote speaker.
 - **5 Jan 2025 ---** :tada: Website is live!
+
+---
+
+## :microphone: **Keynote Speakers** {#speakers}
+<div class="container">
+<figure>
+    <a href="https://peterwonka.net/">
+    <img class="img-author" src="https://peterwonka.net/Pics/Peter2020.jpg" alt="Peter Wonka"/></a>
+    <b><br><a href="https://peterwonka.net/">Fatma Güney</a>
+    <br>Assistant Professor<br>Koç University</b>
+</figure>
+
+[**Peter Wonka**](https://peterwonka.net/)
+is a full professor of computer science at King Abdullah University of Science and Technology (KAUST).
+Peter Wonka received his doctorate in computer science from the Technical University of Vienna. Additionally, he received a Master of Science in Urban Planning from the same institution. After his PhD, Dr. Wonka worked as a postdoctoral researcher at the Georgia Institute of Technology and as faculty at Arizona State University. His research publications tackle various topics in computer vision, computer graphics, and machine learning. The current research focus is on deep learning, generative models, and 3D shape analysis and reconstruction.
 
 ---
 
