@@ -38,6 +38,7 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 ### More Info Coming Soon!
 
 ## :newspaper: **News** {#news}
+- **7 Jan 2025 ---** :microphone: **Yiyi Liao** confirmed as keynote speaker.
 - **6 Jan 2025 ---** :microphone: **Peter Wonka** confirmed as keynote speaker.
 - **5 Jan 2025 ---** :tada: Website is live!
 
@@ -51,11 +52,21 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
     <b><br><a href="https://peterwonka.net/">Peter Wonka</a>
     <br>Full Professor<br>KAUST</b>
 </figure>
+
+<figure>
+    <a href="https://yiyiliao.github.io/">
+    <img class="img-author" src="https://yiyiliao.github.io/assets/img/prof_pic.jpg" alt="Yiyi Liao"/></a>
+    <b><br><a href="https://yiyiliao.github.io/">Yiyi Liao</a>
+    <br>Assistant Professor<br>Zhejiang University</b>
+</figure>
 </div>
 
 [**Peter Wonka**](https://peterwonka.net/)
 is a full professor of computer science at King Abdullah University of Science and Technology (KAUST).
 Peter Wonka received his doctorate in computer science from the Technical University of Vienna. Additionally, he received a Master of Science in Urban Planning from the same institution. After his PhD, Dr. Wonka worked as a postdoctoral researcher at the Georgia Institute of Technology and as faculty at Arizona State University. His research publications tackle various topics in computer vision, computer graphics, and machine learning. The current research focus is on deep learning, generative models, and 3D shape analysis and reconstruction.
+
+[**Yiyi Liao**](https://yiyiliao.github.io/)
+is an assistant professor at Zhejiang University. Prior to that, she received her Ph.D. degree from Zhejiang University and subsequently worked as a Postdoc at MPI for Intelligent Systems. Her research interest lies in 3D computer vision and immersive media, including reconstruction, generation, and compression. She received the Best Robot Vision Paper award at ICRA 2024. She serves as a program chair for 3DV 2025 and an area chair for CVPR and NeurIPS. 
 
 ### More coming soon...
 
