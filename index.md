@@ -76,8 +76,8 @@ is an assistant professor at Zhejiang University. Prior to that, she received he
 <div class="container">
 <figure>
     <a href="https://www.obukhov.ai/">
-    <img class="img-author" src="assets/imgs/authors/anthon.png" alt="Anthon Obhukov"/></a>
-    <b><br><a href="https://www.obukhov.ai/">Anthon Obhukov</a>
+    <img class="img-author" src="assets/imgs/authors/anthon.png" alt="Anton Obukhov"/></a>
+    <b><br><a href="https://www.obukhov.ai/">Anton Obukhov</a>
     <br>Principal Research Scientist<br>Huawei Research Center Zürich</b>
 </figure>
     
