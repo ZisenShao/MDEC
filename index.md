@@ -42,6 +42,11 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 - **6 Jan 2025 ---** :microphone: **Peter Wonka** confirmed as keynote speaker.
 - **5 Jan 2025 ---** :tada: Website is live!
 
+## :rocket: **Baselines** {#baselines}
+
+This year, we switched to LSE-based alignment between predictions and ground truth maps.
+New baselines coming soon...
+                                                  
 ---
 
 ## :microphone: **Keynote Speakers** {#speakers}
