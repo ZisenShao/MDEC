@@ -38,6 +38,7 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 ### More Info Coming Soon!
 
 ## :newspaper: **News** {#news}
+- **30 Jan 2025 ---** :microphone: **Konrad Schindler** confirmed as keynote speaker.
 - **7 Jan 2025 ---** :microphone: **Yiyi Liao** confirmed as keynote speaker.
 - **6 Jan 2025 ---** :microphone: **Peter Wonka** confirmed as keynote speaker.
 - **5 Jan 2025 ---** :tada: Website is live!
@@ -64,6 +65,13 @@ New baselines coming soon...
     <b><br><a href="https://yiyiliao.github.io/">Yiyi Liao</a>
     <br>Assistant Professor<br>Zhejiang University</b>
 </figure>
+
+<figure>
+    <a href="https://prs.igp.ethz.ch/group/people/person-detail.schindler.html">
+    <img class="img-author" src="https://prs.igp.ethz.ch/group/people/person-detail.person_image.jpeg?persid=MTQzOTg2" alt="Konrad Schindler"/></a>
+    <b><br><a href="https://prs.igp.ethz.ch/group/people/person-detail.schindler.html">Yiyi Liao</a>
+    <br>Full Professor<br>ETH Zurich</b>
+</figure>
 </div>
 
 [**Peter Wonka**](https://peterwonka.net/)
@@ -73,7 +81,8 @@ Peter Wonka received his doctorate in computer science from the Technical Univer
 [**Yiyi Liao**](https://yiyiliao.github.io/)
 is an assistant professor at Zhejiang University. Prior to that, she received her Ph.D. degree from Zhejiang University and subsequently worked as a Postdoc at MPI for Intelligent Systems. Her research interest lies in 3D computer vision and immersive media, including reconstruction, generation, and compression. She received the Best Robot Vision Paper award at ICRA 2024. She serves as a program chair for 3DV 2025 and an area chair for CVPR and NeurIPS. 
 
-### More coming soon...
+[**Konrad Schindler**](https://prs.igp.ethz.ch/group/people/person-detail.schindler.html)
+received the Diplomingenieur (M.Tech.) degree in photogrammetry from the Vienna University of Technology, Vienna, Austria, in 1999, and the Ph.D. degree from the Graz University of Technology, Graz, Austria, in 2003. He was a Photogrammetric Engineer in the private industry and held researcher positions at the Computer Graphics and Vision Department, Graz University of Technology, the Digital Perception Laboratory, Monash University, Melbourne, VIC, Australia, and the Computer Vision Laboratory, ETH Zürich, Zürich, Switzerland. He was an Assistant Professor of Image Understanding with TU Darmstadt, Darmstadt, Germany, in 2009. Since 2010, he has been a Tenured Professor of Photogrammetry and Remote Sensing with ETH Zürich. His research interests include computer vision, photogrammetry, and remote sensing, with a focus on image understanding and information extraction reconstruction. Dr. Schindler has been serving as an Associate Editor of the Journal of Photogrammetry and Remote Sensing of the International Society for Photogrammetry and Remote Sensing (ISPRS) since 2011, and previously served as an Associate Editor of the Image and Vision Computing Journal from 2011 to 2016. He was the TC President of the ISPRS from 2012 to 2016.
 
 ---
 
