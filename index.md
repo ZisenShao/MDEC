@@ -69,7 +69,7 @@ New baselines coming soon...
 <figure>
     <a href="https://prs.igp.ethz.ch/group/people/person-detail.schindler.html">
     <img class="img-author" src="https://prs.igp.ethz.ch/group/people/person-detail.person_image.jpeg?persid=MTQzOTg2" alt="Konrad Schindler"/></a>
-    <b><br><a href="https://prs.igp.ethz.ch/group/people/person-detail.schindler.html">Yiyi Liao</a>
+    <b><br><a href="https://prs.igp.ethz.ch/group/people/person-detail.schindler.html">Konrad Schindler</a>
     <br>Full Professor<br>ETH Zurich</b>
 </figure>
 </div>
