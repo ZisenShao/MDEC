@@ -80,12 +80,12 @@ received the Diplomingenieur (M.Tech.) degree in photogrammetry from the Vienna 
 
 ## :checkered_flag: **Challenge** {#challenge}
 
-**[[GitHub Starter Pack](https://github.com/toshas/mdec_benchmark)] --- [[CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305)]**
-{: .text-center}
-
 The challenge focuses on evaluating novel MDE techniques on the [SYNS-Patches dataset](https://arxiv.org/abs/2208.01489).
 This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices, and more.
 Furthermore, the high-quality, dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [depth discontinuities](https://arxiv.org/abs/1805.01328v1).
+
+**[[GitHub Starter Pack](https://github.com/toshas/mdec_benchmark)] --- [[CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305)]**
+{: .text-center}
 
 <div class="container">
 <img class="img-syns" src="assets/imgs/syns/image_0551.png" alt="image_0551"/>
