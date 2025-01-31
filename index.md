@@ -80,45 +80,12 @@ received the Diplomingenieur (M.Tech.) degree in photogrammetry from the Vienna 
 
 ## :checkered_flag: **Challenge** {#challenge}
 
-### ⚡ What’s new in MDEC 2025?
-
-- 📐 New prediction types: The challenge became more accessible thanks to the added support of affine-invariant predictions. Metric and scale-invariant predictions are also automatically supported. Disparity predictions, which were supported in previous challenges, are also accepted.
-
-- 🤗 Pre-trained Model Support: We provide ready-to-use scripts for off-the-shelf methods: Depth Anything V2 (disparity) and Marigold (affine-invariant). Adding new pre-trained methods is very easy.
-
-- 📊 Updated Evaluation Pipeline: The Codalab grader code has been updated to accommodate the newly supported prediction types.
-
-### How to participate?
-
-- Check out the new starter pack [GitHub](https://github.com/toshas/mdec_benchmark). The [mdec_2025](https://github.com/toshas/mdec_benchmark/tree/main/mdec_2025) folder contains scripts generating valid submissions for [Marigold](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/marigold_v1-0/generate.py) (`affine-invariant`) and [Depth Anything v2](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/depth_anything_v2/generate.py) (`disparity`).
-
-- Identify the prediction type of your method and generate a valid submission: `val` split for the "Development" phase and `test` split for the "Final" phase.
-
-- To measure performance with other datasets or troubleshoot scoring issues, refer to the [evaluation code](https://github.com/toshas/mdec_benchmark/blob/main/src/core/evaluator.py).
-
-- Register at the [CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305) site, check the submission constraints and extra conditions, and submit to the leaderboard.
-
-### Workshop proceedings
-
-As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge.
-The following conditions must be met to have the method included in the paper:
-
-- A method description is provided as a part of the submission;
-- The method surpasses the performance of the baselines (see below) in the leading metric;
-- The method should not be a trivial extension of any of the baselines;
-- All predictions are made using a single input image;
-- The source code of the method is provided;
-
-Selected top performers will additionally be invited to present their method at the workshop (<a href="#schedule" target="_self">schedule</a>).
-This presentation can be either in-person or virtually.
-
 **[[GitHub Starter Pack](https://github.com/toshas/mdec_benchmark)] --- [[CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305)]**
 {: .text-center}
 
-The challenge focuses on evaluating novel MDE techniques on the SYNS-Patches dataset proposed in [this benchmark](https://arxiv.org/abs/2208.01489).
+The challenge focuses on evaluating novel MDE techniques on the [SYNS-Patches dataset](https://arxiv.org/abs/2208.01489).
 This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices, and more.
 Furthermore, the high-quality, dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [depth discontinuities](https://arxiv.org/abs/1805.01328v1).
-
 
 <div class="container">
 <img class="img-syns" src="assets/imgs/syns/image_0551.png" alt="image_0551"/>
@@ -130,17 +97,47 @@ Furthermore, the high-quality, dense ground-truth LiDAR allows for the computati
 <img class="img-syns" src="assets/imgs/syns/depth_1114.png" alt="depth_1114"/>
 </div>
 
-The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/21305). 
-We have provided a [**GitHub repository**](https://github.com/toshas/mdec_benchmark) containing training and evaluation code for multiple recent SotA approaches to MDE.
-These will serve as a competitive baseline for the challenge and as a starting point for participants.
-The challenge leaderboards use the withheld validation and test sets for **SYNS-Patches**.
+### ⚡ What’s new in MDEC 2025?
+
+- 📐 New prediction types: The challenge became more accessible thanks to the added support of affine-invariant predictions. Metric and scale-invariant predictions are also automatically supported. Disparity predictions, which were supported in previous challenges, are also accepted.
+
+- 🤗 Pre-trained Model Support: We provide ready-to-use scripts for off-the-shelf methods: Depth Anything V2 (disparity) and Marigold (affine-invariant). These will serve as a competitive baseline for the challenge and a starting point for participants.
+
+- 📊 Updated Evaluation Pipeline: The Codalab grader code has been updated to accommodate the newly supported prediction types.
+
+### How to participate?
+
+- Check out the new starter pack [GitHub](https://github.com/toshas/mdec_benchmark). The [mdec_2025](https://github.com/toshas/mdec_benchmark/tree/main/mdec_2025) folder contains scripts generating valid submissions for [Marigold](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/marigold_v1-0/generate.py) (`affine-invariant`) and [Depth Anything v2](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/depth_anything_v2/generate.py) (`disparity`).
+
+- Identify the prediction type of your method and generate a valid submission: `val` split for the "Development" phase and `test` split for the "Final" phase.
+
+- Register at the [CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305) site, check the submission constraints and extra conditions, and submit to the leaderboard.
+
+### Evaluation
 
 Submissions will be evaluated on a variety of metrics:
-1. [**Pointcloud reconstruction**](https://arxiv.org/abs/2203.08122): F-Score
-2. [**Image-based depth**](https://arxiv.org/abs/1708.06500): MAE, RMSE, AbsRel
-3. [**Depth discontinuities**](https://arxiv.org/abs/1805.01328v1): F-Score, Accuracy, Completeness
+1. [Pointcloud reconstruction](https://arxiv.org/abs/2203.08122): F-Score
+2. [Image-based depth](https://arxiv.org/abs/1708.06500): MAE, RMSE, AbsRel
+3. [Depth discontinuities](https://arxiv.org/abs/1805.01328v1): F-Score, Accuracy, Completeness
 
-Challenge winners will be determined based on the **pointcloud-based F-Score** performance.
+The **leading metric** is F-Score (based on point cloud), denoted as **F&nbsp;(↑)** in the leaderboard.
+Challenge winners will be determined based on the performance ranked by the leading metric on the withheld validation (Development phase) and the test (Final phase) sets of the SYNS-Patches dataset.
+
+To measure the performance locally with other datasets or troubleshoot scoring issues within the challenge, refer to the [evaluation code](https://github.com/toshas/mdec_benchmark/blob/main/src/core/evaluator.py).
+
+### Workshop proceedings
+
+As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge.
+The following conditions must be met to have the method included in the paper:
+
+- A method description is provided as a part of the submission;
+- The method surpasses the performance of the baselines in the leading metric;
+- The method should not be a trivial extension of any of the baselines;
+- All predictions are made using a single input image;
+- The source code of the method is provided;
+
+Selected top performers will additionally be invited to present their method at the workshop (<a href="#schedule" target="_self">schedule</a>).
+This presentation can be either in-person or virtually.
 
 ---
 
