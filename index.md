@@ -110,7 +110,7 @@ Furthermore, the high-quality dense ground-truth LiDAR allows for the computatio
 </div>
 
 The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/21305). 
-We have provided a [**GitHub repository**](https://github.com/jspenmar/monodepth_benchmark) containing training and evaluation code for multiple recent SotA approaches to MDE.
+We have provided a [**GitHub repository**](https://github.com/toshas/mdec_benchmark) containing training and evaluation code for multiple recent SotA approaches to MDE.
 These will serve as a competitive baseline for the challenge and as a starting point for participants.
 The challenge leaderboards use the withheld validation and test sets for **SYNS-Patches**.
 We additionally encourage evaluation on the public [**Kitti Eigen-Benchmark**](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction) dataset.
