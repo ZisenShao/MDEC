@@ -90,13 +90,13 @@ received the Diplomingenieur (M.Tech.) degree in photogrammetry from the Vienna 
 
 ### How to participate?
 
-- Check out the new starter pack [GitHub](https://github.com/toshas/mdec_benchmark)]. The [mdec_2025](https://github.com/toshas/mdec_benchmark/tree/main/mdec_2025) folder contains scripts generating valid submissions for [Marigold](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/marigold_v1-0/generate.py) (`affine-invariant`) and [Depth Anything v2](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/depth_anything_v2/generate.py) (`disparity`).
+- Check out the new starter pack [GitHub](https://github.com/toshas/mdec_benchmark). The [mdec_2025](https://github.com/toshas/mdec_benchmark/tree/main/mdec_2025) folder contains scripts generating valid submissions for [Marigold](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/marigold_v1-0/generate.py) (`affine-invariant`) and [Depth Anything v2](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/depth_anything_v2/generate.py) (`disparity`).
 
 - Identify the prediction type of your method and generate a valid submission: `val` split for the "Development" phase and `test` split for the "Final" phase.
 
 - To measure performance with other datasets or troubleshoot scoring issues, refer to the [evaluation code](https://github.com/toshas/mdec_benchmark/blob/main/src/core/evaluator.py).
 
-- Register at the [[CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305)] site, check the submission constraints and extra conditions, submit to the leaderboard.
+- Register at the [CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305) site, check the submission constraints and extra conditions, and submit to the leaderboard.
 
 ### Workshop proceedings
 
@@ -109,7 +109,7 @@ The following conditions must be met to have the method included in the paper:
 - All predictions are made using a single input image;
 - The source code of the method is provided;
 
-Selected top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
+Selected top performers will additionally be invited to present their method at the workshop (<a href="#schedule" target="_self">schedule</a>).
 This presentation can be either in-person or virtually.
 
 **[[GitHub Starter Pack](https://github.com/toshas/mdec_benchmark)] --- [[CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305)]**
