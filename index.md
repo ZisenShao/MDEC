@@ -42,24 +42,7 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 - **7 Jan 2025 ---** :microphone: **Yiyi Liao** confirmed as keynote speaker.
 - **6 Jan 2025 ---** :microphone: **Peter Wonka** confirmed as keynote speaker.
 - **5 Jan 2025 ---** :tada: Website is live!
-
-## :rocket: **Baselines** {#baselines}
-
-This year, we switched to LSE-based alignment between predictions and ground truth maps.
-
-Accordingly, we updated the benchmark with more recent baselines, such as Marigold, Depth Anything v2, and with the winners of the 3rd edition,
-whose performances are reported below.
-
-Please note that, to be invited as authors of the meta-paper describing the challenge, participants are now required to achieve a performance above the Marigold and Depth Anything v2 baselines.
-
-|                |      F                                                                | F<br/>(Edges)                                                    | MEA                                                             | RMSE                                                            | Rel                                                              | Acc<br/>(Edges)                                                 | Comp<br/>(Edges)                                                | δ<1.25                                                | δ<1.25^2                                                | δ<1.25^3                                                | 
-|----------------|------|------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
-| **PICO-MR**    | 21.07          | 8.77 | 3.22 | 5.60 | 20.33                                                            | 3.69                                                            | 15.41                                                            | 0.7559                                                            | 0.9125                                                            | 0.9590                                                   
-| **EVP++**    | 19.66          | 9.02 | 3.20 | 5.49 | 19.03                                                            | 2.66                                                            | 9.28                                                            | 0.7553                                                            | 0.9182                                                            | 0.9661                                                  
-| **Marigold**    | 18.64          | 9.26 | 3.87 | 6.49 | 24.37                                                            | 2.90                                                            | 20.09                                                            | 0.6903                                                            | 0.8860                                                            | 0.9453                                                  
-| **Depth Anything v2**    | 14.34          | 7.94 | 4.16 | 7.94 | 25.48                                                            | 2.64                                                            | 30.05                                                            | 0.6907                                                            | 0.8849                                                            | 0.9469                                                  
-| **Garg's Baseline**    | 11.38          | 6.03 | 4.62 | 7.58 | 31.15                                                            | 4.01                                                            | 41.24                                                            | 0.5842                                                            | 0.8354                                                            | 0.9251
-                                                  
+                                               
 ---
 
 ## :microphone: **Keynote Speakers** {#speakers}
@@ -95,6 +78,70 @@ is an assistant professor at Zhejiang University. Prior to that, she received he
 
 [**Konrad Schindler**](https://prs.igp.ethz.ch/group/people/person-detail.schindler.html)
 received the Diplomingenieur (M.Tech.) degree in photogrammetry from the Vienna University of Technology, Vienna, Austria, in 1999, and the Ph.D. degree from the Graz University of Technology, Graz, Austria, in 2003. He was a Photogrammetric Engineer in the private industry and held researcher positions at the Computer Graphics and Vision Department, Graz University of Technology, the Digital Perception Laboratory, Monash University, Melbourne, VIC, Australia, and the Computer Vision Laboratory, ETH Zürich, Zürich, Switzerland. He was an Assistant Professor of Image Understanding with TU Darmstadt, Darmstadt, Germany, in 2009. Since 2010, he has been a Tenured Professor of Photogrammetry and Remote Sensing with ETH Zürich. His research interests include computer vision, photogrammetry, and remote sensing, with a focus on image understanding and information extraction reconstruction. Dr. Schindler has been serving as an Associate Editor of the Journal of Photogrammetry and Remote Sensing of the International Society for Photogrammetry and Remote Sensing (ISPRS) since 2011, and previously served as an Associate Editor of the Image and Vision Computing Journal from 2011 to 2016. He was the TC President of the ISPRS from 2012 to 2016.
+
+---
+
+## :checkered_flag: **Challenge** {#challenge}
+**Teams submitting to the challenge will also be required to submit a description of their method.
+As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method.
+All challenge participants surpassing the performance of the Garg baseline (by jspenmar) will be added as authors in this paper.
+Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
+This presentation can be either in-person or virtually.**
+
+> **IMPORTANT:** We have decided to expand this edition of the challenge beyond self-supervised models.
+> This means we are accepting **any** monocular method, e.g. supervised, weakly-supervised, multi-task...
+> The only restriction is that the model cannot be trained on any portion of the SYNS(-Patches) dataset and must
+> make the final depth map prediction using only a single image.
+
+**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge](https://codalab.lisn.upsaclay.fr/competitions/17161)]**
+{: .text-center}
+
+The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
+This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices and more.
+Furthermore, the high-quality dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [**depth discontinuities**](https://arxiv.org/abs/1805.01328v1).
+
+
+<div class="container">
+<img class="img-syns" src="assets/imgs/syns/image_0551.png" alt="image_0551"/>
+<img class="img-syns" src="assets/imgs/syns/image_0893.png" alt="image_0893"/>
+<img class="img-syns" src="assets/imgs/syns/image_1114.png" alt="image_1114"/>
+
+<img class="img-syns" src="assets/imgs/syns/depth_0551.png" alt="depth_0551"/>
+<img class="img-syns" src="assets/imgs/syns/depth_0893.png" alt="depth_0893"/>
+<img class="img-syns" src="assets/imgs/syns/depth_1114.png" alt="depth_1114"/>
+</div>
+
+The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/21305). 
+We have provided a [**GitHub repository**](https://github.com/jspenmar/monodepth_benchmark) containing training and evaluation code for multiple recent SotA approaches to MDE.
+These will serve as a competitive baseline for the challenge and as a starting point for participants.
+The challenge leaderboards use the withheld validation and test sets for **SYNS-Patches**.
+We additionally encourage evaluation on the public [**Kitti Eigen-Benchmark**](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction) dataset.
+
+Submissions will be evaluated on a variety of metrics:
+1. [**Pointcloud reconstruction**](https://arxiv.org/abs/2203.08122): F-Score
+2. [**Image-based depth**](https://arxiv.org/abs/1708.06500): MAE, RMSE, AbsRel
+3. [**Depth discontinuities**](https://arxiv.org/abs/1805.01328v1): F-Score, Accuracy, Completeness
+
+Challenge winners will be determined based on the **pointcloud-based F-Score** performance.
+
+---
+
+## :rocket: **Baselines** {#baselines}
+
+This year, we switched to LSE-based alignment between predictions and ground truth maps.
+
+Accordingly, we updated the benchmark with more recent baselines, such as Marigold, Depth Anything v2, and with the winners of the 3rd edition,
+whose performances are reported below.
+
+Please note that, to be invited as authors of the meta-paper describing the challenge, participants are now required to achieve a performance above the Marigold and Depth Anything v2 baselines.
+
+|                |      F                                                                | F<br/>(Edges)                                                    | MEA                                                             | RMSE                                                            | Rel                                                              | Acc<br/>(Edges)                                                 | Comp<br/>(Edges)                                                | δ<1.25                                                | δ<1.25^2                                                | δ<1.25^3                                                | 
+|----------------|------|------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| **PICO-MR**    | 21.07          | 8.77 | 3.22 | 5.60 | 20.33                                                            | 3.69                                                            | 15.41                                                            | 0.7559                                                            | 0.9125                                                            | 0.9590                                                   
+| **EVP++**    | 19.66          | 9.02 | 3.20 | 5.49 | 19.03                                                            | 2.66                                                            | 9.28                                                            | 0.7553                                                            | 0.9182                                                            | 0.9661                                                  
+| **Marigold**    | 18.64          | 9.26 | 3.87 | 6.49 | 24.37                                                            | 2.90                                                            | 20.09                                                            | 0.6903                                                            | 0.8860                                                            | 0.9453                                                  
+| **Depth Anything v2**    | 14.34          | 7.94 | 4.16 | 7.94 | 25.48                                                            | 2.64                                                            | 30.05                                                            | 0.6907                                                            | 0.8849                                                            | 0.9469                                                  
+| **Garg's Baseline**    | 11.38          | 6.03 | 4.62 | 7.58 | 31.15                                                            | 4.01                                                            | 41.24                                                            | 0.5842                                                            | 0.8354                                                            | 0.9251
 
 ---
 
