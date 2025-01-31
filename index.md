@@ -121,20 +121,6 @@ Challenge winners will be determined based on the performance ranked by the lead
 
 To measure the performance locally with other datasets or troubleshoot scoring issues within the challenge, refer to the [evaluation code](https://github.com/toshas/mdec_benchmark/blob/main/src/core/evaluator.py).
 
-### 📚 Workshop proceedings {#proceedings}
-
-As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge.
-The following conditions must be met to have the method included in the paper:
-
-- A method description is provided as a part of the submission;
-- The method surpasses the performance of the baselines in the leading metric (F-Score);
-- The method should not be trivial;
-- All predictions are made using a single input image;
-- The source code of the method is provided;
-
-Selected top performers will additionally be invited to present their methods at the workshop.
-The presentation can be held either in person or virtually.
-
 ### 📈 Baselines {#baselines}
 
 This year, we switched to LSE-based alignment between predictions and ground truth maps to accept various types of predictions. 
@@ -149,6 +135,20 @@ Accordingly, we updated the benchmark with more recent baselines, such as Marigo
 | **Marigold**    | 18.64          | 9.26 | 3.87 | 6.49 | 24.37                                                            | 2.90                                                            | 20.09                                                            | 0.6903                                                            | 0.8860                                                            | 0.9453                                                  
 | **Depth Anything v2**    | 14.34          | 7.94 | 4.16 | 7.94 | 25.48                                                            | 2.64                                                            | 30.05                                                            | 0.6907                                                            | 0.8849                                                            | 0.9469                                                  
 | **Garg's Baseline**    | 11.38          | 6.03 | 4.62 | 7.58 | 31.15                                                            | 4.01                                                            | 41.24                                                            | 0.5842                                                            | 0.8354                                                            | 0.9251
+
+### 📚 Workshop proceedings {#proceedings}
+
+As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge.
+The following conditions must be met to have the method included in the paper:
+
+- A method description is provided as a part of the submission;
+- The method surpasses the performance of the baselines in the leading metric (F-Score);
+- The method should not be trivial;
+- All predictions are made using a single input image;
+- The source code of the method is provided;
+
+Selected top performers will additionally be invited to present their methods at the workshop.
+The presentation can be held either in person or virtually.
 
 ---
 
