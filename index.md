@@ -18,10 +18,10 @@ description: MDEC @ CVPR 2025
 <img class="img-syns" src="assets/imgs/syns/depth_0698.png" alt="depth_0698"/>
 </div>
 
-Monocular depth estimation (**MDE**) is an important low-level vision task, with application in fields such as augmented reality, robotics and autonomous vehicles.
+Monocular depth estimation (**MDE**) is an important low-level vision task with applications in fields such as augmented reality, robotics, and autonomous vehicles.
 Recently, there has been an increased interest in **self-supervised systems** capable of predicting the **3D scene structure** without requiring ground-truth LiDAR training data.
-Automotive data has accelerated the development of these systems, thanks to the vast quantities of data, the ubiquity of stereo camera rigs and the mostly-static world.
-However, the evaluation process has also remained focused on only the automotive domain and has been largely unchanged since its inception, relying on simple metrics and sparse LiDAR data.
+Automotive data has accelerated the development of these systems, thanks to the vast quantities of data, the ubiquity of stereo camera rigs, and the mostly static world.
+However, the evaluation process has remained focused on only the automotive domain and has been largely unchanged since its inception, relying on simple metrics and sparse LiDAR data.
 
 This workshop seeks to answer the following questions:
 1. How well do networks generalize beyond their training distribution relative to humans?
@@ -30,7 +30,7 @@ What is the relative weight of simple cues, e.g. height in the image, in network
 3. How do the predictions made by the models differ from how humans perceive depth? 
 Are the failure modes the same?
 
-The workshop will therefore consist of two parts: 
+The workshop will consist of two parts: 
 invited <a href="#speakers" target="_self">keynote talks</a> discussing current developments in MDE 
 and a <a href="#challenge" target="_self">challenge</a> organized around a benchmarking procedure 
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
@@ -87,7 +87,7 @@ Top performers will additionally be invited to present their method <a href="#sc
 This presentation can be either in-person or virtually.**
 
 > **IMPORTANT:** We have decided to expand this edition of the challenge beyond self-supervised models.
-> This means we are accepting **any** monocular method, e.g. supervised, weakly-supervised, multi-task...
+> This means we are accepting **any** monocular method, e.g., supervised, weakly-supervised, multi-task...
 > The only restriction is that the model cannot be trained on any portion of the SYNS(-Patches) dataset and must
 > make the final depth map prediction using only a single image.
 
@@ -95,8 +95,8 @@ This presentation can be either in-person or virtually.**
 {: .text-center}
 
 The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
-This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices and more.
-Furthermore, the high-quality dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [**depth discontinuities**](https://arxiv.org/abs/1805.01328v1).
+This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices, and more.
+Furthermore, the high-quality, dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [**depth discontinuities**](https://arxiv.org/abs/1805.01328v1).
 
 
 <div class="container">
@@ -130,7 +130,7 @@ This year, we switched to LSE-based alignment between predictions and ground tru
 Accordingly, we updated the benchmark with more recent baselines, such as Marigold, Depth Anything v2, and with the winners of the 3rd edition,
 whose performances are reported below.
 
-Please note that, to be invited as authors of the meta-paper describing the challenge, participants are now required to achieve a performance above the Marigold and Depth Anything v2 baselines.
+Please note that to be invited as authors of the meta-paper describing the challenge, participants are now required to achieve a performance above the Marigold and Depth Anything v2 baselines.
 
 |                |      F                                                                | F<br/>(Edges)                                                    | MEA                                                             | RMSE                                                            | Rel                                                              | Acc<br/>(Edges)                                                 | Comp<br/>(Edges)                                                | δ<1.25                                                | δ<1.25^2                                                | δ<1.25^3                                                | 
 |----------------|------|------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
