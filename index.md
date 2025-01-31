@@ -99,17 +99,17 @@ Furthermore, the high-quality, dense ground-truth LiDAR allows for the computati
 
 ### ⚡ What’s new in MDEC 2025? {#news}
 
-- 📐 New prediction types: The challenge became more accessible thanks to the added support of affine-invariant predictions. Metric and scale-invariant predictions are also automatically supported. Disparity predictions, which were supported in previous challenges, are also accepted.
-- 🤗 Pre-trained Model Support: We provide ready-to-use scripts for off-the-shelf methods: Depth Anything V2 (disparity) and Marigold (affine-invariant). These will serve as a competitive baseline for the challenge and a starting point for participants.
-- 📊 Updated Evaluation Pipeline: The Codalab grader code has been updated to accommodate the newly supported prediction types.
+- 📐 New prediction types: The challenge became more accessible thanks to the added support of `affine-invariant` predictions. `metric` and `scale-invariant` predictions are also automatically supported. `disparity` predictions, which were supported in previous challenges, are also accepted.
+- 🤗 Pre-trained Model Support: We provide ready-to-use scripts for off-the-shelf methods: Depth Anything V2 (`disparity`) and Marigold (`affine-invariant`). These will serve as a competitive baseline for the challenge and a starting point for participants.
+- 📊 Updated Evaluation Pipeline: The CodaLab grader code has been updated to accommodate the newly supported prediction types.
 
-### How to participate? {#participate}
+### 🚀 How to participate? {#participate}
 
 1. Check out the new starter pack [GitHub](https://github.com/toshas/mdec_benchmark). The [mdec_2025](https://github.com/toshas/mdec_benchmark/tree/main/mdec_2025) folder contains scripts generating valid submissions for [Marigold](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/marigold_v1-0/generate.py) (`affine-invariant`) and [Depth Anything v2](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/depth_anything_v2/generate.py) (`disparity`).
 2. Identify the prediction type of your method and generate a valid submission: `val` split for the "Development" phase and `test` split for the "Final" phase.
 3. Register at the [CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305) site, check the submission constraints and extra conditions, and submit to the leaderboard.
 
-### Evaluation {#evaluation}
+### 📊 Evaluation {#evaluation}
 
 Submissions will be evaluated on a variety of metrics:
 - [Pointcloud reconstruction](https://arxiv.org/abs/2203.08122): F-Score
@@ -121,7 +121,7 @@ Challenge winners will be determined based on the performance ranked by the lead
 
 To measure the performance locally with other datasets or troubleshoot scoring issues within the challenge, refer to the [evaluation code](https://github.com/toshas/mdec_benchmark/blob/main/src/core/evaluator.py).
 
-### Workshop proceedings {#proceedings}
+### 📚 Workshop proceedings {#proceedings}
 
 As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge.
 The following conditions must be met to have the method included in the paper:
@@ -135,12 +135,12 @@ The following conditions must be met to have the method included in the paper:
 Selected top performers will additionally be invited to present their methods at the workshop.
 The presentation can be held either in person or virtually.
 
-### Baselines {#baselines}
+### 📈 Baselines {#baselines}
 
 This year, we switched to LSE-based alignment between predictions and ground truth maps to accept various types of predictions. 
 In addition to previously accepted `disparity` prediction methods, we welcome `affine-invariant`, `scale-invariant`, and `metric` types.
 
-Accordingly, we updated the benchmark with more recent baselines, such as Marigold (`affine-invariant`), Depth Anything v2 (`disparity`), and the winners of the 3rd edition of MDEC challenge, whose performances are reported below.
+Accordingly, we updated the benchmark with more recent baselines, such as Marigold (`affine-invariant`), Depth Anything v2 (`disparity`), and the winners of the 3rd edition of the MDEC challenge, whose performances are reported below.
 
 |                |      F&nbsp;(↑)                                                                | F&nbsp;(↑)<br/>(Edges)                                                    | MAE&nbsp;(↓)                                                             | RMSE&nbsp;(↓)                                                            | AbsRel&nbsp;(↓)                                                              | Acc&nbsp;(↑)<br/>(Edges)                                                 | Comp&nbsp;(↓)<br/>(Edges)                                                | δ<1.25&nbsp;(↑)                                                | δ<1.25^2&nbsp;(↑)                                                | δ<1.25^3&nbsp;(↑)                                                | 
 |----------------|------|------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
@@ -152,7 +152,7 @@ Accordingly, we updated the benchmark with more recent baselines, such as Marigo
 
 ---
 
-## :construction_worker: **Organizers** {#organizers}
+## 🤵 **Organizers** {#organizers}
 <div class="container">
 <figure>
     <a href="https://www.obukhov.ai/">
