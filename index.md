@@ -19,16 +19,15 @@ description: MDEC @ CVPR 2025
 </div>
 
 Monocular depth estimation (**MDE**) is an important low-level vision task with applications in fields such as augmented reality, robotics, and autonomous vehicles.
-Recently, there has been an increased interest in **self-supervised systems** capable of predicting the **3D scene structure** without requiring ground-truth LiDAR training data.
-Automotive data has accelerated the development of these systems, thanks to the vast quantities of data, the ubiquity of stereo camera rigs, and the mostly static world.
-However, the evaluation process has remained focused on only the automotive domain and has been largely unchanged since its inception, relying on simple metrics and sparse LiDAR data.
+In 2024, the field was dominated by generative approaches, with [DepthAnything](https://depth-anything.github.io/) representing the transformer-based solution and [Marigold](https://marigoldmonodepth.github.io/) being a denoising diffusion model based on the popular Text-to-Image LDM Stable Diffusion.
+Even before that, there has been an increased interest in self-supervised systems capable of predicting the 3D scene structure without requiring ground-truth LiDAR training data.
+The automotive industry accelerated the development of these systems thanks to the vast quantities of data and the ubiquity of stereo camera rigs.
+However, the evaluation process has remained focused on in-domain evaluation, relying on simple metrics and sparse LiDAR data.
 
 This workshop seeks to answer the following questions:
 1. How well do networks generalize beyond their training distribution relative to humans?
 2. What metrics provide the most insight into the model's performance? 
-What is the relative weight of simple cues, e.g. height in the image, in networks and humans?
 3. How do the predictions made by the models differ from how humans perceive depth? 
-Are the failure modes the same?
 
 The workshop will consist of two parts: 
 invited <a href="#speakers" target="_self">keynote talks</a> discussing current developments in MDE 
@@ -69,7 +68,7 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 [**Peter Wonka**](https://peterwonka.net/)
 is a full professor of computer science at King Abdullah University of Science and Technology (KAUST).
-Peter Wonka received his doctorate in computer science from the Technical University of Vienna. Additionally, he received a Master of Science in Urban Planning from the same institution. After his PhD, Dr. Wonka worked as a postdoctoral researcher at the Georgia Institute of Technology and as faculty at Arizona State University. His research publications tackle various topics in computer vision, computer graphics, and machine learning. The current research focus is on deep learning, generative models, and 3D shape analysis and reconstruction.
+Peter Wonka received his doctorate in computer science from the Technical University of Vienna. Additionally, he received a Master of Science in Urban Planning from the same institution. After his PhD, Dr. Wonka worked as a postdoctoral researcher at the Georgia Institute of Technology and as faculty at Arizona State University. His research publications tackle various computer vision, computer graphics, and machine learning topics. The current research focuses on deep learning, generative models, and 3D shape analysis and reconstruction.
 
 [**Yiyi Liao**](https://yiyiliao.github.io/)
 is an assistant professor at Zhejiang University. Prior to that, she received her Ph.D. degree from Zhejiang University and subsequently worked as a Postdoc at MPI for Intelligent Systems. Her research interest lies in 3D computer vision and immersive media, including reconstruction, generation, and compression. She received the Best Robot Vision Paper award at ICRA 2024. She serves as a program chair for 3DV 2025 and an area chair for CVPR and NeurIPS. 
@@ -80,7 +79,7 @@ received the Diplomingenieur (M.Tech.) degree in photogrammetry from the Vienna 
 ---
 
 ## :checkered_flag: **Challenge** {#challenge}
-**Teams submitting to the challenge will also be required to submit a description of their method.
+**Teams submitting to the challenge must also submit a description of their method.
 As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method.
 All challenge participants surpassing the performance of the baselines (see below) will be added as authors in this paper.
 Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
@@ -94,9 +93,9 @@ This presentation can be either in-person or virtually.**
 **[[GitHub](https://github.com/toshas/mdec_benchmark)] --- [[Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305)]**
 {: .text-center}
 
-The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
+The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [this benchmark](https://arxiv.org/abs/2208.01489).
 This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices, and more.
-Furthermore, the high-quality, dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [**depth discontinuities**](https://arxiv.org/abs/1805.01328v1).
+Furthermore, the high-quality, dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [depth discontinuities](https://arxiv.org/abs/1805.01328v1).
 
 
 <div class="container">
