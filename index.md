@@ -32,7 +32,7 @@ This workshop seeks to answer the following questions:
 The workshop will consist of two parts: 
 invited <a href="#speakers" target="_self">keynote talks</a> discussing current developments in MDE 
 and a <a href="#challenge" target="_self">challenge</a> organized around a benchmarking procedure 
-using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
+using the [SYNS dataset](https://www.nature.com/articles/srep35805).
 
 ## :newspaper: **News** {#news}
 - **30 Jan 2025 ---** :microphone: **Konrad Schindler** confirmed as keynote speaker.
@@ -79,6 +79,15 @@ received the Diplomingenieur (M.Tech.) degree in photogrammetry from the Vienna 
 ---
 
 ## :checkered_flag: **Challenge** {#challenge}
+
+### ⚡ What’s new in MDEC 2025?
+
+- 📐 New prediction types: The challenge became more accessible thanks to the added support of affine-invariant predictions. Metric and scale-invariant predictions are also automatically supported. Disparity predictions, which were supported in previous challenges, are also accepted.
+
+- 🤗 Pre-trained Model Support: We provide ready-to-use scripts for off-the-shelf methods: Depth Anything V2 (disparity) and Marigold (affine-invariant). Adding new pre-trained methods is very easy.
+
+- 📊 Updated Evaluation Pipeline: The Codalab grader code has been updated to accommodate the newly supported prediction types.
+
 **Teams submitting to the challenge must also submit a description of their method.
 As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method.
 All challenge participants surpassing the performance of the baselines (see below) will be added as authors in this paper.
