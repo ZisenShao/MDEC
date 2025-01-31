@@ -90,23 +90,29 @@ received the Diplomingenieur (M.Tech.) degree in photogrammetry from the Vienna 
 
 ### How to participate?
 
-- Check out the new starter pack [[GitHub](https://github.com/toshas/mdec_benchmark)]. The [mdec_2025](https://github.com/toshas/mdec_benchmark/tree/main/mdec_2025) folder contains scripts generating valid submissions for [Marigold](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/marigold_v1-0/generate.py) (`affine-invariant`) and [Depth Anything v2](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/depth_anything_v2/generate.py) (`disparity`).
+- Check out the new starter pack [GitHub](https://github.com/toshas/mdec_benchmark)]. The [mdec_2025](https://github.com/toshas/mdec_benchmark/tree/main/mdec_2025) folder contains scripts generating valid submissions for [Marigold](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/marigold_v1-0/generate.py) (`affine-invariant`) and [Depth Anything v2](https://github.com/toshas/mdec_benchmark/blob/main/mdec_2025/depth_anything_v2/generate.py) (`disparity`).
+
 - Identify the prediction type of your method and generate a valid submission: `val` split for the "Development" phase and `test` split for the "Final" phase.
+
 - To measure performance with other datasets or troubleshoot scoring issues, refer to the [evaluation code](https://github.com/toshas/mdec_benchmark/blob/main/src/core/evaluator.py).
+
 - Register at the [[CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305)] site, check the submission constraints and extra conditions, submit to the leaderboard.
 
-**Teams submitting to the challenge must also submit a description of their method.
-As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method.
-All challenge participants surpassing the performance of the baselines (see below) will be added as authors in this paper.
-Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
-This presentation can be either in-person or virtually.**
+### Workshop proceedings
 
-> **IMPORTANT:** We have decided to expand this edition of the challenge beyond self-supervised models.
-> This means we are accepting **any** monocular method, e.g., supervised, weakly-supervised, multi-task...
-> The only restriction is that the model cannot be trained on any portion of the SYNS(-Patches) dataset and must
-> make the final depth map prediction using only a single image.
+As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge.
+The following conditions must be met to have the method included in the paper:
 
-**[[GitHub](https://github.com/toshas/mdec_benchmark)] --- [[Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305)]**
+- A method description is provided as a part of the submission;
+- The method surpasses the performance of the baselines (see below) in the leading metric;
+- The method should not be a trivial extension of any of the baselines;
+- All predictions are made using a single input image;
+- The source code of the method is provided;
+
+Selected top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
+This presentation can be either in-person or virtually.
+
+**[[GitHub Starter Pack](https://github.com/toshas/mdec_benchmark)] --- [[CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305)]**
 {: .text-center}
 
 The challenge focuses on evaluating novel MDE techniques on the SYNS-Patches dataset proposed in [this benchmark](https://arxiv.org/abs/2208.01489).
