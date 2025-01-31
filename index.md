@@ -91,7 +91,7 @@ This presentation can be either in-person or virtually.**
 > The only restriction is that the model cannot be trained on any portion of the SYNS(-Patches) dataset and must
 > make the final depth map prediction using only a single image.
 
-**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge](https://codalab.lisn.upsaclay.fr/competitions/17161)]**
+**[[GitHub](https://github.com/toshas/mdec_benchmark)] --- [[Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305)]**
 {: .text-center}
 
 The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
