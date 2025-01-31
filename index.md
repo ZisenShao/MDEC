@@ -35,8 +35,6 @@ invited <a href="#speakers" target="_self">keynote talks</a> discussing current 
 and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
-### More Info Coming Soon!
-
 ## :newspaper: **News** {#news}
 - **30 Jan 2025 ---** :microphone: **Konrad Schindler** confirmed as keynote speaker.
 - **7 Jan 2025 ---** :microphone: **Yiyi Liao** confirmed as keynote speaker.
