@@ -32,7 +32,7 @@ Are the failure modes the same?
 
 The workshop will therefore consist of two parts: 
 invited <a href="#speakers" target="_self">keynote talks</a> discussing current developments in MDE 
-and a <a href="#challenge" target="_self">challenge</a> organized around a novel [**benchmarking procedure**](https://arxiv.org/abs/2208.01489) 
+and a <a href="#challenge" target="_self">challenge</a> organized around a benchmarking procedure 
 using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 
 ## :newspaper: **News** {#news}
@@ -113,7 +113,6 @@ The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/compet
 We have provided a [**GitHub repository**](https://github.com/toshas/mdec_benchmark) containing training and evaluation code for multiple recent SotA approaches to MDE.
 These will serve as a competitive baseline for the challenge and as a starting point for participants.
 The challenge leaderboards use the withheld validation and test sets for **SYNS-Patches**.
-We additionally encourage evaluation on the public [**Kitti Eigen-Benchmark**](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction) dataset.
 
 Submissions will be evaluated on a variety of metrics:
 1. [**Pointcloud reconstruction**](https://arxiv.org/abs/2203.08122): F-Score
