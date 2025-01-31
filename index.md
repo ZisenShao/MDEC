@@ -46,8 +46,11 @@ using the [**SYNS dataset**](https://www.nature.com/articles/srep35805).
 ## :rocket: **Baselines** {#baselines}
 
 This year, we switched to LSE-based alignment between predictions and ground truth maps.
+
 Accordingly, we updated the benchmark with more recent baselines, such as Marigold, Depth Anything v2, and with the winners of the 3rd edition,
-whose performances are reported below:
+whose performances are reported below.
+
+Please note that, to be invited as authors of the meta-paper describing the challenge, participants are now required to achieve a performance above the Marigold and Depth Anything v2 baselines.
 
 |                |      F                                                                | F<br/>(Edges)                                                    | MEA                                                             | RMSE                                                            | Rel                                                              | Acc<br/>(Edges)                                                 | Comp<br/>(Edges)                                                | 
 |----------------|------|------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
@@ -55,7 +58,7 @@ whose performances are reported below:
 | **EVP++**    | 19.66          | 9.02 | 3.20 | 5.49 | 19.03                                                            | 2.66                                                            | 9.28                                                            | 0.7553                                                            | 0.9182                                                            | 0.9661                                                  
 | **Marigold**    | 18.64          | 9.26 | 3.87 | 6.49 | 24.37                                                            | 2.90                                                            | 20.09                                                            | 0.6903                                                            | 0.8860                                                            | 0.9453                                                  
 | **Depth Anything v2**    | 14.34          | 7.94 | 4.16 | 7.94 | 25.48                                                            | 2.64                                                            | 30.05                                                            | 0.6907                                                            | 0.8849                                                            | 0.9469                                                  
-| **Garg's Baselines**    | 11.38          | 6.03 | 4.62 | 7.58 | 31.15                                                            | 4.01                                                            | 41.24                                                            | 0.5842                                                            | 0.8354                                                            | 0.9251
+| **Garg's Baseline**    | 11.38          | 6.03 | 4.62 | 7.58 | 31.15                                                            | 4.01                                                            | 41.24                                                            | 0.5842                                                            | 0.8354                                                            | 0.9251
                                                   
 ---
 
