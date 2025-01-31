@@ -84,7 +84,7 @@ received the Diplomingenieur (M.Tech.) degree in photogrammetry from the Vienna 
 ## :checkered_flag: **Challenge** {#challenge}
 **Teams submitting to the challenge will also be required to submit a description of their method.
 As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method.
-All challenge participants surpassing the performance of the Garg baseline (by jspenmar) will be added as authors in this paper.
+All challenge participants surpassing the performance of the baselines (see below) will be added as authors in this paper.
 Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
 This presentation can be either in-person or virtually.**
 
