@@ -109,6 +109,10 @@ Furthermore, the high-quality, dense ground-truth LiDAR allows for the computati
 2. Identify the prediction type of your method and generate a valid submission: `val` split for the "Development" phase and `test` split for the "Final" phase.
 3. Register at the [CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305) site, check the submission constraints and extra conditions, and submit to the leaderboard.
 
+The phases are open according to the following schedule:
+- "Development": Feb 1 - Mar 1
+- "Final": Mar 1 - Apr 1
+
 ### 📊 Evaluation {#evaluation}
 
 Submissions will be evaluated on a variety of metrics:
