@@ -35,10 +35,11 @@ and a <a href="#challenge" target="_self">challenge</a> organized around a bench
 using the [SYNS dataset](https://www.nature.com/articles/srep35805).
 
 ## :newspaper: **News** {#news}
+- **01 Feb 2025 ---** 🏆 Submissions to the challenge are now open!
 - **30 Jan 2025 ---** :microphone: **Konrad Schindler** confirmed as keynote speaker.
-- **7 Jan 2025 ---** :microphone: **Yiyi Liao** confirmed as keynote speaker.
-- **6 Jan 2025 ---** :microphone: **Peter Wonka** confirmed as keynote speaker.
-- **5 Jan 2025 ---** :tada: Website is live!
+- **07 Jan 2025 ---** :microphone: **Yiyi Liao** confirmed as keynote speaker.
+- **06 Jan 2025 ---** :microphone: **Peter Wonka** confirmed as keynote speaker.
+- **05 Jan 2025 ---** :tada: Website is live!
                                                
 ---
 
@@ -110,8 +111,8 @@ Furthermore, the high-quality, dense ground-truth LiDAR allows for the computati
 3. Register at the [CodaLab Challenge](https://codalab.lisn.upsaclay.fr/competitions/21305) site, check the submission constraints and extra conditions, and submit to the leaderboard.
 
 The phases are open according to the following schedule:
-- "Development": Feb 1 - Mar 1
-- "Final": Mar 1 - Apr 1
+- "Development": Feb 01 - Mar 01
+- "Final": Mar 01 - Mar 21
 
 ### 📊 Evaluation {#evaluation}
 
@@ -142,17 +143,15 @@ Accordingly, we updated the benchmark with more recent baselines, such as Marigo
 
 ### 📚 Workshop proceedings {#proceedings}
 
-As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge.
-The following conditions must be met to have the method included in the paper:
+As part of the CVPR Workshop Proceedings, we will publish a paper summarizing the results of the challenge. The following conditions must be met to have the method included in the paper:
 
-- A method description is provided as a part of the submission;
 - The method surpasses the performance of the baselines in the leading metric (F-Score);
 - The method should not be trivial;
-- All predictions are made using a single input image;
-- The source code of the method is provided;
+- Each prediction is made using a single corresponding input image;
 
-Selected top performers will additionally be invited to present their methods at the workshop.
-The presentation can be held either in person or virtually.
+Once the challenge has finished, we will reach out to the participants meeting the criteria above to request information about their affiliation, a short description of their method, and the method's source code. Participants not providing this information will not be added to the publication; their submission will stay anonymous in the leaderboard.
+
+Selected top performers will also be invited to present their methods at the workshop. The presentation can be held either in person or virtually. This is mandatory; refusal to do so will result in an invalidated submission and removal from the paper.
 
 ---
 
