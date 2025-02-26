@@ -157,7 +157,7 @@ Selected top performers will also be invited to present their methods at the wor
 
 Please feel free to reach out with any questions, concerns, or feedback using the address below — this is the quickest way to contact us. If your topic relates to the challenge, in addition to emailing us, consider opening a discussion on the [CodaLab forum](https://codalab.lisn.upsaclay.fr/forums/21249/).
 
-<img class="img-author" src="assets/imgs/feedback.png" height=32px alt="Feedback address"/>
+<img src="assets/imgs/feedback.png" height=32px alt="Feedback address"/>
 
 ---
 
