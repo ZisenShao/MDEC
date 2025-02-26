@@ -149,9 +149,15 @@ As part of the CVPR Workshop Proceedings, we will publish a paper summarizing th
 - The method should not be trivial;
 - Each prediction is made using a single corresponding input image;
 
-Once the challenge has finished, we will reach out to the participants meeting the criteria above to request information about their affiliation, a short description of their method, and the method's source code. Participants not providing this information will not be added to the publication; their submission will stay anonymous in the leaderboard.
+Once the challenge has finished, we will contact the participants meeting the criteria above to request information about their affiliation, a short description of their method, and the method's source code. Participants not providing this information will not be added to the publication; their submission will stay anonymous in the leaderboard.
 
 Selected top performers will also be invited to present their methods at the workshop. The presentation can be held either in person or virtually. This is mandatory; refusal to do so will result in an invalidated submission and removal from the paper.
+
+## Feedback {#feedback}
+
+Please feel free to reach out with any questions, concerns, or feedback using the address below — this is the quickest way to contact us. If your topic relates to the challenge, in addition to emailing us, consider opening a discussion on the [CodaLab forum](https://codalab.lisn.upsaclay.fr/forums/21249/).
+
+<img class="img-author" src="assets/imgs/feedback.png" height=32px alt="Feedback address"/>
 
 ---
 
