@@ -112,7 +112,6 @@ Congratulations to the challenge winners -- **HRI**!
 | <span style="background-color: rgb(235, 235, 255); color: black;">Depth Anything v2</span>  | <span style="background-color: rgb(235, 235, 255); color: black;"> </span> | <span style="background-color: rgb(235, 235, 255); color: black;">14.34</span>  | <span style="background-color: rgb(235, 235, 255); color: black;">6.72</span>  | <span style="background-color: rgb(235, 235, 255); color: black;">4.84</span>  | <span style="background-color: rgb(235, 235, 255); color: black;">9.13</span>  | <span style="background-color: rgb(235, 235, 255); color: black;">33.57</span>  | <span style="background-color: #E2EEBC; color: black;">2.99</span>  | <span style="background-color: rgb(235, 235, 255); color: black;">35.54</span>  | <span style="background-color: rgb(235, 235, 255); color: black;">66.34</span>  | <span style="background-color: rgb(235, 235, 255); color: black;">86.02</span>  | <span style="background-color: rgb(235, 235, 255); color: black;">92.44</span> |
 | **HCMUS-DepthFusion** | A | 14.20  | 7.81  | 4.90  | 7.96  | 33.55  | 3.32  | 17.66  | 61.09  | 83.90  | 92.21     |
 | **ReadingLS** | | 13.52  | 6.60  | 4.56  | 7.90 | 30.15  | 3.14  | 35.94  | 65.34  | 86.55  | 93.46    |
-_Legend: <span style="background-color: rgb(235, 235, 255); color: black;">**Baselines**</span>; <span style="background-color: rgb(235, 235, 255); color: black;">**Baselines**</span>; A -- affine-invariant predictions_
 
 ---
 
