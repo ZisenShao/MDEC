@@ -113,6 +113,8 @@ Congratulations to the challenge winners -- **HRI**!
 | **HCMUS-DepthFusion** | A | 14.20  | 7.81  | 4.90  | 7.96  | 33.55  | 3.32  | 17.66  | 61.09  | 83.90  | 92.21     |
 | **ReadingLS** | | 13.52  | 6.60  | 4.56  | 7.90 | 30.15  | 3.14  | 35.94  | 65.34  | 86.55  | 93.46    |
 
+_Legend: <span style="background-color: rgb(235, 235, 255); color: black;">**Baselines**</span>; <span style="background-color: rgb(255, 200, 200); color: black;">**3rd MDEC winning team**</span>; A -- affine-invariant predictions_; for each metric we highlight <span style="background-color: #BDE6CD; color: black;">absolute best</span>, <span style="background-color: #E2EEBC; color: black;">second best</span> and <span style="background-color: #FFF8C5; color: black;">third best</span>
+
 ---
 
 ## :checkered_flag: **Challenge** {#challenge}
