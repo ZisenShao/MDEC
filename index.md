@@ -34,7 +34,11 @@ invited <a href="#speakers" target="_self">keynote talks</a> discussing current 
 and a <a href="#challenge" target="_self">challenge</a> organized around a benchmarking procedure 
 using the [SYNS dataset](https://www.nature.com/articles/srep35805).
 
+## :page_facing_up: **Paper**
+[![paper](assets/imgs/paper_cvpr2025.jpeg)](https://arxiv.org/abs/2504.17787)
+
 ## :newspaper: **News** {#news}
+- **24 Apr 2025 ---** :page_facing_up: Challenge paper out https://arxiv.org/abs/2504.17787
 - **01 Feb 2025 ---** 🏆 Submissions to the challenge are now open!
 - **30 Jan 2025 ---** :microphone: **Konrad Schindler** confirmed as keynote speaker.
 - **07 Jan 2025 ---** :microphone: **Yiyi Liao** confirmed as keynote speaker.
