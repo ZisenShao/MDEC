@@ -44,7 +44,37 @@ using the [SYNS dataset](https://www.nature.com/articles/srep35805).
 - **07 Jan 2025 ---** :microphone: **Yiyi Liao** confirmed as keynote speaker.
 - **06 Jan 2025 ---** :microphone: **Peter Wonka** confirmed as keynote speaker.
 - **05 Jan 2025 ---** :tada: Website is live!
+
+---
+
+## :hourglass_flowing_sand: **Important Dates** {#dates}
+- **01 Feb 2025 (00:00 UTC) ---** Challenge Development Phase **Opens** (Val)
+- **01 Mar 2025 (00:00 UTC) ---** Challenge Final Phase **Opens** (Test)
+- **21 Mar 2025 (23:59 UTC) ---** Challenge Submission **Closes**
+- **01 Apr 2025 ---** Method Description Submission
+- **7 May 2025 ---** Invited Talk Notification
+- **12 Jun 2025 ---** MDEC Workshop @ CVPR 2025
                                                
+---
+
+## :calendar: **Schedule** {#schedule}
+
+The workshop will take place on **12 June 2025** from **14:00 -- 18:00 CDT**.
+
+> **NOTE**: Times are shown in **Central Daylight Time**. 
+Please take this into account if you plan to join the workshop virtually.
+
+| Time (PDT)    | Event                                                        |
+|---------------|--------------------------------------------------------------|
+| 14:00 - 14:10 | Introduction                                                 |
+| 14:10 - 14:50 | **Konrad Schindler**                                         |
+| 14:50 - 15:30 | **Peter Wonka**                                              |
+| 15:30 - 16:00 | _Break_                                                      |
+| 16:00 - 16:20 | **Matteo Poggi** -- The Monocular Depth Estimation Challenge |
+| 16:20 - 16:50 | **Challenge Partitipants** -- _(order TBD)_                  |
+| 16:50 - 17:30 | **Yiyi Liao**                                                |
+| 17:30 - 17:40 | Closing Notes                                                |
+
 ---
 
 ## :microphone: **Keynote Speakers** {#speakers}
