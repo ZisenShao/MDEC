@@ -8,6 +8,8 @@ description: MDEC @ CVPR 2025
 [<img class="rounded-rect" src="assets/imgs/cvpr2025.jpg" width="400px" alt="cvpr2025"/>](https://cvpr2025.thecvf.com)
 {: .text-center}
 
+Join us on June 12 **12 June 2025** from **14:00 -- 18:00 CDT** over Zoom from [HERE](https://cvpr.thecvf.com/virtual/2025/workshop/32305) 
+
 <div class="container">
 <img class="img-syns" src="assets/imgs/syns/image_0026.png" alt="image_0026"/>
 <img class="img-syns" src="assets/imgs/syns/image_0254.png" alt="image_0254"/>
