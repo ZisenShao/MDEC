@@ -72,7 +72,10 @@ Please take this into account if you plan to join the workshop virtually.
 | 14:50 - 15:30 | **Peter Wonka**                                              |
 | 15:30 - 16:00 | _Break_                                                      |
 | 16:00 - 16:20 | **Matteo Poggi** -- The Monocular Depth Estimation Challenge |
-| 16:20 - 16:50 | **Challenge Partitipants** -- _(order TBD)_                  |
+| 16:20 - 16:50 | **Shuaihang Wang** – HRI _(Challenge Participant)_           |
+|               | **Mykola Lavreniuk** – Lavreniuk _(Challenge Participant)_   |
+|               | **Zihan Qin** – HIT-AIIA _(Challenge Participant)_           |
+|               | **Zhiqiang Lou** – Insta360-Percep _(Challenge Participant)_ |
 | 16:50 - 17:30 | **Yiyi Liao**                                                |
 | 17:30 - 17:40 | Closing Notes                                                |
 
