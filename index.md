@@ -61,6 +61,7 @@ using the [SYNS dataset](https://www.nature.com/articles/srep35805).
 ## :calendar: **Schedule** {#schedule}
 
 The workshop will take place on **12 June 2025** from **14:00 -- 18:00 CDT**.
+You can join remotely over Zoom from [HERE](https://cvpr.thecvf.com/virtual/2025/workshop/32305) 
 
 > **NOTE**: Times are shown in **Central Daylight Time**. 
 Please take this into account if you plan to join the workshop virtually.
