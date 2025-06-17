@@ -43,6 +43,7 @@ using the [SYNS dataset](https://www.nature.com/articles/srep35805).
 ## :tv: **Video**
 
 #### Coming soon...
+https://drive.google.com/file/d/1Epd3lw2azbGl31XNRlQgb3qigyg8XJp9/view?usp=sharing
 
 ## :newspaper: **News** {#news}
 - **30 May 2025 ---** :calendar: MDEC schedule now available!
