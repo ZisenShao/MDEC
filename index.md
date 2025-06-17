@@ -40,6 +40,10 @@ using the [SYNS dataset](https://www.nature.com/articles/srep35805).
 ## :page_facing_up: **Paper**
 [![paper](assets/imgs/paper_cvpr2025.jpeg)](https://arxiv.org/abs/2504.17787)
 
+## :tv: **Video**
+
+#### Coming soon...
+
 ## :newspaper: **News** {#news}
 - **30 May 2025 ---** :calendar: MDEC schedule now available!
 - **24 Apr 2025 ---** :page_facing_up: Challenge paper out on <a href="https://arxiv.org/abs/2504.17787">arXiv</a>!
