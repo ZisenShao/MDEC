@@ -1,11 +1,8 @@
-#title: The 2nd Monocular Depth Estimation Challenge
-#description: MDEC @ CVPR 2023
-
 theme: jekyll-theme-cayman
 
 markdown: kramdown
 
-baseurl: /MDEC
+baseurl: /RealADSim
 
 # Remove `View on GitHub` & Download buttons
 show_downloads: false
