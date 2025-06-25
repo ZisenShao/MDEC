@@ -23,6 +23,9 @@ Join us on **17 Oct 2025** from **12:00 - 17:45 PDT**
 
 **Introduction:** Given the safety concerns and high costs associated with real-world autonomous driving testing, high-fidelity simulation techniques have become crucial for advancing the capabilities of autonomous systems. While classical driving simulators offer closed-loop evaluation, they still exhibit a domain gap compared to the real world. In contrast, offline-collected driving datasets avoid this gap but struggle to provide closed-loop evaluation. Novel View Synthesis (NVS) has recently opened up new possibilities by enabling closed-loop driving simulation directly from real-world data, which has attracted great attention. This creates a promising alternative for evaluating autonomous driving algorithms in dynamic, interactive environments. However, while NVS-based simulation unlocks new opportunities, there are two key questions that are yet to be answered: 1) How well can we render? 2) How well can we drive?
 
+<img src="assets/imgs/teaser_left.jpg" style="width: 49%; display: inline-block; vertical-align: top;">
+<img src="assets/imgs/teaser_right.jpg" style="width: 49%; display: inline-block; vertical-align: top;">
+
 ## :page_facing_up: **Paper**
 <!-- [![paper](assets/imgs/paper_cvpr2025.jpeg)](https://arxiv.org/abs/2504.17787) -->
 
@@ -67,7 +70,7 @@ Please take this into account if you plan to join the workshop virtually.
 ---
 
 ## :microphone: **Invited Speakers** {#speakers}
-<div class="container">
+<div class="speakers-container">
 <figure>
     <a href="https://yuewang.xyz/">
     <img class="img-author" src="https://yuewang.xyz/assets/img/avatar.png" alt="Yue Wang"/></a>
@@ -279,6 +282,10 @@ Please feel free to reach out with any questions, concerns, or feedback using th
 ---
 
 ## **Competitions** {#competitions}
+
+<img src="assets/imgs/teaser_left.jpg" style="width: 49%; display: inline-block; vertical-align: top;">
+<img src="assets/imgs/teaser_right.jpg" style="width: 49%; display: inline-block; vertical-align: top;">
+
 **Tracks**
 
 We are holding two tracks in the workshop competitions:

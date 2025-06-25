@@ -1,8 +1,8 @@
 ---
 ---
 
-$header-bg-color: #4196ff;
-$header-bg-color-secondary: #ff0805;
+$header-bg-color: #2469bd;
+$header-bg-color-secondary: #0bc3c3;
 $section-headings-color: #4244aa;
 
 @import 'jekyll-theme-cayman';
@@ -53,4 +53,18 @@ a {
 
 .best {
   color: blue
+}
+
+.speakers-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* This will center the speakers in the container */
+  align-items: flex-start;
+  gap: 40px; /* This creates space between the speaker blocks */
+}
+
+.speakers-container figure {
+  margin: 0; /* This removes the extra side margins */
+  width: 175px; /* This sets each speaker block to the width of the image */
+  text-align: center;
 }
