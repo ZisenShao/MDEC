@@ -1,17 +1,17 @@
 ---
 layout: default
-title: 4<sup>th</sup> Monocular Depth Estimation Challenge
-description: MDEC @ CVPR 2025
+title: "Driving Simulation from Real-World Data: How Well Can We Render and Drive?"
+description: RealADSim @ ICCV 2025
 ---
 
-:wave: Welcome to the **4<sup>th</sup> Monocular Depth Estimation Challenge Workshop** organized at :wave: 
-[<img class="rounded-rect" src="assets/imgs/cvpr2025.jpg" width="400px" alt="cvpr2025"/>](https://cvpr2025.thecvf.com)
+:wave: Welcome to the RealADSim Workshop organized at :wave: 
+[<img src="assets/imgs/iccv2025.png" width="400px" alt="iccv2025"/>](https://iccv.thecvf.com/)
 {: .text-center}
 
-Join us on **12 June 2025** from **14:00 -- 18:00 CDT** over Zoom from [HERE](https://cvpr.thecvf.com/virtual/2025/workshop/32305)
+Join us on **17 Oct 2025** from **12:00 - 17:45 PDT**
 {: .text-center}
 
-<div class="container">
+<!-- <div class="container">
 <img class="img-syns" src="assets/imgs/syns/image_0026.png" alt="image_0026"/>
 <img class="img-syns" src="assets/imgs/syns/image_0254.png" alt="image_0254"/>
 <img class="img-syns" src="assets/imgs/syns/image_0698.png" alt="image_0698"/>
@@ -19,113 +19,100 @@ Join us on **12 June 2025** from **14:00 -- 18:00 CDT** over Zoom from [HERE](ht
 <img class="img-syns" src="assets/imgs/syns/depth_0026.png" alt="depth_0026"/>
 <img class="img-syns" src="assets/imgs/syns/depth_0254.png" alt="depth_0254"/>
 <img class="img-syns" src="assets/imgs/syns/depth_0698.png" alt="depth_0698"/>
-</div>
+</div> -->
 
-Monocular depth estimation (**MDE**) is an important low-level vision task with applications in fields such as augmented reality, robotics, and autonomous vehicles.
-In 2024, the field was dominated by generative approaches, with [DepthAnything](https://depth-anything.github.io/) representing the transformer-based solution and [Marigold](https://marigoldmonodepth.github.io/) being a denoising diffusion model based on the popular Text-to-Image LDM Stable Diffusion.
-Even before that, there has been an increased interest in self-supervised systems capable of predicting the 3D scene structure without requiring ground-truth LiDAR training data.
-The automotive industry accelerated the development of these systems thanks to the vast quantities of data and the ubiquity of stereo camera rigs.
-However, the evaluation process has remained focused on in-domain evaluation, relying on simple metrics and sparse LiDAR data.
-
-This workshop seeks to answer the following questions:
-1. How well do networks generalize beyond their training distribution relative to humans?
-2. What metrics provide the most insight into the model's performance? 
-3. How do the predictions made by the models differ from how humans perceive depth? 
-
-The workshop will consist of two parts: 
-invited <a href="#speakers" target="_self">keynote talks</a> discussing current developments in MDE 
-and a <a href="#challenge" target="_self">challenge</a> organized around a benchmarking procedure 
-using the [SYNS dataset](https://www.nature.com/articles/srep35805).
+**Introduction:** Given the safety concerns and high costs associated with real-world autonomous driving testing, high-fidelity simulation techniques have become crucial for advancing the capabilities of autonomous systems. While classical driving simulators offer closed-loop evaluation, they still exhibit a domain gap compared to the real world. In contrast, offline-collected driving datasets avoid this gap but struggle to provide closed-loop evaluation. Novel View Synthesis (NVS) has recently opened up new possibilities by enabling closed-loop driving simulation directly from real-world data, which has attracted great attention. This creates a promising alternative for evaluating autonomous driving algorithms in dynamic, interactive environments. However, while NVS-based simulation unlocks new opportunities, there are two key questions that are yet to be answered: 1) How well can we render? 2) How well can we drive?
 
 ## :page_facing_up: **Paper**
-[![paper](assets/imgs/paper_cvpr2025.jpeg)](https://arxiv.org/abs/2504.17787)
+<!-- [![paper](assets/imgs/paper_cvpr2025.jpeg)](https://arxiv.org/abs/2504.17787) -->
 
 ## :tv: **Video**
 
-#### Coming soon...
+<!-- #### Coming soon... -->
 
 ## :newspaper: **News** {#news}
-- **30 May 2025 ---** :calendar: MDEC schedule now available!
-- **24 Apr 2025 ---** :page_facing_up: Challenge paper out on <a href="https://arxiv.org/abs/2504.17787">arXiv</a>!
-- **01 Feb 2025 ---** 🏆 Submissions to the challenge are now open!
-- **30 Jan 2025 ---** :microphone: **Konrad Schindler** confirmed as keynote speaker.
-- **07 Jan 2025 ---** :microphone: **Yiyi Liao** confirmed as keynote speaker.
-- **06 Jan 2025 ---** :microphone: **Peter Wonka** confirmed as keynote speaker.
-- **05 Jan 2025 ---** :tada: Website is live!
+- **11 Mar 2025 ---** :rocket: Workshop website is launched.
+- **11 Mar 2025 ---** :gift: POETS write: Hello ICCV' 25!
 
 ---
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
-- **01 Feb 2025 (00:00 UTC) ---** Challenge Development Phase **Opens** (Val)
+<!-- - **01 Feb 2025 (00:00 UTC) ---** Challenge Development Phase **Opens** (Val)
 - **01 Mar 2025 (00:00 UTC) ---** Challenge Final Phase **Opens** (Test)
 - **21 Mar 2025 (23:59 UTC) ---** Challenge Submission **Closes**
 - **01 Apr 2025 ---** Method Description Submission
 - **7 May 2025 ---** Invited Talk Notification
-- **12 Jun 2025 ---** MDEC Workshop @ CVPR 2025
+- **12 Jun 2025 ---** MDEC Workshop @ CVPR 2025 -->
                                                
 ---
 
 ## :calendar: **Schedule** {#schedule}
 
-The workshop will take place on **12 June 2025** from **14:00 -- 18:00 CDT**.
-You can join remotely over Zoom from [HERE](https://cvpr.thecvf.com/virtual/2025/workshop/32305) 
+The workshop will take place on **17 Oct 2025** from **12:00 - 17:45 PDT**.
 
-> **NOTE**: Times are shown in **Central Daylight Time**. 
+> **NOTE**: Times are shown in **Pacific Daylight Time**. 
 Please take this into account if you plan to join the workshop virtually.
 
 | Time (PDT)    | Event                                                        |
 |---------------|--------------------------------------------------------------|
-| 14:00 - 14:10 | Introduction                                                 |
-| 14:10 - 14:50 | **Konrad Schindler**                                         |
-| 14:50 - 15:30 | **Peter Wonka**                                              |
-| 15:30 - 16:00 | _Break_                                                      |
-| 16:00 - 16:20 | **Matteo Poggi** -- The Monocular Depth Estimation Challenge |
-| 16:20 - 16:50 | **Shuaihang Wang** – HRI _(Challenge Participant)_           |
-|               | **Mykola Lavreniuk** – Lavreniuk _(Challenge Participant)_   |
-|               | **Zihan Qin** – HIT-AIIA _(Challenge Participant)_           |
-| 16:50 - 17:30 | **Yiyi Liao**                                                |
-| 17:30 - 17:40 | Closing Notes                                                |
+| 13:00 - 13:10 | Welcome & Introduction                                       |
+| 13:10 - 13:40 | Keynote-1: **Yue Wang**                                      |
+| 13:40 - 14:10 | Keynote-2: **Peter Kontschieder**                            |
+| 14:10 - 15:10 | Awards / Challenge winner Presentation                       |
+| 15:10 - 16:10 | Poster Session / Tea break                                   |
+| 16:10 - 16:40 | Keynote-3: **Yuexin Ma**                                     |
+| 16:40 - 17:10 | Keynote-4: **Jyh-Jing Hwang**                                |
+| 17:10 - 17:20 | Closing remarks                                              |
 
 ---
 
-## :microphone: **Keynote Speakers** {#speakers}
+## :microphone: **Invited Speakers** {#speakers}
 <div class="container">
 <figure>
-    <a href="https://peterwonka.net/">
-    <img class="img-author" src="https://peterwonka.net/Pics/Peter2020.jpg" alt="Peter Wonka"/></a>
-    <b><br><a href="https://peterwonka.net/">Peter Wonka</a>
-    <br>Full Professor<br>KAUST</b>
+    <a href="https://yuewang.xyz/">
+    <img class="img-author" src="https://yuewang.xyz/assets/img/avatar.png" alt="Yue Wang"/></a>
+    <b><br><a href="https://yuewang.xyz/">Yue Wang</a>
+    <br>Assistant Professor<br>University of Southern California</b>
 </figure>
 
 <figure>
-    <a href="https://yiyiliao.github.io/">
-    <img class="img-author" src="https://yiyiliao.github.io/assets/img/prof_pic.jpg" alt="Yiyi Liao"/></a>
-    <b><br><a href="https://yiyiliao.github.io/">Yiyi Liao</a>
-    <br>Assistant Professor<br>Zhejiang University</b>
+    <a href="https://yuexinma.me/">
+    <img class="img-author" src="https://yuexinma.me/zxg_css/self.jpg" alt="​Yuexin Ma"/></a>
+    <b><br><a href="https://yuexinma.me/">​Yuexin Ma</a>
+    <br>Assistant Professor<br>ShanghaiTech University</b>
 </figure>
 
 <figure>
-    <a href="https://prs.igp.ethz.ch/group/people/person-detail.schindler.html">
-    <img class="img-author" src="https://prs.igp.ethz.ch/group/people/person-detail.person_image.jpeg?persid=MTQzOTg2" alt="Konrad Schindler"/></a>
-    <b><br><a href="https://prs.igp.ethz.ch/group/people/person-detail.schindler.html">Konrad Schindler</a>
-    <br>Full Professor<br>ETH Zurich</b>
+    <a href="https://jyhjinghwang.github.io/">
+    <img class="img-author" src="https://jyhjinghwang.github.io/imgs/profile.jpeg" alt="Jyh-Jing Hwang"/></a>
+    <b><br><a href="https://jyhjinghwang.github.io/">Jyh-Jing Hwang</a>
+    <br>Research Scientist<br>Waymo</b>
+</figure>
+
+<figure>
+    <a href="https://www.linkedin.com/in/peter-kontschieder-2a6410134/">
+    <img class="img-author" src="assets/imgs/authors/peter_kontschieder.jpeg" alt="Peter Kontschieder"/></a>
+    <b><br><a href="https://www.linkedin.com/in/peter-kontschieder-2a6410134/">Peter Kontschieder</a>
+    <br>Research Director<br>Meta</b>
 </figure>
 </div>
 
-[**Peter Wonka**](https://peterwonka.net/)
-is a full professor of computer science at King Abdullah University of Science and Technology (KAUST).
-Peter Wonka received his doctorate in computer science from the Technical University of Vienna. Additionally, he received a Master of Science in Urban Planning from the same institution. After his PhD, Dr. Wonka worked as a postdoctoral researcher at the Georgia Institute of Technology and as faculty at Arizona State University. His research publications tackle various computer vision, computer graphics, and machine learning topics. The current research focuses on deep learning, generative models, and 3D shape analysis and reconstruction.
+[**Yue Wang**](https://yuewang.xyz/)
+Yue Wang is an Assistant Professor at USC CS, leading the Geometry, Vision, and Learning Lab. His current focus includes simulation, perception, and decision making. He obtained the Ph.D. degree from MIT EECS in 2022.
 
-[**Yiyi Liao**](https://yiyiliao.github.io/)
-is an assistant professor at Zhejiang University. Prior to that, she received her Ph.D. degree from Zhejiang University and subsequently worked as a Postdoc at MPI for Intelligent Systems. Her research interest lies in 3D computer vision and immersive media, including reconstruction, generation, and compression. She received the Best Robot Vision Paper award at ICRA 2024. She serves as a program chair for 3DV 2025 and an area chair for CVPR and NeurIPS. 
+[**​Yuexin Ma**](https://yuexinma.me/)
+Yuexin Ma is an Assistant Professor in SIST, Shang- haiTech University. She received the PhD degree from the University of Hong Kong in 2019. Her current research focuses on scene understanding, multi-modal learning, autonomous driving, and embodied AI.
 
-[**Konrad Schindler**](https://prs.igp.ethz.ch/group/people/person-detail.schindler.html)
-received the Diplomingenieur (M.Tech.) degree in photogrammetry from the Vienna University of Technology, Vienna, Austria, in 1999 and the Ph.D. degree from the Graz University of Technology, Graz, Austria, in 2003. He was a Photogrammetric Engineer in the private industry and held researcher positions at the Computer Graphics and Vision Department, Graz University of Technology, the Digital Perception Laboratory, Monash University, Melbourne, VIC, Australia, and the Computer Vision Laboratory, ETH Zürich, Zürich, Switzerland. He was an Assistant Professor of Image Understanding with TU Darmstadt, Darmstadt, Germany, in 2009. Since 2010, he has been a Tenured Professor of Photogrammetry and Remote Sensing with ETH Zürich. His research interests include computer vision, photogrammetry, and remote sensing, with a focus on image understanding and information extraction reconstruction. Dr. Schindler has been serving as an Associate Editor of the Journal of Photogrammetry and Remote Sensing of the International Society for Photogrammetry and Remote Sensing (ISPRS) since 2011, and previously served as an Associate Editor of the Image and Vision Computing Journal from 2011 to 2016. He was the TC President of the ISPRS from 2012 to 2016.
+[**Jyh-Jing Hwang**](https://jyhjinghwang.github.io/)
+Jyh-Jing Hwang is a Research Scientist at Waymo Research, a technical lead for end-to-end autonomous driving. He received his Ph.D. degree in Computer and Information Science from the University of Pennsylvania.
+
+[**Peter Kontschieder**](https://www.linkedin.com/in/peter-kontschieder-2a6410134/)
+Peter Kontschieder is the Director of Research at Meta. He received his PhD in 2013 from Graz University of Technology. His research interests include photorealistic 3D scene reconstruction, semantic scene understanding, image-based 3D modeling, and generative models for 3D synthesis.
 
 ---
 
 ## :trophy: **Challenge Winners** {#winners}
-
+<!-- 
 Congratulations to the challenge winners -- **HRI**!
 
 |                |      | F&nbsp;(↑)                                                                | F&nbsp;(↑)<br/>(Edges)                                                    | MAE&nbsp;(↓)                                                             | RMSE&nbsp;(↓)                                                            | AbsRel&nbsp;(↓)                                                              | Acc&nbsp;(↑)<br/>(Edges)                                                 | Comp&nbsp;(↓)<br/>(Edges)                                                | δ<1.25&nbsp;(↑)                                                | δ<1.25^2&nbsp;(↑)                                                | δ<1.25^3&nbsp;(↑)                                                | 
@@ -158,13 +145,13 @@ Congratulations to the challenge winners -- **HRI**!
 | **HCMUS-DepthFusion** | A | 14.20  | 7.81  | 4.90  | 7.96  | 33.55  | 3.32  | 17.66  | 61.09  | 83.90  | 92.21     |
 | **ReadingLS** | | 13.52  | 6.60  | 4.56  | 7.90 | 30.15  | 3.14  | 35.94  | 65.34  | 86.55  | 93.46    |
 
-_Legend: <span style="background-color: rgb(235, 235, 255); color: black;">**Baselines**</span>; <span style="background-color: rgb(255, 200, 200); color: black;">**3rd MDEC winning team**</span>; A -- affine-invariant predictions_; for each metric we highlight <span style="background-color: #BDE6CD; color: black;">**absolute best**</span>, <span style="background-color: #E2EEBC; color: black;">second best</span> and <span style="background-color: #FFF8C5; color: black;">third best</span>
+_Legend: <span style="background-color: rgb(235, 235, 255); color: black;">**Baselines**</span>; <span style="background-color: rgb(255, 200, 200); color: black;">**3rd MDEC winning team**</span>; A -- affine-invariant predictions_; for each metric we highlight <span style="background-color: #BDE6CD; color: black;">**absolute best**</span>, <span style="background-color: #E2EEBC; color: black;">second best</span> and <span style="background-color: #FFF8C5; color: black;">third best</span> -->
 
 ---
 
 ## :checkered_flag: **Challenge** {#challenge}
 
-The challenge focuses on evaluating novel MDE techniques on the [SYNS-Patches dataset](https://arxiv.org/abs/2208.01489).
+<!-- The challenge focuses on evaluating novel MDE techniques on the [SYNS-Patches dataset](https://arxiv.org/abs/2208.01489).
 This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices, and more.
 Furthermore, the high-quality, dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [depth discontinuities](https://arxiv.org/abs/1805.01328v1).
 
@@ -240,65 +227,60 @@ Selected top performers will also be invited to present their methods at the wor
 
 Please feel free to reach out with any questions, concerns, or feedback using the address below — this is the quickest way to contact us. If your topic relates to the challenge, in addition to emailing us, consider opening a discussion on the [CodaLab forum](https://codalab.lisn.upsaclay.fr/forums/21249/).
 
-<img src="assets/imgs/feedback.png" height=32px alt="Feedback address"/>
+<img src="assets/imgs/feedback.png" height=32px alt="Feedback address"/> -->
 
 ---
 
 ## 🤵 **Organizers** {#organizers}
 <div class="container">
 <figure>
-    <a href="https://www.obukhov.ai/">
-    <img class="img-author" src="assets/imgs/authors/anthon.png" alt="Anton Obukhov"/></a>
-    <b><br><a href="https://www.obukhov.ai/">Anton Obukhov</a>
-    <br>Principal Research Scientist<br>Huawei Research Center Zürich</b>
+    <a href="https://yiyiliao.github.io/">
+    <img class="img-author" src="https://yiyiliao.github.io/assets/img/prof_pic.jpg" alt="Yiyi Liao"/></a>
+    <b><br><a href="https://yiyiliao.github.io/">Yiyi Liao</a>
+    <br>Zhejiang University</b>
 </figure>
     
 <figure>
-    <a href="https://www.linkedin.com/in/rsarora/">
-    <img class="img-author" src="assets/imgs/authors/ripudaman_arora.jpeg" alt="Ripudaman Singh Arora"/></a>
-    <b><br><a href="https://www.linkedin.com/in/rsarora/">Ripudaman Singh Arora</a>
-    <br>Principal ML Researcher<br>Blue River Technology</b>
+    <a href="https://hyzhou404.github.io/">
+    <img class="img-author" src="assets/imgs/authors/hongyu_zhou.jpg" alt="Hongyu Zhou"/></a>
+    <b><br><a href="https://hyzhou404.github.io/">Hongyu Zhou</a>
+    <br>Zhejiang University</b>
 </figure>
 
 <figure>
-    <a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">
-    <img class="img-author" src="assets/imgs/authors/jaime_spencer.jpg" alt="Jaime Spencer"/></a>
-    <b><br><a href="https://www.surrey.ac.uk/people/jaime-spencer-martin">Jaime Spencer</a>
-    <br>Data Engineer<br>Oxa</b>
+    <a href="https://yimingli-page.github.io/">
+    <img class="img-author" src="assets/imgs/authors/yiming_li.jpeg" alt="Yiming Li"/></a>
+    <b><br><a href="https://yimingli-page.github.io/">Yiming Li</a>
+    <br>NVIDIA</b>
 </figure>
 
 <figure>
-    <a href="https://fabiotosi92.github.io/">
-    <img class="img-author" src="assets/imgs/authors/fabio_tosi.jpeg" alt="Fabio Tosi"/></a>
-    <b><br><a href="https://fabiotosi92.github.io/">Fabio Tosi</a>
-    <br>Junior Assistant Professor<br>University of Bologna</b>
+    <a href="https://openreview.net/profile?id=~Jiansheng_Wei1">
+    <img class="img-author" src="assets/imgs/authors/jiansheng_wei.png" alt="Jiansheng Wei"/></a>
+    <b><br><a href="https://openreview.net/profile?id=~Jiansheng_Wei1">Jiansheng Wei</a>
+    <br>Huawei</b>
 </figure>
 
 <figure>
-    <a href="https://mattpoggi.github.io/">
-    <img class="img-author" src="assets/imgs/authors/matteo_poggi.jpeg" alt="Matteo Poggi"/></a>
-    <b><br><a href="https://mattpoggi.github.io/">Matteo Poggi</a>
-    <br>Tenure-Track Assistant Professor<br>University of Bologna</b>
+    <a href="https://ieeexplore.ieee.org/author/37859161500">
+    <img class="img-author" src="assets/imgs/authors/hongbo_zhang.jpg" alt="Hongbo Zhang"/></a>
+    <b><br><a href="https://ieeexplore.ieee.org/author/37859161500">Hongbo Zhang</a>
+    <br>Huawei</b>
 </figure>
 
 <figure>
-    <a href="https://www.oii.ox.ac.uk/people/profiles/chris-russell/">
-    <img class="img-author" src="assets/imgs/authors/chris_russell.jpeg" alt="Chris Russell"/></a>
-    <b><br><a href="https://www.oii.ox.ac.uk/people/profiles/chris-russell/">Chris Russell</a>
-    <br>Associate Professor<br>Oxford Internet Institute</b>
-</figure>
-
-<figure>
-    <a href="http://personalpages.surrey.ac.uk/s.hadfield/">
-    <img class="img-author" src="assets/imgs/authors/simon_hadfield.png" alt="Simon Hadfield"/></a>
-    <b><br><a href="http://personalpages.surrey.ac.uk/s.hadfield/">Simon Hadfield</a>
-    <br>Associate Professor<br>University of Surrey</b>
-</figure>
-
-<figure>
-    <a href="https://personalpages.surrey.ac.uk/r.bowden/">
-    <img class="img-author" src="assets/imgs/authors/richard_bowden.png" alt="Richard Bowden"/></a>
-    <b><br><a href="https://personalpages.surrey.ac.uk/r.bowden/">Richard Bowden</a>
-    <br>Professor<br>University of Surrey</b>
+    <a href="https://www.cvlibs.net/">
+    <img class="img-author" src="assets/imgs/authors/Andreas.jpg" alt="Andreas Geiger"/></a>
+    <b><br><a href="https://www.cvlibs.net/">Andreas Geiger</a>
+    <br>University of Tübingen</b>
 </figure>
 </div>
+
+---
+
+## **Competitions** {#competitions}
+**Tracks**
+
+We are holding two tracks in the workshop competitions:
+- Track 1: Extrapolated Urban Novel View Synthesis
+- Track 2: Autonomous Driving in a Photorealistic Simulator
